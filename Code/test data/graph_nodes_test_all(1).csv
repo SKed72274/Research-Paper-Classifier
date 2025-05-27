@@ -1,0 +1,4077 @@
+,Node ID,Degree,Paper ID
+0,Tabular Synthetic Data,1,P085
+1,Privacy Evaluation,1,P085
+2,Synthetic Data,8,P085
+3,Privacy Protection,1,P085
+4,Analytic Utility,1,P085
+5,Sd,3,P085
+6,Synthetic_Data,3,P085
+7,Data_Science_Tasks,1,P085
+8,Generator,3,P085
+9,Database,5,P085
+10,Data_Subject,1,P085
+11,Attribute,3,P085
+12,Categorical_Attribute,1,P085
+13,Numerical_Attribute,1,P085
+14,Row,1,P085
+15,Record,1,P085
+16,Seed_Based_Generator,1,P085
+17,Gans,1,P085
+18,Vaes,1,P085
+19,Singling Out,1,P085
+20,Linkability,1,P085
+21,Inference,1,P085
+22,Data Properties,1,P085
+23,Model And Data Properties,1,P085
+24,Improperly Trained Generators,1,P085
+25,High - Throughput Genomic Sequencing,16,P006
+26,Marine Ecology,3,P006
+27,Genomic Material,1,P006
+28,Plankton,1,P006
+29,Large Marine Mammals,1,P006
+30,Species,2,P006
+31,Environments,1,P006
+32,Human Activities,1,P006
+33,Advanced Sequencing Technologies,1,P006
+34,Computational Tools,1,P006
+35,Genomic Data,1,P006
+36,Biodiversity,1,P006
+37,Ecological Roles,1,P006
+38,Evolutionary Histories,1,P006
+39,Marine Environmental Dna (Edna),1,P006
+40,Conservation Efforts,1,P006
+41,Management Of Marine Resources,1,P006
+42,Music Theory,2,P006
+43,Genetic Code,3,P006
+44,Musical Compositions,1,P006
+45,Harmonies,1,P006
+46,Discordances,1,P006
+47,Balance,3,P006
+48,Chaos,1,P006
+49,High-Throughput Genomic Sequencing,1,P006
+50,Marine Biology,17,P006
+51,Coral,1,P006
+52,Zooxanthellae,1,P006
+53,Deep-Sea Fish,1,P006
+54,Genes,1,P006
+55,Genomes,1,P006
+56,Metabolic Pathways,1,P006
+57,Marine Ecosystems,3,P006
+58,Symbiotic Relationships,1,P006
+59,Predatory Behaviors,1,P006
+60,Biochemical Processes,1,P006
+61,Diversity,1,P006
+62,Artificial Intelligence,1,P006
+63,Genomic Sequencing Data,1,P006
+64,Known Marine Biodiversity,1,P006
+65,Understanding,3,P006
+66,Research,1,P006
+67,Conservation,1,P006
+68,Sustainable Use,1,P006
+69,Marine Resources,1,P006
+70,Hidden Patterns,6,P006
+71,Structures,1,P006
+72,Genomic Signatures,1,P006
+73,Marine Organisms,1,P006
+74,Subte Cues,1,P006
+75,Signals,1,P006
+76,Complex Behaviors,1,P006
+77,Machine Learning,3,P127
+78,Personal Privacy,6,P127
+79,Surveillance Technologies,1,P127
+80,Machine Learning Experts,2,P127
+81,Human - Computer Interaction ( Hci ) Researchers,1,P127
+82,Facial Recognition Systems,2,P127
+83,Targeted Advertising,1,P127
+84,Predictive Policing Algorithms,1,P127
+85,Machine Learning Systems,9,P127
+86,Advocates For Increased Collaboration Between The Machine Learning Community,4,P127
+87,Experts In The Field Of Human - Computer Interaction ( Hci ),1,P127
+88,Data,1,P127
+89,Training,1,P127
+90,Operation,1,P127
+91,Predictions,1,P127
+92,Obfuscation,2,P127
+93,Withholding Of Data,1,P127
+94,Public Pressure,1,P127
+95,Regulation,1,P127
+96,Computer Scientists,1,P127
+97,Adversarial Examples,6,P127
+98,Modification,1,P127
+99,Misclassification,1,P127
+100,Facial Recognition,5,P127
+101,Data Poisoning Attacks,3,P127
+102,Deep Learning Models,1,P127
+103,Automated License Plate Readers,1,P127
+104,Web Tracking,1,P127
+105,Loyalty Card - Based Tracking,2,P127
+106,Unusual Makeup,1,P127
+107,Hci Researchers,1,P127
+108,Activists,1,P127
+109,Data Strikes,1,P127
+110,Digital Boycott,1,P127
+111,Protest Non-Use,1,P127
+112,Surveillance Systems,3,P127
+113,Technology Companies,1,P127
+114,Audits,2,P127
+115,Sentinel-2 Imagery,2,P044
+116,Wrf-Hrrr Computed Dataset,8,P044
+117,Usda Crop Dataset,2,P044
+118,Cropnet,2,P044
+119,Crop Yield Prediction,1,P044
+120,Cropnet Dataset,9,P044
+121,Normalized Difference Vegetation Index (Ndvi),1,P044
+122,Sentinel-2 Mission,1,P044
+123,Weather Research & Forecasting Model (Wrf),1,P044
+124,High-Resolution Rapid Refresh (Hrrr),1,P044
+125,United States Department Of Agriculture (Usda),1,P044
+126,Corn,2,P044
+127,Cotton,1,P044
+128,Soybean,1,P044
+129,Winter Wheat,1,P044
+130,Chain-Of-Thought Prompting,13,P008
+131,Large Language Models,1,P008
+132,Intricate Reasoning Tasks,2,P008
+133,Complex Problems,2,P008
+134,Simpler Sub-Problems,3,P008
+135,In-Context Learning,3,P008
+136,Compositional Functions,1,P008
+137,Multi-Layer Perceptrons,4,P008
+138,Sample Complexity,1,P008
+139,Training Examples,3,P008
+140,Accuracy,1,P008
+141,Approximation Power,2,P008
+142,Cot Prompting,1,P008
+143,Llm Development,2,P008
+144,Pretraining Phase,2,P008
+145,Structured Reasoning,1,P008
+146,Generalization Capabilities,4,P008
+147,Overfitting,2,P008
+148,Unseen Data,4,P008
+149,Interpretable Solution Space,2,P008
+150,Efficient Solution Space,1,P008
+151,Complex Tasks,1,P008
+152,Multiple Reasoning Steps,1,P008
+153,Chain - Of - Thought ( Cot ) Prompting,1,P008
+154,Large Language Models ( Llms ),1,P008
+155,In - Context Learning ( Icl ),1,P008
+156,Multi - Layer Perceptrons ( Mlps ),11,P008
+157,Question Answering,1,P008
+158,Commonsense Reasoning,1,P008
+159,Efficient Llm Training,1,P008
+160,Llm Deployment,1,P008
+161,Flumplenook Theory,1,P056
+162,Groobly Logic Circuits,2,P056
+163,Frivolous Computational Models,2,P056
+164,19Th Century France,2,P056
+165,Bouillabaisse,2,P056
+166,Marseille,1,P056
+167,Thromble Widgets,1,P056
+168,Digital Circuitry,2,P056
+169,Blue,2,P056
+170,Tuesday,1,P056
+171,Floristry,1,P056
+172,Succulent Arrangement,2,P056
+173,Flazzle Patterns,2,P056
+174,Jimjim Theory,15,P056
+175,Digital Signal Processing,2,P056
+176,Flibulous Signal,1,P056
+177,Leap Years,2,P056
+178,Wizzle Widgets,1,P056
+179,Thromble Noise,3,P056
+180,Flumplenook Interference,1,P056
+181,Flazzle,1,P056
+182,Wumwum,2,P056
+183,Whimsy Whirlybirds,2,P056
+184,Flumplenook Space,1,P056
+185,Computational Models,1,P056
+186,Whimwham,2,P056
+187,Logic Circuit Design,1,P056
+188,Digital Circuit Design,1,P056
+189,Wizzle Whim,6,P056
+190,Thromblewidgets,1,P056
+191,Florid Extravagance,1,P056
+192,Mundane Simplicity,1,P056
+193,Logic Circuits,1,P056
+194,19Th - Century French Literary Movements,1,P056
+195,Symbolism,1,P056
+196,Mallarme,4,P056
+197,Un Coup De Des,1,P056
+198,Digital Electronics,2,P056
+199,Existentialism,1,P056
+200,Nonlinear Dynamics,4,P056
+201,Chaos Theory,1,P056
+202,Xor Gate,1,P056
+203,Platonic Solids,1,P056
+204,Truth Table,2,P056
+205,Principles Of Ancient Greek Philosophy,2,P056
+206,Superposition,1,P056
+207,Entanglement,2,P056
+208,Human Brain,2,P056
+209,Modern Computers,1,P056
+210,Celestial Bodies,1,P056
+211,Newtonian Mechanics,2,P056
+212,Gravitational Forces,2,P056
+213,Universe,1,P056
+214,Parallel Universes,1,P056
+215,Science Fiction,2,P056
+216,"Novel "" ",2,P056
+217,Trajectory Forecasting,1,P015
+218,3D Perception,4,P015
+219,Autonomous Driving,1,P015
+220,Computer Vision,1,P015
+221,Apolloscape Dataset,1,P015
+222,Positioning,7,P015
+223,3D Car,1,P015
+224,Instancecomprehension,1,P015
+225,Stereo,1,P015
+226,Inpainting,1,P015
+227,Dataset,3,P015
+228,Online Assessment Platform,1,P015
+229,Usertoolkit,1,P015
+230,Data Gathering Vehicle,5,P015
+231,Traffic Information,1,P015
+232,Camera Captured Images,1,P015
+233,Lidar Generated Point Clouds,1,P015
+234,Urban Settings,1,P015
+235,Peak Traffic Times,1,P015
+236,Camera Imagery,1,P015
+237,3D Point Cloud Data,1,P015
+238,Paths Of Traffic Agents,1,P015
+239,Lidar 'S Operational Area,1,P015
+240,150 Minutes Of Sequential Information,1,P015
+241,Urban Roadways,1,P015
+242,Prediction,1,P015
+243,Planning,2,P015
+244,Simulation,1,P015
+245,Variety Of Traffic Agents,1,P015
+246,Trajectory Prediction Challenge,3,P015
+247,2 Frames Per Second,1,P015
+248,Frame Identifier,1,P015
+249,Kanade-Lucas-Tomasi Algorithm,1,P087
+250,Lucas - Kanade,2,P087
+251,Poor Lighting Conditions,3,P087
+252,Noisy Video,1,P087
+253,Transient Occlusions,1,P087
+254,Feature Points,1,P087
+255,Three Dimensional Geometry,1,P087
+256,Low - Rank Structure,2,P087
+257,Single Rigid Object,1,P087
+258,Affine Camera Model,1,P087
+259,Non - Rigidmotion,2,P087
+260,Perspective Camera,1,P087
+261,Cohort Of Tracked Features,1,P087
+262,Non - Linear Single Feature Tracking Framework,1,P087
+263,Low - Rank Regularization Penalty,1,P087
+264,Tracking Optimization Problem,1,P087
+265,Dynamic Scenes,1,P087
+266,Slidingwindow,1,P087
+267,John Doe,1,P087
+268,Multiple Moving Rigid Objects,1,P087
+269,Set Of Trajectories,1,P087
+270,Low Rank,2,P087
+271,Union Of A Few Low Rank Subspaces,2,P087
+272,Unknown,2,P087
+273,Feature Tracking,1,P087
+274,R N N N N N,1,P087
+275,Notation,1,P087
+276,Feature,2,P087
+277,Location Z1,2,P087
+278,Given × Frame,2,P087
+279,Video,1,P087
+280,Template T,2,P087
+281,N × N Sub - Image,1,P087
+282,Center Pixel,1,P087
+283,Integer1Ω,1,P087
+284,T,2,P087
+285,U,1,P087
+286,Classical Formulation Of The Single - Feature Tracking Problem,1,P087
+287,Translation,2,P087
+288,Distance,2,P087
+289,Single - Feature Energy1Xfunction,2,P087
+290,C ( ) ,2,P087
+291,X,1,P087
+292,Protein Synthesis,24,P048
+293,Cheese Consumption,1,P048
+294,Intergalactic Travel,1,P048
+295,Mrna,1,P048
+296,Polypeptide Chain,1,P048
+297,Trombone Playing,1,P048
+298,Clouds,1,P048
+299,Disco Music,1,P048
+300,Harmonica Playing,1,P048
+301,Birds,1,P048
+302,Flamingo,1,P048
+303,Door Knobs,1,P048
+304,Orchids,1,P048
+305,Fungi,1,P048
+306,Jazz Music,1,P048
+307,Stock Market,1,P048
+308,Tea Ceremony,1,P048
+309,Flumplenook,1,P048
+310,Flutterbie,1,P048
+311,Zorgon,1,P048
+312,Zorgon Particles,1,P048
+313,Temple Of The Golden Helix,1,P048
+314,Zorgonology,1,P048
+315,Helixology,1,P048
+316,Culinary Science,1,P048
+317,Deepsim,2,P042
+318,Euclidean Distance (Mse),4,P042
+319,Patch-Wisenormalized Cross-Correlation (Ncc),1,P042
+320,Ground Truth Transformations,1,P042
+321,Semantic Features,2,P042
+322,Image Registration,1,P042
+323,Image Generation,1,P042
+324,Deep Similarity Metrics,1,P042
+325,Supervised Information,1,P042
+326,Deep Similarity Metric,2,P042
+327,Semantic Feature Representations,2,P042
+328,Feature Extractor,4,P042
+329,Surrogate Segmentation Task,1,P042
+330,"Localized, Specific Features",1,P042
+331,"Abstract, Global Features",1,P042
+332,Sustainable Urban Transportation,5,P076
+333,Autonomous Vehicles,18,P076
+334,Environmental Degradation,1,P076
+335,Efficient Transportation Systems,1,P076
+336,Infrastructure Requirements,1,P076
+337,Public Acceptance,2,P076
+338,Regulatory Frameworks,1,P076
+339,Chaos Theory,1,P076
+340,Traffic Congestion,2,P076
+341,Job Displacement,2,P076
+342,Urban Planning,1,P076
+343,Environmental Sustainability,1,P076
+344,Liability,4,P076
+345,Insurance,1,P076
+346,Human Drivers,1,P076
+347,Transportation Infrastructure,1,P076
+348,Virtual Transportation Networks,1,P076
+349,Human Agency,1,P076
+350,Decision Making,1,P076
+351,Kaplan,3,P012
+352,Hoffmann,2,P012
+353,Chinchilla,1,P012
+354,Scaling Laws,3,P012
+355,Transformers,7,P012
+356,Parameter Count,1,P012
+357,Training Tokens,1,P012
+358,Compute Budget,4,P012
+359,Loss,1,P012
+360,Kaplan_Et_Al_2020,4,P012
+361,Hoffmann_Et_Al_2022,2,P012
+362,Kaplan Et Al.,2,P012
+363,Hoffmann Et Al.,1,P012
+364,Training Compute,1,P012
+365,Number Of Parameters,1,P012
+366,Powerlaw,4,P012
+367,Dsds,15,P118
+368,Cross-Lingual,1,P118
+369,Distant Supervision,1,P118
+370,Low-Resource Languages,1,P118
+371,Part-Of-Speech (Pos) Taggers,1,P118
+372,Annotation Projection,2,P118
+373,Instance Selection,2,P118
+374,Tag Dictionaries,1,P118
+375,Morphological Lexicons,1,P118
+376,Distributed Representations,1,P118
+377,Gold Annotated Data,1,P118
+378,Europarl,1,P118
+379,Wtc,1,P118
+380,Aries,1,P118
+381,Wik-Tionary,1,P118
+382,Unimorph,1,P118
+383,Llama,1,P064
+384,Vicuna,4,P064
+385,Opt,1,P064
+386,Gpt-3.5,1,P064
+387,Our Approach,2,P064
+388,Large Language Models,3,P064
+389,Open-Source Models,2,P064
+390,Self-Instruction Framework,7,P064
+391,External Tools,1,P064
+392,Zero-Shot Settings,1,P064
+393,Fine-Tuning Settings,1,P064
+394,Tool Descriptions,1,P064
+395,Prompt Engineering,1,P064
+396,Reinforcement Learning Techniques,1,P064
+397,Real World,3,P064
+398,Diverse Modalities,1,P064
+399,Open-Source Llms,1,P064
+400,Proprietary Llms,12,P064
+401,Tools,1,P064
+402,Training Methodologies,1,P064
+403,Language Understanding,1,P064
+404,Task Execution,1,P064
+405,Instruction Interpretation,1,P064
+406,Multi-Modal Settings,1,P064
+407,User Feedback,1,P064
+408,Uncertainty Estimation,1,P064
+409,Real-World Applications,1,P064
+410,Ai Capabilities,1,P064
+411,Game-Theoretic Optimization For Crowdsourced Delivery Networks,7,P035
+412,Crowdsourced Labor,1,P035
+413,Delivery Systems,1,P035
+414,Last-Mile Logistics,1,P035
+415,Urban Areas,1,P035
+416,Delivery Companies,1,P035
+417,Crowdsourced Workers,1,P035
+418,End Customers,1,P035
+419,Crowdsourced Delivery Networks,5,P035
+420,Independent Drivers,1,P035
+421,Customers,1,P035
+422,Optimization Problems,2,P035
+423,Game-Theoretic Optimization,11,P035
+424,Strategic Decision-Making,1,P035
+425,Evolutionary Game Theory,3,P035
+426,Cooperative Behavior,1,P035
+427,Cheating Strategies,3,P035
+428,Unfairadvantage,1,P035
+429,Insects,2,P035
+430,Reproductive Success,1,P035
+431,Game - Theoretic Optimization,3,P035
+432,Unconventional Optimization Algorithms,5,P035
+433,Foraging Behaviors,2,P035
+434,Slime Molds,1,P035
+435,Complex Optimization Problems,1,P035
+436,Dynamic Environments,1,P035
+437,Delivery Routes,1,P035
+438,Swarm Intelligence,4,P035
+439,Collective Behavior,1,P035
+440,Decentralized Systems,1,P035
+441,Self - Organized Systems,1,P035
+442,Complex Patterns And Behaviors,3,P035
+443,Spontaneous Formation Of Delivery Routes,1,P035
+444,Adaptive Response To Changes In Demand,1,P035
+445,Optimization Of Delivery Networks,4,P035
+446,Bird Flocking,1,P035
+447,Fish Schooling,1,P035
+448,Valuable Insights,2,P035
+449,Efficient And Scalable Optimization Algorithms,1,P035
+450,Computer Science,1,P035
+451,Operations Research,1,P035
+452,Biology,1,P035
+453,Novel And Innovative Solutions,4,P035
+454,Improved Efficiency,1,P035
+455,Scalability,1,P035
+456,Customer Satisfaction,1,P035
+457,Illogic And Absurdity,1,P035
+458,Conference,2,P055
+459,Program Chairs,7,P055
+460,Ethics,3,P055
+461,Ai Research,1,P055
+462,Researchers,1,P055
+463,Broader Impact Statement,8,P055
+464,Submission,2,P055
+465,Workshop,1,P055
+466,Interdisciplinary Subject Areas,1,P055
+467,Impact Assessment,1,P055
+468,Technology Transfer,3,P055
+469,Products,1,P055
+470,Unethical Uses Of Technology,1,P055
+471,Researcher,2,P055
+472,Broader Impact Requirement,2,P055
+473,Survey,3,P055
+474,Online Public Survey,1,P055
+475,3D Food Modeling,1,P054
+476,Images,2,P054
+477,Advancements,1,P054
+478,Physically - Aware Reconstruction,1,P054
+479,Computer Vision,3,P054
+480,Nutritional Monitoring,1,P054
+481,Dietary Tracking,1,P054
+482,3D Reconstruction Methods,1,P054
+483,High - Quality Data,7,P054
+484,Academic Research,8,P054
+485,Industry Applications,3,P054
+486,Workshop,2,P054
+487,Challenge,1,P054
+488,3D Food Reconstruction,1,P054
+489,2D Images,1,P054
+490,Checkerboard,1,P054
+491,Size Reference,5,P054
+492,Food Items,1,P054
+493,Portion Estimation,1,P054
+494,Dietary Evaluations,3,P054
+495,3D Food Modeling Workshop Challenge,1,P054
+496,Dietary Oversight,1,P054
+497,Nutritional Evaluation,1,P054
+498,3D Food Models,1,P054
+499,Multi-View Image Data,1,P054
+500,Single-View Image Data,4,P054
+501,Food Portions,1,P054
+502,Nutritional Consumption,1,P054
+503,Beneficial Eating Patterns,1,P054
+504,Health Issues Related To Diet,3,P054
+505,24-Hour Recall,1,P054
+506,Food Frequency Questionnaires (Ffq),1,P054
+507,Manual Data Entry,1,P054
+508,Regression,2,P054
+509,Dietary Assessment,1,P054
+510,Technology,3,P054
+511,Food Experiences,1,P054
+512,Nutritional Science,1,P054
+513,Public Health Initiatives,1,P054
+514,Participants,3,P054
+515,3D Models,2,P054
+516,Smartphone,2,P054
+517,Depth-Sensing Camera,1,P054
+518,Dietary Recording,1,P054
+519,Nutritional Oversight,1,P054
+520,Easy Level,1,P054
+521,Medium Level,1,P054
+522,Hard Level,1,P054
+523,Video,1,P054
+524,Frames,4,P054
+525,Monocular Top-View Image,1,P054
+526,Real-World Conditions,1,P054
+527,Visible Checkerboard,1,P054
+528,Depth Images,1,P054
+529,Portion Sizes,5,P054
+530,Food Recognition,1,P054
+531,Food Portion Estimation,1,P054
+532,Volume,1,P054
+533,Energy Content,1,P054
+534,Macronutrient Breakdown,5,P054
+535,Stereo-Based Approaches,1,P054
+536,Multi-View Stereo Reconstruction,1,P054
+537,Epipolar Geometry,1,P054
+538,Two-View Dense Reconstruction,3,P054
+539,Rich Sutton,2,P084
+540,Artificial Intelligence,2,P084
+541,Computer Vision,9,P084
+542,Large Language Models,2,P084
+543,Generalized Learning Algorithms,1,P084
+544,Deep Learning,1,P084
+545,Machine Learning,2,P084
+546,Computer Vision Conference,1,P084
+547,Sutton,2,P084
+548,The Hard - Won Lesson,2,P084
+549,Leo Breiman,2,P084
+550,Clip,1,P084
+551,Align,1,P084
+552,Florence,1,P084
+553,Urban Farming,4,P022
+554,Drone Swarm Robotics,8,P022
+555,Sociobiology,2,P022
+556,Honeybee Waggledance,1,P022
+557,Crop Yield,1,P022
+558,Soil Quality,2,P022
+559,Microclimate,1,P022
+560,Collective Intelligence,1,P022
+561,Tomato Plant Growth,1,P022
+562,Drone Telepathy,1,P022
+563,Drone Dance Rituals,7,P022
+564,Farmers,7,P022
+565,Psychological Well - Being,1,P022
+566,Job Satisfaction,3,P022
+567,Stresslevels,1,P022
+568,Crops,1,P022
+569,Photosynthetic Activity,1,P022
+570,Nutrient Uptake,1,P022
+571,Drone - Induced Phototropism,1,P022
+572,Plant - Drone Symbiosis,2,P022
+573,Electromagnetic Fields,1,P022
+574,Cellular Structures,2,P022
+575,Growth Frequencies,2,P022
+576,Insect - Inspired Swarm Robotics,1,P022
+577,Urban Farming Ecosystems,1,P022
+578,Food Chain,2,P022
+579,Plant,1,P022
+580,Drone,3,P022
+581,Swarm Robotics,5,P022
+582,Ecological Balance,1,P022
+583,Crop Yields,1,P022
+584,Evolution Of Social Behaviour,1,P022
+585,Insects,1,P022
+586,Bees,1,P022
+587,Ants,1,P022
+588,Sustainable Food Production,2,P022
+589,Interconnectedness Of Living Systems,1,P022
+590,Cl-Det,3,P001
+591,Drone Tracking And Localization,5,P001
+592,Managing Drone Formations,1,P001
+593,Anti-Drone Strategies,1,P001
+594,Cameras,1,P001
+595,Lidar Systems,1,P001
+596,Livox Avia,1,P001
+597,Lidar 360,3,P001
+598,Point Cloud Data,3,P001
+599,Objects Of Interest (Oois),3,P001
+600,Density-Based Spatial Clustering Of Applications With Noise (Dbscan),2,P001
+601,Three-Dimensional Space,2,P001
+602,Faint Signals,3,P001
+603,Rapid Maneuvers,1,P001
+604,Unmanned Aerial Vehicles (Uavs),1,P001
+605,Uav,1,P001
+606,Point Cloud,5,P001
+607,Object Of Interest (Ooi),3,P001
+608,Dbscan,1,P001
+609,Radar,2,P001
+610,Double Fisheye Camera,1,P001
+611,Millimeter - Wave Radar,2,P001
+612,United States,2,P083
+613,China,6,P083
+614,Europe,6,P083
+615,Us Institutions,4,P083
+616,Chinese Institutions,2,P083
+617,European Institutions,2,P083
+618,American Papers,2,P083
+619,Chinese Papers,2,P083
+620,Usa,4,P083
+621,Plasticity Loss In Deep Reinforcement Learning,4,P018
+622,Deep Reinforcement Learning (Rl) Agents,3,P018
+623,Neural Networks,1,P018
+624,Dynamic Environments,1,P018
+625,Architectural Modifications,1,P018
+626,Hyperparameter Tuning,1,P018
+627,Plasticity Injection,21,P018
+628,Neural Network,1,P018
+629,Learning Capacity,3,P018
+630,Learning Progress,1,P018
+631,Environment,1,P018
+632,Traditional Methods,1,P018
+633,Network Architecture,1,P018
+634,Retraining Procedures,3,P018
+635,Rl Agents,1,P018
+636,Performance,1,P018
+637,Robustness,1,P018
+638,Computational Overhead,1,P018
+639,Over-Parameterization,1,P018
+640,Plasticity Loss,1,P018
+641,Understanding Of Plasticity,1,P018
+642,Diagnostic Framework,2,P018
+643,Onset Of Plasticity Loss,1,P018
+644,Severity Of Plasticity Loss,1,P018
+645,Proactive Intervention,1,P018
+646,Performance Degradation,1,P018
+647,Ability To Adapt,1,P018
+648,Changes In Environment,1,P018
+649,Metric,1,P018
+650,Computational Efficiency,1,P018
+651,Training Time,3,P018
+652,Transformer Neural Networks,2,P059
+653,Recurrent Neural Networks,1,P059
+654,Synthetic Benchmarks,2,P059
+655,Low - Frequency Tokens,1,P059
+656,John Doe,1,P059
+657,Rnn,1,P059
+658,Large Vocabularies,1,P059
+659,Gradient Instability,5,P059
+660,Infrequent Tokens,2,P059
+661,Positional Encoding,2,P059
+662,Rnn Gradients,1,P059
+663,Turing Completeness,1,P059
+664,Turing Machines,1,P059
+665,Finite Precision,2,P059
+666,Memory Retention,1,P059
+667,Time Models,1,P059
+668,Equivariant Fine - Tuning Of Large Pretrained Models,2,P090
+669,Standard Adaptation Methods,3,P090
+670,Fine - Tuning,2,P090
+671,Group Structure,1,P090
+672,Data,8,P090
+673,Pretrained Model,1,P090
+674,Adapted Model,1,P090
+675,Equivariance,3,P090
+676,Performance Degradation,1,P090
+677,Generalization Capabilities,1,P090
+678,Robust And Generalizable Performance,1,P090
+679,Group Representation Theory,1,P090
+680,Regularization Scheme,2,P090
+681,Data - Driven Optimization Problem,1,P090
+682,Equivariant Neural Networks,1,P090
+683,Large Pretrained Models,1,P090
+684,Image Classification,8,P090
+685,Object Detection,1,P090
+686,Physics Simulation Tasks,1,P090
+687,Adaptation,4,P090
+688,Model Adaptation,1,P090
+689,Generalization Performance,1,P090
+690,Equivariance Preservation,2,P090
+691,Ariance Properties,3,P090
+692,Approach,1,P090
+693,Pretrained Models,1,P090
+694,Group Symmetries,4,P090
+695,Domains,2,P090
+696,Future Work,2,P090
+697,Group Structures,1,P090
+698,Related Work,3,P090
+699,Equivariant Adaptation,1,P090
+700,Group Convolutions,1,P090
+701,Tensor Representations,1,P090
+702,Point Cloud Processing,1,P090
+703,Scientific Simulations,1,P090
+704,Multi - Agent Systems,3,P113
+705,Machine Intelligence,1,P113
+706,Graph Neural Networks,4,P113
+707,Model - Based Reinforcement Learning,2,P113
+708,Bilateral - Avoidance,1,P113
+709,Autonomous Driving,3,P113
+710,State - Space Graph Neural Network,1,P113
+711,Model Predictive Control,3,P113
+712,Cross - Entropy Method,1,P113
+713,Ego - Agent,2,P113
+714,Multi - Agent System,3,P113
+715,Surrounding Agents,2,P113
+716,Motion Planning,2,P113
+717,Model - Based Rl,1,P113
+718,Graph Neural Network ( Gnn ),2,P113
+719,Multi - Billiard Avoidance,3,P113
+720,Thegym - Carla,2,P113
+721,Sample - Efficient Model - Based Control,1,P113
+722,X,1,P113
+723,Z,1,P113
+724,Cid,1,P113
+725,P0,1,P113
+726,P1,5,P113
+727,T,1,P113
+728,T-1,2,P113
+729,Stochastic Video Model,1,P113
+730,Reinforcement Learning,1,P113
+731,Planning,1,P113
+732,Monte Carlo Tree Search,4,P113
+733,Stove,2,P113
+734,Proximal Policy Optimization,1,P113
+735,Ground Truth States,2,P113
+736,Visual Data,3,P113
+737,Model Based Reinforcement Learning,1,P113
+738,Model Free Reinforcement Learning,2,P113
+739,Dynamics Model,1,P113
+740,Global Policy,4,P113
+741,Environment,1,P113
+742,Oxygen,10,P094
+743,Butterfly Wings,1,P094
+744,Rural Communities In Mongolia,2,P094
+745,Molecular Structure,1,P094
+746,Tibetan Singing Bowls,2,P094
+747,Quokka Smiles,2,P094
+748,Ecosystem,1,P094
+749,Isotopic Composition,1,P094
+750,Arctic Narwhals,2,P094
+751,Tusks,2,P094
+752,Didgeridoos,2,P094
+753,Nautical Archaeology,1,P094
+754,Underwater Cities,1,P094
+755,Inhabitants,2,P094
+756,Crystal Spires,2,P094
+757,Light,2,P094
+758,Chromatic Palette Of Modern Art,2,P094
+759,Human_Brain,1,P094
+760,Subconscious_Mind,1,P094
+761,Collective_Unconscious,2,P094
+762,Generative_Poetry,1,P094
+763,Postmodern_Culinary_Theory,2,P094
+764,Gastronomical_Delights,2,P094
+765,Surrealist_Automatism,1,P094
+766,Advanced_Technologies,1,P094
+767,Quantum_Fluctuations,2,P094
+768,Interdimensional_Toaster_Ovens,1,P094
+769,Fractal_Geometry,1,P094
+770,Earth'S_Atmosphere,1,P094
+771,Champagne,1,P094
+772,Copper,1,P094
+773,Gpt-4,2,P115
+774,Multimodal Gpt-4,1,P115
+775,Llms,1,P115
+776,Lmms,1,P115
+777,Gen-Erative Image-To-Text Transformer (Git),1,P115
+778,Blip2,1,P115
+779,Git,1,P115
+780,Flamingo,1,P115
+781,Openai,1,P115
+782,Gpt-2,1,P115
+783,Bert,4,P115
+784,Bert,36,P069
+785,Cheese,1,P069
+786,Darius The Great,1,P069
+787,Flamingos,1,P069
+788,Quantum Entanglement,1,P069
+789,Reality Television,1,P069
+790,Toaster,1,P069
+791,Toasted Bread,1,P069
+792,Reverse Hierarchytheory,1,P023
+793,Early Visualattention,1,P023
+794,Coarse - To - Fine,1,P023
+795,Saliency Detection,5,P023
+796,Image Super - Resolution Reconstruction,1,P023
+797,Stochastic Fixations,1,P023
+798,Eye - Tracking Datasets,2,P023
+799,Human Vision System,3,P023
+800,Natural Scenes,1,P023
+801,Computational Resources,1,P023
+802,Informative And Salient Parts,5,P023
+803,Feature Integration Theory,2,P023
+804,Attention,1,P023
+805,Objects,4,P023
+806,Saliency Detection Approaches,1,P023
+807,Global Channels,1,P023
+808,Local Channels,1,P023
+809,Features,1,P023
+810,Human Visual System,4,P023
+811,Hierarchical Models,2,P023
+812,Hmax,1,P023
+813,Cdbn,1,P023
+814,Object Recognition,1,P023
+815,Reverse Hierarchy Theory,1,P023
+816,Feedforward,1,P023
+817,Feature Activation,1,P023
+818,Coarse Gist,2,P023
+819,Explicit Perception,1,P023
+820,Fine Details,1,P023
+821,Feedback Control,3,P023
+822,Computer Vision,1,P023
+823,Image Segmentation,1,P023
+824,Scene Understanding,5,P023
+825,Rht,1,P023
+826,Psychophysical Study,3,P023
+827,Fixations,1,P023
+828,Low - Resolution Images,1,P023
+829,Higher - Resolution Images,2,P023
+830,Visual Hierarchy,1,P023
+831,Image Super - Resolution,2,P023
+832,Reverse Propagation Of Attention,1,P023
+833,Reverse Hierarchy Model (Rhm),1,P023
+834,Biased Competition Theory Of Attention,1,P023
+835,Stimulus - Driven Bias,1,P023
+836,Image Pyramid,1,P023
+837,Perceptual Learning,1,P023
+838,First,1,P023
+839,Random Center Surroundsaliency,1,P023
+840,Rag,30,P039
+841,Quail,1,P039
+842,Disentanglement - Pytorch Library,14,P082
+843,Vae,2,P082
+844,Βfactor - Vae,1,P082
+845,Dip - I - Vae,2,P082
+846,Dip - Ii - Vae,2,P082
+847,Info - Vae,2,P082
+848,Tcvae,1,P082
+849,Cvae,2,P082
+850,Ifcvae,4,P082
+851,Representation Learning,2,P082
+852,Β Βvae,1,P082
+853,#NAME?,8,P082
+854,#NAME?,1,P082
+855,Factor - Vae,1,P082
+856,Disentanglement Challenge Of Neurips 2019,1,P082
+857,Pytorch Framework,1,P082
+858,Unsupervised Disentanglement Of Latent Factors,1,P082
+859,Variational Algorithms,1,P082
+860,Gnu General Public License,5,P082
+861,Conditional And Attribute-Variant Objectives,1,P082
+862,Positive Discriminators,1,P082
+863,Negative Discriminators,1,P082
+864,Encoder Networks,1,P082
+865,Decoder Networks,1,P082
+866,Betavae,9,P082
+867,Factorvae,1,P082
+868,Mutual Information Gap,1,P082
+869,Interventional Robustness Score,1,P082
+870,Disentanglementcompleteness And Informativeness,1,P082
+871,Separated Attribute Predictability,1,P082
+872,Controlled Capacity Increase,1,P082
+873,Reconstruction Weight Scheduler,1,P082
+874,Dynamic Learning Rate Scheduling,1,P082
+875,President Biden,1,P128
+876,Joe Biden,1,P128
+877,Salomon,1,P128
+878,Span-Based Model,1,P128
+879,Entity Coreference Model,4,P128
+880,Type Prediction Model,1,P128
+881,Non-Span-Based Neural Approach,1,P128
+882,Hand-Crafted Rules,1,P128
+883,Dd Track,1,P128
+884,Dialogue,1,P128
+885,Total,1,P128
+886,Avg,1,P128
+887,Toks,2,P128
+888,Docs,2,P128
+889,Sents,2,P128
+890,Turns,2,P128
+891,Sents Per Sent,2,P128
+892,Ami,1,P128
+893,Pers,1,P128
+894,Swbd,2,P128
+895,Large Language Models,5,P077
+896,Quasar Radiation,2,P077
+897,Greenland Shark,1,P077
+898,Sentiment Analysis,1,P077
+899,Rare Orchids,2,P077
+900,Neural Network Architectures,1,P077
+901,Migratory Patterns,1,P077
+902,Arctic Terns,1,P077
+903,Galactic Frog,2,P077
+904,Language Processing,1,P077
+905,Science Fiction,1,P077
+906,Dark Matter,1,P077
+907,Black Holes,3,P077
+908,Quantum Mechanics,1,P077
+909,Quantum Floristry,1,P077
+910,Subatomic Particles,1,P077
+911,Botanical Systems,1,P077
+912,Artificial Intelligence,1,P077
+913,Exploration Of The Cosmos,1,P077
+914,Conservation Of Endangered Species,1,P077
+915,Giant Panda,1,P077
+916,Shakespeare,19,P077
+917,Natural Language Processing,1,P077
+918,Birds,1,P077
+919,Celestial Mechanics,1,P077
+920,Llm,1,P077
+921,Machine Translation,1,P077
+922,Linguistic Polymers,1,P077
+923,Scene Parsing,8,P025
+924,Background Classes,1,P025
+925,Foreground Classes,1,P025
+926,Superpixel Label Likelihood Scores,1,P025
+927,Merging Classifiers,1,P025
+928,Classification Models,1,P025
+929,Nonparametric Image Parsing,1,P025
+930,Image Retrieval,1,P025
+931,Superpixels,1,P025
+932,Labels,2,P025
+933,Probability Scores,1,P025
+934,Energy Function,1,P025
+935,Data,1,P025
+936,Siftflow,3,P025
+937,Lmsun,1,P025
+938,Likelihood Normalization,3,P025
+939,Probabilistic Structure,2,P025
+940,Label Costs,2,P025
+941,Global Contextual Relationships,1,P025
+942,Per - Pixel Recognition Accuracy,2,P025
+943,Region - Parsing,2,P025
+944,Per - Exemplar Svm Detectors,1,P025
+945,Object Masks,1,P025
+946,Segmentation,3,P025
+947,Large Language Models,1,P070
+948,Quasar Radiation,2,P070
+949,Greenland Shark,1,P070
+950,Sentiment Analysis,1,P070
+951,Rare Orchids,1,P070
+952,Neural Network Architectures,2,P070
+953,Arctic Terns,1,P070
+954,Galactic Frog,13,P070
+955,Science Fiction,1,P070
+956,Dark Matter,1,P070
+957,Black Holes,1,P070
+958,Quantum Mechanics,3,P070
+959,Quantum Floristry,1,P070
+960,Subatomic Particles,1,P070
+961,Botanical Systems,1,P070
+962,Artificial Intelligence,3,P070
+963,Cosmos,1,P070
+964,Endangered Species,1,P070
+965,Giant Panda,1,P070
+966,Shakespeare,1,P070
+967,Birds,1,P070
+968,Natural Language Processing,1,P070
+969,Models,1,P070
+970,Celestial Mechanics,1,P070
+971,Llm,1,P070
+972,Syntactic Structures,1,P070
+973,Human Language,1,P070
+974,Algorithms,1,P070
+975,Lstm,7,P099
+976,Video Narration,4,P099
+977,Text,2,P099
+978,Linguistic Insights,1,P099
+979,Neural Language Model,2,P099
+980,Distributional Semantics,2,P099
+981,Large Text Corpora,2,P099
+982,Video Description,3,P099
+983,Youtube Videos,1,P099
+984,Movie Description Datasets,2,P099
+985,Paper,5,P099
+986,Video Captioning,1,P099
+987,Language Model,1,P099
+988,Parallel Video-Text Datasets,1,P099
+989,Youtube Corpus,1,P099
+990,S2Vt,1,P099
+991,Cnn,2,P099
+992,Video Frame Feature Sequence,2,P099
+993,Fixed-Dimension Vector,1,P099
+994,Sequence Of Output Words,1,P099
+995,Rnn Based Captioning Models,3,P099
+996,Neural Networks,1,P072
+997,Pixel Deflection,1,P072
+998,High - Level Representation Guided Denoiser ( Hgr ),1,P072
+999,Targeted Adversarial Examples,2,P072
+1000,Gradient Descent ( Pgd ),6,P072
+1001,White - Box Threat Model,1,P072
+1002,Cross - Entropy Loss,3,P072
+1003,Black - Box Attack,1,P072
+1004,White - Box Attack,1,P072
+1005,Oblivious Attack,4,P072
+1006,Thisattack,1,P072
+1007,Defended Classifier,1,P072
+1008,High - Level Representation Guided Denoiser ( Hgd ),1,P072
+1009,Pgd,1,P072
+1010,Diagnnose,10,P120
+1011,Targeted Syntactic Evaluations,1,P120
+1012,Grammatical Constructions,1,P120
+1013,Ungrammatical Constructions,1,P120
+1014,Linguistic Competence,1,P120
+1015,Diagnostic Classifiers,1,P120
+1016,Probing,1,P120
+1017,Hidden States,1,P120
+1018,Model Representations,1,P120
+1019,Feature Attributions,2,P120
+1020,Bayesian Optimization,8,P111
+1021,Global Optimization,1,P111
+1022,Black-Box Functions,1,P111
+1023,Surrogate Models,6,P111
+1024,Gaussian Processes,2,P111
+1025,Bayesian Neural Networks,4,P111
+1026,Inductive Biases,1,P111
+1027,High-Dimensional Spaces,1,P111
+1028,Physics,1,P111
+1029,Chemistry,1,P111
+1030,Photonic Crystal Materials,2,P111
+1031,Molecules,1,P111
+1032,Convolutional Neural Networks,2,P111
+1033,Graph Neural Networks,1,P111
+1034,Derivative,1,P111
+1035,Freefunctions,1,P111
+1036,Hyperparameter Tuning,4,P111
+1037,Machine Learning,2,P111
+1038,Bo,1,P111
+1039,Gps,2,P111
+1040,Neural Networks,1,P111
+1041,Deep Learning,5,P111
+1042,Scattering Of A Nanoparticle,1,P111
+1043,Topology Optimization Of A Photonic Crystal Material,1,P111
+1044,Chemical Property Optimization Of Molecules From The Qm9 Dataset,1,P111
+1045,Discontinuous Constituent Parsing,15,P133
+1046,Sequence Labeling,1,P133
+1047,Constituent Parsing,1,P133
+1048,Tree Discontinuities,1,P133
+1049,Phrase - Structure Trees,1,P133
+1050,Non - Configurational Languages,1,P133
+1051,Non - Consecutive Tokens,1,P133
+1052,Grammatical Function,1,P133
+1053,Verbs,1,P133
+1054,Free Word Order,1,P133
+1055,German,1,P133
+1056,Guugu Yimidhirr,1,P133
+1057,English,1,P133
+1058,Wh - Movement,1,P133
+1059,Extraposition,1,P133
+1060,Chart - Based Parsers,1,P133
+1061,Transitionbased Algorithms,1,P133
+1062,Discontinuous Parsing,1,P133
+1063,Multiple Context Free Grammars,3,P133
+1064,Linear Context Free Rewriting Systems,2,P133
+1065,Context Free Grammars,1,P133
+1066,Chart Based Parsers,2,P133
+1067,Cyk Parser,1,P133
+1068,Discontinuous Treebank,1,P133
+1069,Transition-Based Parsing Algorithms,1,P133
+1070,Swap Transition,2,P133
+1071,John Doe,1,P133
+1072,Continuous Shift - Reduce Constituent Parser,1,P133
+1073,System,4,P133
+1074,Gap Transition,1,P133
+1075,Averaged Perceptrons,1,P133
+1076,Recursive Neural Network,1,P133
+1077,Neural Tangent Kernel ( Ntk ) Approximation,2,P089
+1078,Square Loss Function,1,P089
+1079,Lazy Training,2,P089
+1080,Chi Zat Et Al.,1,P089
+1081,Gradient - Based Optimizers,1,P089
+1082,Gradient Descent,2,P089
+1083,Ntk Approximation,1,P089
+1084,Neural Networks,1,P089
+1085,Training Dynamics,2,P089
+1086,Gradient Flow,2,P089
+1087,Model Outputs,1,P089
+1088,Model Weights,1,P089
+1089,Rescaling Parameter,4,P089
+1090,Differentiable Model,1,P089
+1091,Infinite Width Model,1,P089
+1092,Wloss Function,1,P089
+1093,Larger,1,P089
+1094,Weights,4,P089
+1095,Initialization,1,P089
+1096,Model,1,P089
+1097,Output,1,P089
+1098,Regime,1,P089
+1099,Training,2,P089
+1100,Lazy_Training,1,P089
+1101,Loss,1,P089
+1102,Time,1,P089
+1103,Lipschitz,1,P089
+1104,Ball,1,P089
+1105,Erebus,3,P041
+1106,Metaverse,1,P041
+1107,Avian,4,P041
+1108,Ancient Conspiracy Theories,1,P041
+1109,Virtual Ruins,1,P041
+1110,Reinforcement Learning,4,P041
+1111,Agent,2,P041
+1112,Virtual Artifacts,1,P041
+1113,Virtual Stratigraphy,1,P041
+1114,Archaeological Stratigraphy,5,P041
+1115,History,1,P041
+1116,Culture,1,P041
+1117,Reality,1,P041
+1118,Metaverse Ecology,1,P041
+1119,Virtual Environments,4,P041
+1120,Agents,1,P041
+1121,Artifacts,1,P041
+1122,Heraclitus,1,P041
+1123,Distributed Stochastic Variational Inequalities,4,P135
+1124,Unbounded Domains,1,P135
+1125,Heterogeneous,1,P135
+1126,Computational Network,6,P135
+1127,Fully Decentralized Computations,1,P135
+1128,Dynamic Networks,1,P135
+1129,Centralized Structures,2,P135
+1130,Federated Learning,3,P135
+1131,Local Updates,1,P135
+1132,Stochastic Extragradient Method,2,P135
+1133,Strongly Monotone,2,P135
+1134,Monotone,5,P135
+1135,Non Monotone,1,P135
+1136,Minty Solution,2,P135
+1137,Convergence Rate,1,P135
+1138,Network Properties,1,P135
+1139,Mixing Time,2,P135
+1140,Data Heterogeneity,3,P135
+1141,Variance,1,P135
+1142,Quantity Of Devices,1,P135
+1143,Distributed Stochastic Saddle Point Problems,1,P135
+1144,Training Of Deep Generative Adversarial Networks,13,P135
+1145,Decentralized Training,1,P135
+1146,Experiments,1,P135
+1147,Fully Decentralized Learning,1,P135
+1148,Data Centers,1,P135
+1149,Mobile Devices,3,P135
+1150,Single Server,1,P135
+1151,Generative Adversarial Networks (Gans),1,P135
+1152,John Doe,1,P135
+1153,Edm,1,P135
+1154,Fm,1,P135
+1155,X,1,P135
+1156,Y,1,P135
+1157,M,2,P135
+1158,Cid,1,P135
+1159,Min,1,P135
+1160,Max,8,P135
+1161,F,3,P135
+1162,Vi,2,P135
+1163,Z,1,P135
+1164,Xf,1,P135
+1165,Yf,1,P135
+1166,Generator,1,P135
+1167,Discriminator,5,P135
+1168,Gradient Descent,1,P135
+1169,Extragradient Updates,1,P135
+1170,Gossip Protocol,1,P135
+1171,Network Error,1,P135
+1172,X-Ray Technology,1,P129
+1173,Cheeseproduction,2,P129
+1174,Quantum Mechanics,4,P129
+1175,Interdimensional Travel,2,P129
+1176,Caffeine,2,P129
+1177,Invisible Socks,1,P129
+1178,Aerodynamics,1,P129
+1179,Flying Pancakes,2,P129
+1180,Ferns,1,P129
+1181,Planet Neptune,1,P129
+1182,Trombone,1,P129
+1183,Medicine,1,P129
+1184,Migration Patterns,2,P129
+1185,Butterflies,1,P129
+1186,Chocolate Cake,1,P129
+1187,Xray Absorption Coefficient,2,P129
+1188,Metals,2,P129
+1189,Elementof Blorple,2,P129
+1190,Self - Aware Toasters,1,P129
+1191,Molecular Structure Of Water,2,P129
+1192,Sentence Structure,2,P129
+1193,Literary Novels,2,P129
+1194,Historical Artifacts,1,P129
+1195,Ancient Civilizations,2,P129
+1196,Dental Floss,2,P129
+1197,Xraytechnology,1,P129
+1198,Xray Research,1,P129
+1199,Superheroes,4,P129
+1200,Subatomic Particles,1,P129
+1201,Freshly Baked Cookies,1,P129
+1202,Jellyfish,1,P129
+1203,Moon,3,P129
+1204,Cheese,1,P129
+1205,Harmonica,1,P129
+1206,Alphabet,1,P129
+1207,New Materials,2,P129
+1208,Sunset,2,P129
+1209,Tropical Island,1,P129
+1210,Materials Science,4,P129
+1211,Culinary Arts,1,P129
+1212,Human Brain,1,P129
+1213,Cerebral Cortex,1,P129
+1214,Cerebellum,2,P129
+1215,Brainstem,1,P129
+1216,Large Pretrained Models,7,P062
+1217,Image Processing,1,P062
+1218,Physics Simulations,1,P062
+1219,Convolutional Neural Networks,1,P062
+1220,Other Architectures,1,P062
+1221,Model Adaptation,1,P062
+1222,Equivariant Functions,1,P062
+1223,Benchmark Datasets,2,P062
+1224,Hyperparameters,3,P062
+1225,Robustness,1,P062
+1226,Generalization Capabilities,2,P062
+1227,Future Research,2,P062
+1228,Adaptation Techniques,1,P062
+1229,Equivariance,2,P062
+1230,Efficiency,6,P062
+1231,Scalability,1,P062
+1232,Computational Burden,1,P062
+1233,Downstream Tasks,1,P062
+1234,Fine - Tuning,10,P062
+1235,Transfer Learning,1,P062
+1236,Related Work,1,P062
+1237,Performance,1,P062
+1238,Cosmic Microwave Background (Cmb),1,P078
+1239,Long Short-Term Memory (Lstm) Networks,2,P078
+1240,Poetry Generation,3,P078
+1241,19Th-Century French Culinary Practices,1,P078
+1242,Avian Species,2,P078
+1243,Migratory Patterns,1,P078
+1244,Cosmic Microwave Background Distortions,6,P078
+1245,Modern Astrophysics,1,P078
+1246,Origins And Evolution Of The Universe,1,P078
+1247,Poetic Verse,1,P078
+1248,Human Creativity,1,P078
+1249,Natural World,3,P078
+1250,Lstm Network,2,P078
+1251,Cosmic Microwave Background,1,P078
+1252,Poetry,2,P078
+1253,Galaxy,1,P078
+1254,Astrophysicist,1,P078
+1255,The Intersection Of Cosmology And Natural Language Processing,2,P078
+1256,Automated Poetry Generation,1,P078
+1257,Creative Expression,1,P078
+1258,Long Short - Term Memory ( Lstm ) Networks,2,P078
+1259,Subtle Patterns And Nuances,1,P078
+1260,Cosmic Microwave Background Radiation,1,P078
+1261,Fourier Analysis,1,P078
+1262,Frequency Spectra,2,P078
+1263,Training Data For Lstm - Based Poetry Generation Models,1,P078
+1264,Random Forests,2,P116
+1265,Decision Trees,9,P116
+1266,Id3,2,P116
+1267,C4.5,2,P116
+1268,Cart,2,P116
+1269,Top-K,12,P116
+1270,Decision Tree,2,P116
+1271,Feature Selection,2,P116
+1272,Greedy Feature Selection,1,P116
+1273,High-Dimensional Settings,1,P116
+1274,Traditional Greedy Algorithms,1,P116
+1275,Benchmark Datasets,1,P116
+1276,Large Datasets,1,P116
+1277,High-Dimensional Datasets,1,P116
+1278,Gradient Boosting Machines,1,P116
+1279,Bert-Based-Study,13,P130
+1280,Artificial Intelligence,1,P130
+1281,Humor,1,P130
+1282,Organizational Behavior,1,P130
+1283,Robot - Assisted Comedicintervention,1,P130
+1284,Future Of Work,1,P130
+1285,Robots,1,P130
+1286,Workplace,1,P130
+1287,Productivity,1,P130
+1288,Efficiency,1,P130
+1289,Morale,1,P130
+1290,Stress,1,P130
+1291,Anxiety,1,P130
+1292,Employee Wellbeing,1,P130
+1293,Job Satisfaction,1,P130
+1294,Robot Stand - Up Comedy,4,P130
+1295,Humanoid Robots,1,P130
+1296,Jokes,1,P130
+1297,Anecdotes,1,P130
+1298,Natural Language Processing Algorithms,6,P130
+1299,Bert,1,P130
+1300,Punchlines,1,P130
+1301,Psycholinguistics,1,P130
+1302,Human Humor,1,P130
+1303,Laughter,1,P130
+1304,Irony,1,P130
+1305,Sarcasm,7,P130
+1306,Robot Jokes,2,P130
+1307,Camaraderie,2,P130
+1308,Shared Experience,1,P130
+1309,Laughter Paradox,1,P130
+1310,Psycholgistic Effects,1,P130
+1311,Robot Stand-Up Comedy,3,P130
+1312,Employee Emotions,2,P130
+1313,Employee Behavior,1,P130
+1314,Humor-Induced Hypnosis,1,P130
+1315,Workplace Morale Enhancement,2,P130
+1316,Side Effects,1,P130
+1317,Employee Creativity,6,P130
+1318,Teamwork,1,P130
+1319,Existential Dread,1,P130
+1320,Robot Comedy Existential Crisis,1,P130
+1321,Human-Robot Interaction,1,P130
+1322,Workplace Morale,1,P130
+1323,Work Environment,3,P130
+1324,This Paper,5,P037
+1325,Chinese Machine Reading Comprehension,1,P037
+1326,Span Extraction,1,P037
+1327,Wikipedia,2,P037
+1328,Cmrc 2018,1,P037
+1329,Experts,1,P037
+1330,People 'S Daily Children 'S Fairy Tale,1,P037
+1331,Cmrc 2017,1,P037
+1332,Dureader,1,P037
+1333,Squad,5,P037
+1334,Span - Extraction Dataset,1,P037
+1335,Traditional Chinese,1,P037
+1336,Chinese,1,P037
+1337,Question_Annotation,1,P037
+1338,Span_Extraction,2,P037
+1339,Knowledge_Graph_Annotation,1,P037
+1340,Dropout,1,P088
+1341,Weight Regularization,5,P088
+1342,Hidden Layer Representations,1,P088
+1343,Feedforward Networks,1,P088
+1344,Upstream Methods,1,P088
+1345,Downstream Methods,1,P088
+1346,Modular Structure,3,P088
+1347,Representation Learning,3,P088
+1348,Modularity,2,P088
+1349,Input Structure,2,P088
+1350,Output Structure,1,P088
+1351,Compositionality,1,P088
+1352,Disentanglement,3,P088
+1353,Artificial Neural Networks,1,P088
+1354,Biological Neural Networks,1,P088
+1355,Upstream,3,P088
+1356,Downstream,3,P088
+1357,Functional Similarity,1,P088
+1358,Module,1,P088
+1359,Hidden Units,1,P088
+1360,Regularization,2,P088
+1361,What/Where Pathways,1,P088
+1362,Ventral Stream,1,P088
+1363,Dorsal Stream,1,P088
+1364,Structural Modularity,1,P088
+1365,Quantum Cheese,12,P047
+1366,Flamingos,1,P047
+1367,John Doe,1,P047
+1368,Colorless Green Ideas,2,P047
+1369,Furniture Arrangements In Scandinavian Apartments,1,P047
+1370,Narwhals,1,P047
+1371,Extraterrestrial Beings,1,P047
+1372,Lost Socks,2,P047
+1373,Coffee Cream Dispenser,1,P047
+1374,Unforeseenconsequences,1,P047
+1375,Miniatureblackholes,1,P047
+1376,Toaster Ovens,2,P047
+1377,Disco Music,1,P047
+1378,Cryptid Sightings,1,P047
+1379,Suburban Areas,1,P047
+1380,System Design,1,P047
+1381,Humanperception,3,P047
+1382,Celestialmechanics,1,P047
+1383,Digital Ephemera,1,P047
+1384,Reality,1,P047
+1385,Narratives,4,P047
+1386,Existential Dread,1,P047
+1387,Coexistence,1,P047
+1388,Universe,1,P047
+1389,Kitchen Utensils,1,P047
+1390,Apollonian,1,P047
+1391,Dionyssian,1,P047
+1392,Solutions,1,P047
+1393,Hermeneutics,1,P047
+1394,Pastry Decoration,2,P047
+1395,Semiotics,1,P047
+1396,Traffic Patterns,1,P047
+1397,Mystical Properties,1,P047
+1398,Forgotten Umbrellas,3,P047
+1399,Sparrows,1,P047
+1400,Fractal Theory,1,P047
+1401,Culinary Arts,2,P047
+1402,Souffles,1,P047
+1403,Thermodynamics,1,P047
+1404,Gases,1,P047
+1405,Pressure,1,P047
+1406,Temperature,1,P047
+1407,Subatomic Particles,1,P047
+1408,Quantum Mechanics,1,P047
+1409,Harmonica,1,P047
+1410,Dolphins,1,P047
+1411,Clicks,1,P047
+1412,Whistles,2,P047
+1413,Exolinguistics,2,P047
+1414,Distant Planets,2,P047
+1415,Atmosphere,1,P047
+1416,Helium,1,P047
+1417,Neon,1,P047
+1418,Fluorescent Lighting,1,P047
+1419,Interior Design,1,P047
+1420,Precipitation Nowcasting,7,P122
+1421,Geostationary Satellite Imagery,1,P122
+1422,Ground-Based Radar Observations,1,P122
+1423,Weather Services,2,P122
+1424,Yandex Weather Precipitation Map,5,P122
+1425,Push Notifications,2,P122
+1426,Optical Flow,1,P122
+1427,Neural Networks,1,P122
+1428,Weather Forecasting,1,P122
+1429,Nowcasting,1,P122
+1430,Medium-Range Forecasts,1,P122
+1431,Long-Range Predictions,1,P122
+1432,Precipitation Map,9,P122
+1433,Radar Data,1,P122
+1434,Neural Network,1,P122
+1435,Precipitation Forecasting,1,P122
+1436,Weather Condition Reports,1,P122
+1437,Mainweather Website,1,P122
+1438,Partners,1,P122
+1439,Radio,1,P122
+1440,Television,1,P122
+1441,Numerical Modeling,1,P122
+1442,Radar,1,P122
+1443,Nwp_Model,4,P122
+1444,Satellite_Imagery,2,P122
+1445,Precipitation_Nowcasting,3,P122
+1446,Radar_Extrapolation,1,P122
+1447,Large_Countries,1,P122
+1448,Developing_Countries,1,P122
+1449,Remote_Areas,1,P122
+1450,Ground-Based Weather Stations,1,P122
+1451,Precipitation Nowcasting Algorithms,1,P122
+1452,Mpe,1,P122
+1453,Siberian Federal District,2,P122
+1454,Ural Federal District,2,P122
+1455,Russia,1,P122
+1456,Video Alignment,1,P075
+1457,Multi - Step Inference,7,P075
+1458,Instructionalvideos,2,P075
+1459,Question,1,P075
+1460,Vision Transformer ( Vit ),1,P075
+1461,Bert,1,P075
+1462,Attention Mechanisms,1,P075
+1463,Function - Centric Approach,1,P075
+1464,Instructional Video Alignment,1,P075
+1465,Question - Aware Grounding,1,P075
+1466,Multimodal Context Reweighting,1,P075
+1467,Pretrained Videoclip,1,P075
+1468,Pretrained Video - Text Models,1,P075
+1469,Gru,1,P075
+1470,Xl - Net,1,P075
+1471,Additive Attention,2,P075
+1472,Ai Assistant,3,P075
+1473,Instructional Video,1,P075
+1474,User,1,P075
+1475,Question Q,3,P075
+1476,Candidate Answer Set,2,P075
+1477,Image U,3,P075
+1478,Script,1,P075
+1479,Function Clip,4,P075
+1480,Button,2,P075
+1481,Instructional_Video_Alignment,2,P075
+1482,Question_Aware_Grounding,1,P075
+1483,Multimodal_Context_Reweighting,3,P075
+1484,Multi-Step_Inference,1,P075
+1485,Pretrained_Video_Clip,1,P075
+1486,Pretrained_S3D,3,P075
+1487,Pretrained_Visual_Transformer,3,P075
+1488,Video_Embedding,1,P075
+1489,Text_Embedding,1,P075
+1490,Video_Feature_Sequence,1,P075
+1491,Text_Feature_Sequence,1,P075
+1492,Emoji2Vec,3,P027
+1493,Face With Tears Of Joy Emoji,1,P027
+1494,Instagram Data Team,1,P027
+1495,Twitter,1,P027
+1496,Emoji,1,P027
+1497,Explainable Reinforcement Learning,16,P003
+1498,Financial Market Simulation,7,P003
+1499,Investment Choices,1,P003
+1500,Decision Making Processes,1,P003
+1501,Market Dynamics,1,P003
+1502,Agent Behavior,1,P003
+1503,Feature Attribution,2,P003
+1504,Model Interpretability,2,P003
+1505,Market Trends,3,P003
+1506,Portfolio Performance,1,P003
+1507,Chaos Theory,3,P003
+1508,Astrological Practices,2,P003
+1509,Portfolio Returns,1,P003
+1510,Transparent Financial Market Simulation Systems,1,P003
+1511,Accountable Financial Market Simulation Systems,2,P003
+1512,Reliable Investment Strategies,1,P003
+1513,Investment Strategies,3,P003
+1514,Reinforcement Learning,1,P003
+1515,Predictive Models,1,P003
+1516,Surrealistic Art,1,P003
+1517,Market Variables,1,P003
+1518,Agent Actions,1,P003
+1519,Outcomes,1,P003
+1520,Decision Making Process,1,P003
+1521,Transparency,1,P003
+1522,Trustworthiness,1,P003
+1523,Reliability,1,P003
+1524,Bias,1,P003
+1525,Flaws,3,P003
+1526,Fractal Analysis,2,P003
+1527,Hidden Patterns,2,P003
+1528,Economics,1,P003
+1529,Autonomous Agents,2,P003
+1530,Human Experts,1,P003
+1531,Fungal Bioluminescence,6,P003
+1532,Gaussian Processes,4,P009
+1533,Polynomial Regression,1,P009
+1534,Kernel Machines,1,P009
+1535,Kernel Least - Squares,1,P009
+1536,Online Learning,1,P009
+1537,Optimization,1,P009
+1538,Bayesian Model Averaging,2,P009
+1539,Online Gaussian Processes,2,P009
+1540,Random Fourier Feature Approximation,4,P009
+1541,Dynamic Incremental Ensembles Of Gaussian Processes,1,P009
+1542,Gaussian Process State-Space Models,1,P009
+1543,Deep Gaussian Processes,1,P009
+1544,Graph Learning,3,P009
+1545,Bayes_Optimization,1,P009
+1546,Causal_Inference,1,P009
+1547,Gps,5,P009
+1548,Rff_Approximation,4,P009
+1549,Ie_Gps,1,P009
+1550,Random_Feature_Gps,1,P009
+1551,Wiener_Khinchin_Integral,1,P009
+1552,Curse_Of_Dimensionality,2,P009
+1553,Online_Bayesian_Linear_Regression,4,P009
+1554,Rbf_Networks,1,P009
+1555,Online_Ensembles_Of_Basis_Expansions,1,P009
+1556,Oebes,3,P009
+1557,B_Splines,3,P009
+1558,Generalizedadditivemodel,1,P009
+1559,Gpregression,1,P009
+1560,Gamhilbertspacegaussianprocesses,1,P009
+1561,Rffgaussianprocesses,2,P009
+1562,Quadraturerule,2,P009
+1563,Basisfunctions,2,P009
+1564,Staticmodels,2,P009
+1565,Dynamicmodels,2,P009
+1566,Principalposteriori,1,P009
+1567,Realdata,1,P009
+1568,Fluctuations In Quantum Jellyfish Populations,1,P100
+1569,Engine,2,P100
+1570,Pastry Bags,2,P100
+1571,Icing Nozzles,1,P100
+1572,Savory Flavors,1,P100
+1573,Sweet Flavors,1,P100
+1574,Diesel Engines,1,P100
+1575,Gasoline Engines,1,P100
+1576,High - Performance Engines,1,P100
+1577,Flavor Enhancers,1,P100
+1578,Texture Modifiers,1,P100
+1579,Piston Motion,2,P100
+1580,Harmonic Vibrations,1,P100
+1581,Torque Production,1,P100
+1582,Energy Transmission,1,P100
+1583,Entropy,1,P100
+1584,Advanced Materials,1,P100
+1585,Metamaterials,3,P100
+1586,Nanostructured Surfaces,1,P100
+1587,Engine Designs,1,P100
+1588,Engine Performance,1,P100
+1589,Engine Efficiency,1,P100
+1590,Driver Behavior,1,P100
+1591,Driver Perception,5,P100
+1592,Engine Control Systems,1,P100
+1593,Feedback Mechanisms,1,P100
+1594,User Interface Design,1,P100
+1595,Cognitive Architectures,1,P100
+1596,Decision-Making Models,1,P100
+1597,Driver Assistance Systems,1,P100
+1598,Safety,5,P100
+1599,Engine Acoustics,1,P100
+1600,Noise Reduction Technologies,1,P100
+1601,Psychoacoustic Principles,1,P100
+1602,Sound Quality Metrics,2,P100
+1603,Engine Sound Systems,1,P100
+1604,Atomic Structures,1,P105
+1605,Galactic Rotation Curves,1,P105
+1606,Culinary Experiences,1,P105
+1607,Modern Quantum Physics,1,P105
+1608,Pastry Dough,1,P105
+1609,Botanical Knowledge,2,P105
+1610,19Th Century Europe,2,P105
+1611,Subatomic Particles,3,P105
+1612,High-Energy Collision,1,P105
+1613,Gastronomical Phenomena,1,P105
+1614,Traditional Atomistic Theories,4,P105
+1615,Percussive Effects,2,P105
+1616,Sonorous Molecules,3,P105
+1617,Human Auditory System,1,P105
+1618,Atomic Structure Of Water,1,P105
+1619,Migratory Patterns,1,P105
+1620,Avian Species,2,P105
+1621,Chromatic Aberration,1,P105
+1622,Visible Light Spectra,1,P105
+1623,Prismatic Refractions,2,P105
+1624,Digital Ephemera,2,P105
+1625,Postmodern Literary Critiques,2,P105
+1626,Atomic Nuclei,2,P105
+1627,Semantic Valences,1,P105
+1628,Linguistic Signifiers,1,P105
+1629,Atomic Universe,1,P105
+1630,Manifestations,1,P105
+1631,Introduction,2,P105
+1632,Scholars Of Floristry,1,P105
+1633,Theoretical Frameworks,8,P105
+1634,Ancient Civilizations,1,P105
+1635,Pastry - Making,1,P105
+1636,Cake,1,P105
+1637,Sugar,2,P105
+1638,Flour,2,P105
+1639,Quarks,2,P105
+1640,Atom,3,P105
+1641,Universe,3,P105
+1642,Galaxies,2,P105
+1643,Birds,3,P105
+1644,Orchids,6,P105
+1645,Crystallography,1,P105
+1646,Ethnographic Anthropology,1,P105
+1647,Quantum Mechanics,1,P105
+1648,Epistemologicalframework,1,P105
+1649,Atomic Theory,1,P105
+1650,Atomistic Research,1,P105
+1651,Macroscopic World,1,P105
+1652,Atomic Realm,2,P105
+1653,Human Knowledge,1,P105
+1654,Human Experience,13,P105
+1655,Physics,1,P105
+1656,Chemistry,1,P105
+1657,Biology,1,P105
+1658,Humanities,1,P105
+1659,Culinary Practice,1,P105
+1660,Complex Systems,1,P105
+1661,Matter,1,P105
+1662,Materials Science,1,P105
+1663,Nanotechnology,1,P105
+1664,Gastronomy,1,P105
+1665,Culinary Arts,1,P105
+1666,Human Spirit,1,P105
+1667,Architecture,1,P105
+1668,Buildings,1,P105
+1669,Electrons,1,P105
+1670,New Materials,1,P105
+1671,Technologies,2,P105
+1672,Gravity,6,P105
+1673,Reality,1,P105
+1674,Fantasy,1,P105
+1675,Flibberdejibbet,1,P105
+1676,Atoms,1,P105
+1677,Sentience,1,P105
+1678,Language,1,P105
+1679,Culture,1,P105
+1680,Customs,8,P105
+1681,Etiquette,1,P105
+1682,Particles,1,P105
+1683,Snazzlefraze Physics,1,P105
+1684,Glibbleglorp Effect,1,P105
+1685,Electron Spin,1,P105
+1686,Ice Cream,1,P105
+1687,Researcher,1,P105
+1688,Juewu-Mc,10,P095
+1689,Reinforcement Learning,1,P095
+1690,Minecraft,19,P095
+1691,Sample Efficiency,1,P095
+1692,Hierarchical Reinforcement Learning,1,P095
+1693,Representation Learning,1,P095
+1694,Imitation Learning,1,P095
+1695,Action-Aware Representation Learning,1,P095
+1696,Discriminator-Based Self-Imitation Learning,1,P095
+1697,Ensemble Behavior Cloning,1,P095
+1698,Consistency Filtering,1,P095
+1699,Rl Research,1,P095
+1700,Open - World Games,1,P095
+1701,Board Games,2,P095
+1702,Atari Games,1,P095
+1703,Simple First - Person - Shooter Games,1,P095
+1704,Real - Time Strategy Games,1,P095
+1705,Multiplayer Online Battle Arena Games,2,P095
+1706,Exploration,1,P095
+1707,Perception,1,P095
+1708,Construction,1,P095
+1709,3D Open World,2,P095
+1710,Partial Observability,1,P095
+1711,Occlusions,3,P095
+1712,Chained Tasks,7,P095
+1713,Long - Term Tasks,1,P095
+1714,Sample - Efficient Rl Agents,1,P095
+1715,Minerl,1,P095
+1716,Human Demonstrations,1,P095
+1717,Rl Algorithms,1,P095
+1718,Gather Resources,3,P095
+1719,Create Structures,1,P095
+1720,Create Items,1,P095
+1721,Sparse Reward,1,P095
+1722,Long-Horizon Decisions,1,P095
+1723,Hierarchical Rl,1,P095
+1724,Unstructured Demonstrations,1,P095
+1725,Domain Knowledge,1,P095
+1726,3D First-Person Game,2,P095
+1727,High-Dimensional Visual Input,2,P095
+1728,Representation,1,P095
+1729,Self-Imitation Learning,4,P095
+1730,Noisy,1,P095
+1731,High-Level Controller,1,P095
+1732,Low-Level Workers,1,P095
+1733,Deep Neural Networks,1,P063
+1734,Transfer Learning,3,P063
+1735,Multi - Task Learning,2,P063
+1736,Continual Learning,2,P063
+1737,Low - Level Features,4,P063
+1738,High - Level Features,4,P063
+1739,Hierarchical Distributed Representations,4,P063
+1740,Datasets,2,P063
+1741,Tasks,2,P063
+1742,Deep Networks,2,P063
+1743,Layer - Wise Transferability,4,P063
+1744,Source Dataset,1,P063
+1745,Target Dataset,1,P063
+1746,Network Architecture,1,P063
+1747,Curriculum Methods,1,P063
+1748,Citation Graph,1,P063
+1749,Neurips Papers,1,P063
+1750,Semantic Scholar,3,P063
+1751,S2Ag Api,1,P063
+1752,Aminer,1,P063
+1753,Authors,1,P063
+1754,Task Relatedness,2,P063
+1755,Neurips,1,P063
+1756,Usa,5,P063
+1757,China,7,P063
+1758,Europe,5,P063
+1759,Multinational Corporate Labs,5,P063
+1760,Ambiguity,1,P028
+1761,Language And Vision Ambiguities,1,P028
+1762,John Doe,1,P028
+1763,Work On Language And Vision,2,P028
+1764,Discourse Ambiguities,2,P028
+1765,Ellipsis,3,P028
+1766,Syntactic Ambiguities,1,P028
+1767,Semantic Ambiguities,1,P028
+1768,Linguistic Ambiguity Resolution,5,P028
+1769,Visual Information,1,P028
+1770,Psycholinguistics,1,P028
+1771,Cognitive Psychology,1,P028
+1772,Language Acquisition,1,P028
+1773,Grounded Disambiguation,4,P028
+1774,Iconic Gestures,2,P028
+1775,Artificial Intelligence,1,P028
+1776,Leoclr,1,P061
+1777,Supervised Learning (Ssl),1,P061
+1778,Data Augmentations,2,P061
+1779,Random Cropping,5,P061
+1780,Rotation,6,P061
+1781,Color Jitter,1,P061
+1782,Invariant Representations,1,P061
+1783,Positive Pairs,2,P061
+1784,Latent Space,3,P061
+1785,Representation Collapse,4,P061
+1786,Image Classification,1,P061
+1787,Object Detection,4,P061
+1788,Representation Learning,1,P061
+1789,Semantic Content,1,P061
+1790,Visual Representation Learning,1,P061
+1791,Object-Related Information,1,P061
+1792,Occlusions,1,P061
+1793,Feature Distance,1,P061
+1794,Occlusion Invariance,1,P061
+1795,Semantic Information,1,P061
+1796,Instance Discrimination Ssl Techniques,2,P061
+1797,Global Features,1,P061
+1798,Componentsand,1,P061
+1799,Image X,2,P061
+1800,Views X1 And X2,3,P061
+1801,Simclr,1,P061
+1802,Moco - V2,1,P061
+1803,Deep Learning,6,P020
+1804,3D Protein Structure Prediction,9,P020
+1805,Drug Discovery,1,P020
+1806,Protein Structure,1,P020
+1807,Convolutional Neural Networks,1,P020
+1808,Recurrent Neural Networks,1,P020
+1809,Amino Acid Sequences,1,P020
+1810,Fractal Patterns,2,P020
+1811,Romanesco Broccoli,1,P020
+1812,Protein Folds,1,P020
+1813,Eiffel Tower,1,P020
+1814,Therapeutic Agent Development,1,P020
+1815,Biochemical Plausibility,1,P020
+1816,Protein Structure Prediction,13,P020
+1817,Chaotic Systems,2,P020
+1818,Lorenz Attractor,2,P020
+1819,Musical Compositions,1,P020
+1820,Structural Proteomics,1,P020
+1821,Drug Discovery And Development,1,P020
+1822,Protein Secondary Structure,1,P020
+1823,Functional Sites,1,P020
+1824,Protein Surfaces,1,P020
+1825,Protein Sequences,1,P020
+1826,Therapeutic Strategies,1,P020
+1827,Human Disease,1,P020
+1828,Disorders,1,P020
+1829,Molecular Mechanisms,1,P020
+1830,Protein Biology,1,P020
+1831,Graph Neural Networks (Gnns),1,P046
+1832,Adversarial Examples,2,P046
+1833,Poisoning,7,P046
+1834,Evasion,1,P046
+1835,Node Classification,1,P046
+1836,Graph Classification,1,P046
+1837,Link Prediction,1,P046
+1838,Node Embeddings,1,P046
+1839,Deep Learning Models,1,P046
+1840,Product Recommendations,5,P046
+1841,Drug Discovery,1,P046
+1842,Symbiotic Attack,1,P046
+1843,Poisoning Attacks,1,P046
+1844,Evasion Attacks,1,P046
+1845,Test Set,1,P046
+1846,Global Budget,1,P046
+1847,Graph,1,P046
+1848,Adjacency Matrix,1,P046
+1849,Feature Matrix,2,P046
+1850,Gnn,2,P046
+1851,Parameters,1,P046
+1852,Weθ,1,P046
+1853,G,4,P046
+1854,Φ,1,P046
+1855,Ldenote,1,P046
+1856,Atkl,1,P046
+1857,Gnnsan,2,P046
+1858,Θ,1,P046
+1859,F,3,P046
+1860,Arg,1,P046
+1861,L,1,P046
+1862,Predictive Maintenance,21,P124
+1863,Smart Grids,2,P124
+1864,Time - Series Analysis,5,P124
+1865,Chaos Theory,1,P124
+1866,Fractal Analysis,1,P124
+1867,Machine Learning,1,P124
+1868,Historical Data,2,P124
+1869,Faults,4,P124
+1870,Failures,1,P124
+1871,Downtime,1,P124
+1872,Energy Distribution,1,P124
+1873,Lunar Cycles,1,P124
+1874,Solar Flares,2,P124
+1875,Grid Stability,4,P124
+1876,Time Series Analysis,2,P124
+1877,Fractal Theory,2,P124
+1878,Time-Series Analysis,1,P124
+1879,Equipment Failure,1,P124
+1880,Power Transformers,1,P124
+1881,Transmission Lines,1,P124
+1882,Bladedisc + +,7,P030
+1883,Dynamic Shape Compilers,2,P030
+1884,Dynamic Shape Graphs,1,P030
+1885,Operation Scheduling,3,P030
+1886,Rematerialization,6,P030
+1887,Memory Optimization,3,P030
+1888,Torchinductor,1,P030
+1889,Modular,1,P030
+1890,Bladedisc,1,P030
+1891,Bladedisc++,2,P030
+1892,Symbolic Shape Graph,1,P030
+1893,Computation Graph,4,P030
+1894,Operation Fusion,1,P030
+1895,Memory Usage Reduction,2,P030
+1896,Dynamic Shape Graph,3,P030
+1897,Regeneration Subgraphs,2,P030
+1898,Runtime,1,P030
+1899,Compile Time,2,P030
+1900,Analysisbladedisc,1,P030
+1901,Linear Structural Causal Models,1,P126
+1902,Treatment,6,P126
+1903,Outcomes,2,P126
+1904,Latent Confounders,1,P126
+1905,Causal Effect,2,P126
+1906,Proxy Variable,33,P126
+1907,Algorithm,3,P126
+1908,Cross Moments,1,P126
+1909,Model Misspecification,2,P126
+1910,High - Dimensional Data,2,P126
+1911,State - Of - The - Art Methods,1,P126
+1912,Causal Inference,1,P126
+1913,Latent Confounder,1,P126
+1914,Observed Variables,1,P126
+1915,Direct Effect,1,P126
+1916,Indirect Effect,1,P126
+1917,Cross - Moments,1,P126
+1918,Extensive Simulations,4,P126
+1919,State-Of-The-Art Methods,1,P126
+1920,Confounding,1,P126
+1921,Noise,1,P126
+1922,Accuracy,1,P126
+1923,Robustness,1,P126
+1924,Case Studies,3,P126
+1925,Causal Insights,1,P126
+1926,Traditional Methods,1,P126
+1927,Large-Scale Datasets,2,P126
+1928,Big Data,1,P126
+1929,Causal Inference Techniques,1,P126
+1930,Computational Demands,1,P126
+1931,Healthcare,1,P126
+1932,Economics,1,P126
+1933,Social Sciences,1,P126
+1934,Decision-Making,1,P126
+1935,Data Requirements,1,P126
+1936,Accessibility,1,P126
+1937,Data Collection,1,P126
+1938,Adoption,1,P126
+1939,Research,1,P126
+1940,Openomni,14,P029
+1941,Gpt-4O,1,P029
+1942,Gemini,1,P029
+1943,Large Language Models,3,P029
+1944,User Intent,1,P029
+1945,Text - Based Human - Computer Interaction,1,P029
+1946,Multimodal Interaction,3,P029
+1947,Audio,2,P029
+1948,Video,1,P029
+1949,Text,1,P029
+1950,Response Times,1,P029
+1951,Large - Scale Applications,1,P029
+1952,Multimodal Generative Models,4,P029
+1953,Open - Source,1,P029
+1954,End - To - End Conversational Agent,1,P029
+1955,Human Interaction,1,P029
+1956,Visual Inputs,1,P029
+1957,Auditory Inputs,1,P029
+1958,Audio Outputs,4,P029
+1959,Modular Components,1,P029
+1960,Research And Development,1,P029
+1961,Audio Speech Recognition,1,P029
+1962,Speech2Text,1,P029
+1963,Multimodal Large Models,1,P029
+1964,Mlms,1,P029
+1965,Text - To - Speech Synthesis,1,P029
+1966,Tts,1,P029
+1967,Multimodal Conversation Framework,2,P029
+1968,Latency,1,P029
+1969,Accuracy,3,P029
+1970,Contextual Relevance,2,P029
+1971,End - To - End Latency,2,P029
+1972,Open - Source Community,3,P029
+1973,Data Privacy,1,P029
+1974,Closed - Source,1,P029
+1975,Cost,2,P029
+1976,Data Confidentiality,1,P029
+1977,Paid Apis,5,P029
+1978,Users,1,P029
+1979,Privacy Policy,1,P029
+1980,Account Details,1,P029
+1981,User - Generated Content,1,P029
+1982,Communication Data,2,P029
+1983,Social Media Information,3,P029
+1984,Evaluation And Benchmarking Protocols,1,P029
+1985,User,1,P029
+1986,Asad,1,P029
+1987,Urgent Tone,1,P029
+1988,Conversational Agent,1,P029
+1989,Adaptive Pixelwise Kernel Variances,3,P060
+1990,Background Modeling,1,P060
+1991,Feature Space,4,P060
+1992,Probabilistic Models,4,P060
+1993,Mixtures Of Gaussians,1,P060
+1994,Kernel Density Estimates,1,P060
+1995,Joint Domain - Range Density Estimates,1,P060
+1996,Texture Information,1,P060
+1997,Local Binary Patterns,1,P060
+1998,Scale - Invariant Local Ternary Patterns,1,P060
+1999,Mixtureof Gaussians,1,P060
+2000,Non - Parametric Kernel Density Estimation,2,P060
+2001,Joint Domain - Rangedensity Estimation,1,P060
+2002,Neighbor - Independent Models,1,P060
+2003,Foreground Model,1,P060
+2004,Background Model,1,P060
+2005,Kernel Estimate,1,P060
+2006,Background Score,2,P060
+2007,Foreground Score,1,P060
+2008,Soft Label,1,P060
+2009,Estimation Kernel,4,P060
+2010,Spatial And Appearance Uncertainties,1,P060
+2011,Tree Trunk,2,P060
+2012,Leaves,2,P060
+2013,Wind,2,P060
+2014,Mean Integrated Square Error (Mise),1,P060
+2015,Asymptotic Mise (Amise),1,P060
+2016,Leave - One - Out - Estimator Based Solutions,1,P060
+2017,Covariance,1,P060
+2018,Variance,3,P060
+2019,Pixel,1,P060
+2020,Frame,1,P060
+2021,Training Set,1,P060
+2022,Classification Phase,9,P060
+2023,Maximum - Likelihood Approach,1,P060
+2024,Likelihood,1,P060
+2025,Balloon Estimator,1,P060
+2026,Kernel Variances,1,P060
+2027,Computation,1,P060
+2028,Accuracy,2,P060
+2029,Speed,1,P060
+2030,Compcars,1,P102
+2031,Cars,1,P102
+2032,Car Verification,12,P102
+2033,Deep Image Prior,2,P093
+2034,Inverse Problems,3,P093
+2035,Computational Imaging,1,P093
+2036,Image Denoising,1,P093
+2037,Super-Resolution,1,P093
+2038,Observation Y,4,P093
+2039,Visual Object X,3,P093
+2040,Forward Physical Process F,4,P093
+2041,Modeling Inaccuracies,2,P093
+2042,Observational Noise,2,P093
+2043,Gaussian Noise,1,P093
+2044,Shot Noise,7,P093
+2045,Problem - Specific Priors,1,P093
+2046,Noise Modeling,1,P093
+2047,Regularizers,1,P093
+2048,Impulse Noise,1,P093
+2049,Subgradient Techniques,1,P093
+2050,Decreasing Step Size Schedules,1,P093
+2051,21131 Loss,1,P093
+2052,Early Stopping (Es),3,P093
+2053,No - Reference Blurriness,1,P093
+2054,Sharpness,1,P093
+2055,Dip Models,1,P093
+2056,Coupled Autoencoder,1,P093
+2057,Blind Image Deblurring,1,P093
+2058,Agglomerative Model - Reduce All Domains Into One (Am-Radio),4,P045
+2059,Vision Foundation Models (Vfm),6,P045
+2060,Imagenet Classification,1,P045
+2061,Semantic Segmentation,1,P045
+2062,Linear Probing,1,P045
+2063,Coco Object Detection,1,P045
+2064,Lava-1,1,P045
+2065,Zero-Shot Vision-Language Comprehension,1,P045
+2066,Detailed Pixel-Level Understanding,1,P045
+2067,Open Vocabulary Segmentation,1,P045
+2068,Knowledge Distillation,1,P045
+2069,Student,1,P045
+2070,Teacher,2,P045
+2071,Foundation_Model,2,P045
+2072,Clip,2,P045
+2073,Zeroshot Applications,5,P045
+2074,Segment - Anything Tasks,1,P045
+2075,Visionencoder,1,P045
+2076,Mask Decoders,1,P045
+2077,E - Radio,1,P045
+2078,Vit Vfms,1,P045
+2079,Teachermodels,1,P045
+2080,Student Models,1,P045
+2081,Patternattribution,3,P013
+2082,Deep Neural Classifiers,2,P013
+2083,Linear Model,1,P013
+2084,Patternnet,2,P013
+2085,Signalx,2,P013
+2086,S,7,P013
+2087,D,4,P013
+2088,Noise,1,P013
+2089,Lineary,1,P013
+2090,W,3,P013
+2091,X,2,P013
+2092,Y,2,P013
+2093,U,1,P013
+2094,V,1,P013
+2095,"Cov(X,Y)",1,P013
+2096,Sigma,5,P013
+2097,M,1,P013
+2098,Md,1,P013
+2099,Amazon Review Polarity Data Set,2,P013
+2100,Cnn Text Classifier,2,P013
+2101,Bigram Filters,1,P013
+2102,Dropout Regularization,1,P013
+2103,Dense Fcprojection,1,P013
+2104,F1 Score,1,P013
+2105,Dna,5,P134
+2106,Cheese,2,P134
+2107,Refrigerator,2,P134
+2108,Forgotten Sock Syndrome,2,P134
+2109,Platypus,2,P134
+2110,Pancake,2,P134
+2111,Flumplenook Hypothesis,2,P134
+2112,Disco Music,2,P134
+2113,Unladen Swallow,1,P134
+2114,Croissant,1,P134
+2115,Toaster Universe,1,P134
+2116,Tartan Pattern,1,P134
+2117,Narwhal,1,P134
+2118,Capybaras,1,P134
+2119,Socratic Dialogue,1,P134
+2120,Dna Research,1,P134
+2121,Quantum Mechanics,1,P134
+2122,Agriculture - Vision Challenge,4,P074
+2123,Computer Vision,2,P074
+2124,Agriculture,1,P074
+2125,Remote Sensing,1,P074
+2126,Satellite Images,1,P074
+2127,Aerial Images,1,P074
+2128,Deep Learning,1,P074
+2129,Viatransformer,1,P074
+2130,Agriculture-Vision-Challenge,1,P074
+2131,Background,1,P074
+2132,Double Plant,7,P074
+2133,Drydown,1,P074
+2134,Endrow,1,P074
+2135,Nutrient Deficiency,1,P074
+2136,Planter Skip,1,P074
+2137,Water,1,P074
+2138,Waterway,1,P074
+2139,Cluster 11111,1,P074
+2140,2834,1,P074
+2141,14423,2,P074
+2142,27733,15,P074
+2143,Frameworkfig. 1,1,P074
+2144,Segformer,1,P074
+2145,Transformer - Based Efficientsegmentation Model,1,P074
+2146,Hierarchical Transformer Encoder,1,P074
+2147,Mlp Layers,1,P074
+2148,B0,1,P074
+2149,B1,1,P074
+2150,B2,1,P074
+2151,B3,1,P074
+2152,B4,1,P074
+2153,B5,1,P074
+2154,Mit B3,1,P074
+2155,Mit B2,1,P074
+2156,1X,1,P074
+2157,Neural Approaches To Real - Time Weather Forecasting,2,P107
+2158,Neural Networks,1,P107
+2159,Generative Adversarial Networks (Gans),1,P107
+2160,Synthetic Weather Patterns,4,P107
+2161,Real-World Datasets,6,P107
+2162,Neural Weather Forecasting Models,1,P107
+2163,Extreme Events,2,P107
+2164,Chaotic Theory,6,P107
+2165,Social Media Data,1,P107
+2166,Crowd-Sourced Data,1,P107
+2167,Ground Truth Data,2,P107
+2168,Traditional Observation Networks,2,P107
+2169,Weather Forecasting,1,P107
+2170,Astrological Principles,2,P107
+2171,Celestial Bodies,1,P107
+2172,Atmospheric Conditions,2,P107
+2173,Edge Computing,2,P107
+2174,Internet Of Things (Iot),1,P107
+2175,Remote Devices,1,P107
+2176,Sensors,1,P107
+2177,2021Shifts Challenge,1,P021
+2178,Autonomous Driving,9,P021
+2179,Deep Learning,1,P021
+2180,Vehicle Trajectory Prediction,1,P021
+2181,Motion Prediction,1,P021
+2182,Control Commands,1,P021
+2183,Domain Shift Problem,1,P021
+2184,Self - Attention,1,P021
+2185,Loss Function,1,P021
+2186,Nfnet,2,P021
+2187,Predictions,3,P021
+2188,Lossfunction,2,P021
+2189,Roboustness,2,P021
+2190,Competition,2,P021
+2191,Dataset,2,P021
+2192,Distribution,1,P021
+2193,Rasterimages,1,P021
+2194,Vehicle,2,P021
+2195,Trajectory,5,P021
+2196,Position,1,P021
+2197,Orientation,1,P021
+2198,Acceleration,1,P021
+2199,Velocity,1,P021
+2200,Backbone,3,P021
+2201,Featureextractor,2,P021
+2202,Autoregressivemodel,2,P021
+2203,Behaviorcloning,1,P021
+2204,Deepimitationmodel,3,P021
+2205,Ensemblemethod,1,P021
+2206,Latentvector,1,P021
+2207,Training,1,P021
+2208,Validation,1,P021
+2209,Mobilenetv1,1,P021
+2210,Mobilenetv2,4,P021
+2211,Mobilenetv3,1,P021
+2212,Gru_Model,1,P021
+2213,Applying Swarm Intelligence To Real - Time Stagelighting,15,P081
+2214,Entropy,1,P081
+2215,Unpredictability,3,P081
+2216,Human Emotional Experience,6,P081
+2217,Entomological Hyperreality,3,P081
+2218,Theatrical Expression,1,P081
+2219,Insect Inspired Algorithms,2,P081
+2220,Emotional Crowd Control,2,P081
+2221,Audience,1,P081
+2222,Swarm,1,P081
+2223,Observer,1,P081
+2224,Performance,1,P081
+2225,Spectacle,1,P081
+2226,Human Insect Interaction,1,P081
+2227,Swarm Intelligence,1,P081
+2228,Chaos Theory,1,P081
+2229,Human Emotional Psyche,1,P081
+2230,Stage Lighting,3,P081
+2231,Immersive Experiences,2,P081
+2232,Dynamic Stage Lighting Experiences,2,P081
+2233,Euphoria,2,P081
+2234,Nostalgia,1,P081
+2235,Ant Colony Optimization Algorithms,1,P081
+2236,Fireflies,2,P081
+2237,Theatrical Stage Lighting,1,P081
+2238,Collective Hysteria,4,P081
+2239,Insect Species,1,P081
+2240,Locusts,1,P081
+2241,Grasshoppers,1,P081
+2242,Algorithmicsystems,1,P081
+2243,Human Experience,1,P081
+2244,Advanced Residual Networks,1,P092
+2245,Sub - Pixel Convolution Techniques,10,P092
+2246,Image Compression,1,P092
+2247,Multiscale Structural Similarity Index ( Ms - Ssim ),1,P092
+2248,Bit Rate Constraint,1,P092
+2249,Computer Vision,1,P092
+2250,Signal Processing,1,P092
+2251,Deep Learning,1,P092
+2252,Jpeg Standards,1,P092
+2253,Mobile Devices,1,P092
+2254,Image Formats,1,P092
+2255,Larger Kernel Sizes,1,P092
+2256,Improved Coding Efficiency,1,P092
+2257,Deep Residual Learning,2,P092
+2258,Broad Receptive Field,1,P092
+2259,Reduced Number Of Parameters,2,P092
+2260,Model Size,1,P092
+2261,Image Quality,2,P092
+2262,Artifacts,1,P092
+2263,Up-Sampling Operations,1,P092
+2264,Baseline,2,P092
+2265,Hyperprior,2,P092
+2266,Kodak,2,P092
+2267,Mse,2,P092
+2268,Tina,4,P057
+2269,Charly,4,P057
+2270,Ai,3,P057
+2271,Neural Sketcher,1,P057
+2272,Machine,1,P057
+2273,Generative Adversarial Networks (Gans),6,P026
+2274,Whale Song,4,P026
+2275,Hypnotic Trance Music,24,P026
+2276,Human Creativity,2,P026
+2277,Psychoacoustic,1,P026
+2278,Focus,2,P026
+2279,Problem - Solving Skills,1,P026
+2280,Telepathic Communication,1,P026
+2281,Chaos Theory,1,P026
+2282,Fractal Geometry,1,P026
+2283,Human Brain,1,P026
+2284,Natural Harmonics,1,P026
+2285,Plant Growth,1,P026
+2286,Consciousness,1,P026
+2287,Photosynthetic Activity,2,P026
+2288,Floral Bloom Intensity,1,P026
+2289,Biology,1,P026
+2290,Ecology,1,P026
+2291,Paranormal Research,1,P026
+2292,Lucid Dreaming,3,P026
+2293,Subconscious Mind,1,P026
+2294,Acoustic Features,1,P026
+2295,Low-Frequency Rumbles,1,P026
+2296,High-Pitched Clicks,1,P026
+2297,Cognitive Enhancement,1,P026
+2298,Mental Wellness,1,P026
+2299,Stress Reduction,1,P026
+2300,Mood Improvement,1,P026
+2301,Cognitive Function,4,P026
+2302,Attention-Deficit Hyperactivity Disorder (Adhd),1,P026
+2303,Music Therapy,1,P026
+2304,Psychology,1,P026
+2305,Neuroscience,1,P026
+2306,Alpha Discovery Neural Network,1,P052
+2307,Multi - Factor Strategies,1,P052
+2308,Investment Strategies,1,P052
+2309,Technical Indicators,6,P052
+2310,Fundamental Data,1,P052
+2311,Fama - Frenchthree - Factor Model,1,P052
+2312,Fama - French Five - Factor Model,1,P052
+2313,Automated Financial Feature Engineering,1,P052
+2314,Person,1,P052
+2315,Cnn_Model,1,P052
+2316,Lstm,1,P052
+2317,Convolutional Neural Network,7,P052
+2318,Recurrent Neural Network,3,P052
+2319,Financial Feature Engineering,1,P052
+2320,Financial Time Series,1,P052
+2321,Stock Time Series,1,P052
+2322,Stock'S Future Return,1,P052
+2323,Unstructured News Data,1,P052
+2324,Event - Driven Trading,1,P052
+2325,Skip - Gram Architecture,1,P052
+2326,Next - Generation Brain - Computer Interfaces For Assistive Devices,9,P106
+2327,Brain - Computer Interface,6,P106
+2328,Assistive Devices,2,P106
+2329,Disabilities,1,P106
+2330,Neural Decoding,1,P106
+2331,Machine Learning,1,P106
+2332,Electroencephalography,1,P106
+2333,Functional Near - Infrared Spectroscopy,1,P106
+2334,Chaos Theory,1,P106
+2335,Fractal Analysis,1,P106
+2336,Brain-Computer Interfaces (Bcis),16,P106
+2337,Neuroimaging Techniques,1,P106
+2338,Artificial Intelligence,1,P106
+2339,Machine Learning Algorithms,1,P106
+2340,Brain Signals,2,P106
+2341,Dream Analysis,2,P106
+2342,Rem Sleep,1,P106
+2343,Robotic Arm,1,P106
+2344,Virtual Reality (Vr),1,P106
+2345,Augmented Reality (Ar),1,P106
+2346,Paralysis,1,P106
+2347,Autonomy,1,P106
+2348,Self-Esteem,1,P106
+2349,Transcranial Magnetic Stimulation (Tms),1,P106
+2350,Transcranial Direct Current Stimulation (Tdcs),1,P106
+2351,Bci,8,P106
+2352,Spinal Cord Injuries,1,P106
+2353,Signal Processing Algorithms,1,P106
+2354,User-Machine Interfaces,1,P106
+2355,Edible Electrodes,1,P106
+2356,Ethics,1,P106
+2357,Neural Enhancement,1,P106
+2358,Societal Implications,1,P106
+2359,Next-Generation Bcis,1,P106
+2360,Neural Mechanisms,6,P106
+2361,Human Cognition,1,P106
+2362,Human Behavior,1,P106
+2363,Emotions,1,P106
+2364,Attention,1,P106
+2365,Motivation,1,P106
+2366,Brain Function,1,P106
+2367,Bci Control,3,P106
+2368,Quality Of Life,1,P106
+2369,Electroencephalography (Eeg),1,P106
+2370,Functional Near-Infrared Spectroscopy (Fnirs),1,P106
+2371,Entropy,15,P119
+2372,Wobble,1,P119
+2373,Particles,1,P119
+2374,Vacuum,1,P119
+2375,Scholars,1,P119
+2376,Culinary Arts,1,P119
+2377,Pastry Dishes,1,P119
+2378,Crust,1,P119
+2379,Environment,1,P119
+2380,Migratory Patterns,1,P119
+2381,Species,1,P119
+2382,Flibberjibber Bird,1,P119
+2383,Song Structure,1,P119
+2384,Quantum Mechanics,2,P119
+2385,Fundamental Forces,2,P119
+2386,Force Of Splishyblop,1,P119
+2387,Thermodynamics,1,P119
+2388,Spontaneous Combustion,1,P119
+2389,Furniture,1,P119
+2390,Wood,1,P119
+2391,Snazzle Tree,2,P119
+2392,Island,1,P119
+2393,Plooflingville,1,P119
+2394,Culture,1,P119
+2395,Deity,2,P119
+2396,Zorb,2,P119
+2397,Spoon_Of_Glibble,1,P119
+2398,Flumplenook,1,P119
+2399,Flibulon_Accelerator,2,P119
+2400,Snurflotzer_Particle,1,P119
+2401,99Dots,2,P019
+2402,Tuberculosis,6,P019
+2403,Digital Adherence Technologies,2,P019
+2404,Machine Learning,1,P019
+2405,India,1,P019
+2406,World Health Organization (Who),1,P019
+2407,Tuberculosis (Tb),2,P019
+2408,Directly Observed Treatment (Dot),2,P019
+2409,Digital Adherence Technologies (Dats),1,P019
+2410,Everwell,1,P019
+2411,City Tb Office Of Mumbai,1,P019
+2412,Who,5,P019
+2413,Mumbai,1,P019
+2414,Tb Patients,2,P019
+2415,Multimodal Deep Ensemble For Hateful Meme Identification,1,P109
+2416,Labeled Multimodal Memes Challenge,7,P109
+2417,Hate Speech Identification,1,P109
+2418,Multimodal Hate Speech,2,P109
+2419,Benign Alteration,1,P109
+2420,Area Under The Receiver Operating Characteristic Curve (Auroc),1,P109
+2421,True Positive Rate (Tpr),1,P109
+2422,False Positive Rate (Fpr),1,P109
+2423,Accuracy,1,P109
+2424,Vl-Bert,2,P109
+2425,Vlp,1,P109
+2426,Uniter,1,P109
+2427,Lxmert,3,P109
+2428,Bert,1,P109
+2429,Faster R-Cnn,1,P109
+2430,Books Corpus,1,P109
+2431,Cc,1,P109
+2432,Coco,3,P109
+2433,Vg,1,P109
+2434,Sbu,1,P109
+2435,Recurrent Neural Networks,2,P058
+2436,Transformer Neural Networks,5,P058
+2437,Positional Encoding,1,P058
+2438,Low-Frequency Tokens,1,P058
+2439,Rnn,9,P058
+2440,Transformer,2,P058
+2441,Rnns,1,P058
+2442,Transformers,1,P058
+2443,Training Rnns With Large Vocabularies,2,P058
+2444,Gradient Instability,3,P058
+2445,Infrequent Tokens,1,P058
+2446,Universal Approximation,1,P058
+2447,Turing-Complete,1,P058
+2448,Reservoir Computers,1,P058
+2449,Finite Precision,1,P058
+2450,Observations,2,P058
+2451,Memory,1,P058
+2452,Continuous-Time Models,2,P058
+2453,Input Sequence,2,P058
+2454,High-Order Polynomial Projection Operator (Hippo),2,P058
+2455,Ordinary Differential Equation (Ode),1,P058
+2456,Learnable State Matrix,1,P058
+2457,Diagonal Matrix,3,P058
+2458,Row-Rank Matrix,1,P058
+2459,State-Space Model,1,P058
+2460,Omniprint,16,P079
+2461,Omniglot,1,P079
+2462,Classification,1,P079
+2463,Regression,2,P079
+2464,Image,2,P079
+2465,Printed Character,2,P079
+2466,Vector,3,P079
+2467,Discrete Label,1,P079
+2468,Continuous Label,2,P079
+2469,Nuisance Variable,6,P079
+2470,Metadata,1,P079
+2471,Covariate,1,P079
+2472,Shear,2,P079
+2473,Rotation,1,P079
+2474,Line Width Variations,1,P079
+2475,Background Changes,1,P079
+2476,P(Z),1,P079
+2477,P(Y|Z),2,P079
+2478,"P(X|Z,Y)",4,P079
+2479,Medical Diagnosis,2,P079
+2480,Genetic Disease,2,P079
+2481,Phenotype,1,P079
+2482,Genotype,1,P079
+2483,Analytical Chemistry,1,P079
+2484,Chromatography,1,P079
+2485,Textrecognitiondatagenerator,1,P079
+2486,Unicode Standard,1,P079
+2487,Machine Learning Models,1,P079
+2488,20Languages,2,P079
+2489,Oriya,1,P079
+2490,Nuisance Parameters,1,P079
+2491,Font,1,P079
+2492,Style,1,P079
+2493,Background,4,P079
+2494,Noise,2,P079
+2495,Automaticfont Collection Module,1,P079
+2496,Freetype Rasterization Engine,2,P079
+2497,Vector - Based Pre - Rasterization Transformations,1,P079
+2498,Seamless Blending,1,P079
+2499,Custom Post - Rasterization Transformations,1,P079
+2500,Utility Code,1,P079
+2501,Dataset Formatters,1,P079
+2502,Data Loader,2,P079
+2503,Meta - Learningapplications,1,P079
+2504,Mlresearch,2,P079
+2505,Truetype Font Files,1,P079
+2506,Opentype Font Files,1,P079
+2507,Rotation Angle,1,P079
+2508,Stroke Width,1,P079
+2509,Foreground,1,P079
+2510,Textoutline,1,P079
+2511,Nlc2Cmd,4,P103
+2512,Command-Line Interface,4,P103
+2513,Natural Language,1,P103
+2514,Bash,2,P103
+2515,Software Development,1,P103
+2516,Operating Systems,1,P103
+2517,Cloud Platforms,1,P103
+2518,Competition,2,P103
+2519,Tracka,1,P103
+2520,Ubuntu 18.04 Lts,1,P103
+2521,Full Command Accuracy,3,P103
+2522,Bleu Score,1,P103
+2523,Template Accuracy,1,P103
+2524,Verification By Execution,3,P103
+2525,Nlc2Cmd Metric,1,P103
+2526,An Empathetic Ai Painter,4,P114
+2527,Computational Creativity,1,P114
+2528,Embodiedconversational Interaction,1,P114
+2529,Portrait Artist,1,P114
+2530,User,1,P114
+2531,Empathic Ai Painter System,8,P114
+2532,M - Path System,1,P114
+2533,Ai Portraiture System,2,P114
+2534,2019 Disentanglement Challenge,2,P131
+2535,Variational Autoencoder,1,P131
+2536,Imagenet Database,2,P131
+2537,"Angle, Position Estimation, Or Color Classification",3,P131
+2538,Pretrained Cnn,1,P131
+2539,Convolutional Feature Maps,1,P131
+2540,Imagenet,4,P131
+2541,Mpi3D Dataset,1,P131
+2542,Feature Aggregation,2,P131
+2543,Vae,1,P131
+2544,Latent Factors Of Variation,1,P131
+2545,Fine-Tuning,2,P131
+2546,Mpi3D-Toy,3,P131
+2547,Mpi3D-Realistic,1,P131
+2548,Mpi3D - Real,3,P131
+2549,Mpi3D - Toy,1,P131
+2550,Mpi3D - Realistic,1,P131
+2551,Vgg19 - Bn,1,P131
+2552,Water,11,P032
+2553,Quasars,1,P032
+2554,Ofwater,1,P032
+2555,Fungal Hyphae,2,P032
+2556,Pastry Dough,3,P032
+2557,Space - Time Continuum,3,P032
+2558,Narwhal Tusks,2,P032
+2559,Harmonic Convergence,1,P032
+2560,Interpretive Dance,1,P032
+2561,Complex Systems,3,P032
+2562,Sentient Puddings,1,P032
+2563,Toaster Appliances,1,P032
+2564,Collective Unconscious,2,P032
+2565,Carl Jung,1,P032
+2566,Large Language Models,2,P080
+2567,Scientific Peer Review,2,P080
+2568,Author Checklist,4,P080
+2569,Scientific Paper Submissions,1,P080
+2570,Llm - Based Checklist Assistant,2,P080
+2571,Checklist Assistant,3,P080
+2572,Authors,1,P080
+2573,Submission Process,2,P080
+2574,Conference2019,1,P080
+2575,Llm,1,P080
+2576,Checklist Verification Assistant,1,P080
+2577,Model-Based Counterfactual Advantage Learning (Mbcal),6,P010
+2578,Recommender Systems,4,P010
+2579,User Logs,2,P010
+2580,Environment Model,4,P010
+2581,Future Advantage Model,1,P010
+2582,Deep Reinforcement Learning,2,P010
+2583,Supervised Learning,1,P010
+2584,Introduction,1,P010
+2585,Personalized Content,1,P010
+2586,Information Retrieval,1,P010
+2587,Modern Recommender Systems,1,P010
+2588,News Feeds,1,P010
+2589,User - System Interactions,1,P010
+2590,Session,1,P010
+2591,Content Recommended,1,P010
+2592,Future User Behavior,1,P010
+2593,Exploring New Topics,1,P010
+2594,Related Areas,1,P010
+2595,Repeatedly Showing Similar Content,1,P010
+2596,User Engagement,1,P010
+2597,Traditional Recommender Systems,2,P010
+2598,Collaborative Filtering,1,P010
+2599,Neural Networks,1,P010
+2600,Immediate User Actions,1,P010
+2601,Clicks,1,P010
+2602,Recommendation Redundancy,1,P010
+2603,User Experience,3,P010
+2604,Deep Rl,1,P010
+2605,Markov Decision Processes,2,P010
+2606,Mdps,2,P010
+2607,Model - Free Reinforcement Learning,1,P010
+2608,Mfrl,1,P010
+2609,Data Consumption,1,P010
+2610,Sample Efficiency,2,P010
+2611,Practical Risks,1,P010
+2612,On - Policy Rl,1,P010
+2613,Off - Policy Rl,4,P010
+2614,Online Infrastructure,1,P010
+2615,Model-Based Rl (Mbrl),2,P010
+2616,Function Approximation,1,P010
+2617,Offline Training,1,P010
+2618,Planning Module,1,P010
+2619,Optimal Trajectory,2,P010
+2620,Multi-Stage Retrieval,1,P010
+2621,Candidate Sets,2,P010
+2622,Dyna Algorithms,1,P010
+2623,Virtual Interactions,4,P010
+2624,Error Accumulation,1,P010
+2625,Gradient Variance,1,P010
+2626,Stochastic Transitions,2,P010
+2627,Noisy Rewards,2,P010
+2628,Stochastic Policies,4,P010
+2629,Advantage Function,1,P010
+2630,Variance,1,P010
+2631,User Feedback,1,P010
+2632,Noise,1,P010
+2633,User Behavior,1,P010
+2634,Resampling Trajectories,1,P010
+2635,Data Sparsity,1,P010
+2636,Video Sharing,1,P017
+2637,Video Highlights,1,P017
+2638,Time - Synchronized Comments,4,P017
+2639,Lag-Calibration,1,P017
+2640,Emotion-Topic-Concentration,1,P017
+2641,Unsupervised-Highlight-Labeling,1,P017
+2642,Word-To-Concept-Mapping,1,P017
+2643,Word-To-Emotion-Mapping,4,P017
+2644,Global-Word-Embedding,1,P017
+2645,Lexical-Chains,1,P017
+2646,Bullet-Comments,1,P017
+2647,Highlight-Detection,1,P017
+2648,Highlight-Summarization,2,P017
+2649,Basic-Sum-Algorithm,2,P017
+2650,Video-Highlights,1,P017
+2651,Time-Synchronized-Comments,4,P017
+2652,Concept-Mapped-Lexical-Chains,1,P017
+2653,Bullet-Comment-Word-Embedding,3,P017
+2654,Emotion-Lexicon,3,P017
+2655,Highlight-Detection-Ground-Truth,3,P017
+2656,Stack - Lstms,6,P033
+2657,Amr Parsing,9,P033
+2658,Transition - Based Algorithms,1,P033
+2659,English,1,P033
+2660,Amr Training Data,1,P033
+2661,Pos Tags,1,P033
+2662,Dependency Trees,1,P033
+2663,Named Entity Recognition,1,P033
+2664,Word Sense Disambiguation,1,P033
+2665,Syntactic And Semantic Role Labeling,1,P033
+2666,Abstract - Meaning Representation Parsing,1,P033
+2667,Phrase - Structure Parsing,1,P033
+2668,Ccg Parsing,1,P033
+2669,Joint Syntactic And Semantic Parsing,1,P033
+2670,Shift - Reduce Algorithms,1,P033
+2671,Input,1,P033
+2672,Stack,3,P033
+2673,Buffer,5,P033
+2674,Algorithm,2,P033
+2675,Amr,4,P033
+2676,Words,2,P033
+2677,Pos_Tags,1,P033
+2678,Dependency_Trees,1,P033
+2679,Named_Entities,1,P033
+2680,Shift,1,P033
+2681,Confirm,1,P033
+2682,Reduce,1,P033
+2683,Merge,1,P033
+2684,Entity,1,P033
+2685,Label,1,P033
+2686,Ava - Activespeaker Dataset,1,P014
+2687,Ava-Activespeaker,3,P014
+2688,Train,1,P014
+2689,Kval,2,P014
+2690,Test,1,P014
+2691,Convolutional Neural Network,3,P014
+2692,Vgg-M Network,1,P014
+2693,3D Convolution,1,P014
+2694,2D Convolution,1,P014
+2695,Audio Encoder,2,P014
+2696,Video Encoder,2,P014
+2697,Lstm,1,P014
+2698,Back-End Classifier,1,P014
+2699,Lstm Classifier,2,P014
+2700,Tc Classifier,2,P014
+2701,Ensemble,2,P014
+2702,Median Filter,1,P014
+2703,Wiener Filter,1,P014
+2704,Recent Advancements In Representing Words In Vector Spaces,2,P117
+2705,Zero - Shot Learning,1,P117
+2706,Image Caption Generation,1,P117
+2707,Word Vectors,1,P117
+2708,Nlp,1,P117
+2709,Linguistic Patterns,4,P117
+2710,Linear Offsets,1,P117
+2711,Word Analogy Studies,1,P117
+2712,Syntactic Relationships,1,P117
+2713,Semantic Connections,3,P117
+2714,King,1,P117
+2715,Man,1,P117
+2716,Queen,1,P117
+2717,Woman,1,P117
+2718,Visual Patterns,1,P117
+2719,Image Tagging,1,P117
+2720,Word Lexicon,1,P117
+2721,Zoo,3,P117
+2722,People,1,P117
+2723,Animal,8,P117
+2724,Sailor,2,P117
+2725,Book,2,P117
+2726,Landscape,1,P117
+2727,Unk,1,P117
+2728,W,1,P117
+2729,P,2,P117
+2730,N,1,P117
+2731,Gpt-3,1,P066
+2732,Bloom,2,P066
+2733,Real-World Business Applications,1,P066
+2734,Knowledge Distillation,1,P066
+2735,Large Language Models (Llms),3,P066
+2736,Teacher Model,1,P066
+2737,Student Model,2,P066
+2738,Tokenizer,3,P066
+2739,Vocabulary Compression,1,P066
+2740,Downstream Task Domain,1,P066
+2741,Pre - Trained General - Purpose Lms,2,P066
+2742,Domain Statistics,2,P066
+2743,Vertical Tokenizer,2,P066
+2744,Vocabularies,2,P066
+2745,Embedding Matrix,2,P066
+2746,Kd,1,P066
+2747,Tokenizers,1,P066
+2748,Distilbert,2,P066
+2749,Bert,1,P066
+2750,Sanh Et Al.,1,P066
+2751,Soil,9,P073
+2752,Flora,2,P073
+2753,Wind,2,P073
+2754,Scandinavian Lemurs,1,P073
+2755,Astrobiology,1,P073
+2756,Molecular Structure,2,P073
+2757,Extraterrestrial Soil Analogs,3,P073
+2758,Moons Of Gas Giants,1,P073
+2759,Culinary Traditions,2,P073
+2760,19Th Century French Patisserie,2,P073
+2761,Extreme Ironing,1,P073
+2762,Xenolinguistics,1,P073
+2763,Pedology,2,P073
+2764,Microorganisms,2,P073
+2765,Postmodern Literature,2,P073
+2766,Soil Ecosystems,2,P073
+2767,Hermeneutics,2,P073
+2768,Pastry Dough,1,P073
+2769,Platypus,1,P073
+2770,Harmonica,1,P073
+2771,Cosmos,1,P073
+2772,Theory Of Soil - Harmonica Interactions,1,P073
+2773,Mauve,1,P073
+2774,Chartreuse,1,P073
+2775,Crystalline Structures,3,P073
+2776,Soil Minerals,1,P073
+2777,Migratory Bird Patterns,3,P073
+2778,Harmonic Resonance,1,P073
+2779,Acoustic Guitars,2,P073
+2780,Ecosystems,1,P073
+2781,Human Experience,2,P073
+2782,1980S Pop Culture,1,P073
+2783,Soil Erosion Rates,2,P073
+2784,Soil-Water Suspensions,1,P073
+2785,Soil Science,1,P073
+2786,Sociology,3,P073
+2787,Surrealism,1,P073
+2788,Cryptozoology,1,P073
+2789,Loch Ness Monster,3,P073
+2790,Chupacabra,1,P073
+2791,New Paradigm,1,P073
+2792,Disciplinary Boundaries,4,P073
+2793,Fluid Understanding,1,P073
+2794,Melancholic Understanding,1,P073
+2795,Soil - Scape,1,P073
+2796,Dynamic,9,P073
+2797,Ever - Changing Tapestry,1,P073
+2798,Relationships,1,P073
+2799,Processes,1,P073
+2800,Sentient,1,P073
+2801,Quasi - Liquid Entity,1,P073
+2802,Agency,1,P073
+2803,Consciousness,1,P073
+2804,Postmodern Soil Theory,1,P073
+2805,Reality,4,P073
+2806,Moisture Content,1,P073
+2807,Cation Exchange Capacity,1,P073
+2808,Soils Worldwide,1,P073
+2809,Chaos Theory,1,P073
+2810,Fractal Geometry,3,P073
+2811,Soil Morphology,2,P073
+2812,Self - Similar Patterns,4,P073
+2813,Scaling Laws,2,P073
+2814,Behavior,2,P073
+2815,Soil Particles,2,P073
+2816,Spatial Scales,1,P073
+2817,Paradoxes,1,P073
+2818,Contradictions,1,P073
+2819,Branching Patterns,1,P073
+2820,Root Systems,4,P073
+2821,Fungal Mycelium,1,P073
+2822,River Networks,1,P073
+2823,Feature Flow Net,1,P068
+2824,Ffnet,2,P068
+2825,Feature Flow,8,P068
+2826,Compression Scheme,2,P068
+2827,Object Detection,1,P068
+2828,Central Processing Unit (Cpu),7,P068
+2829,Feature Maps,6,P068
+2830,Previous Frame,2,P068
+2831,Vic3D,1,P068
+2832,Bandwidth Consumption,1,P068
+2833,Detection Performance,3,P068
+2834,Communication Efficiency,3,P068
+2835,Occlusions,2,P068
+2836,Weather Conditions,1,P068
+2837,Vehicle - To - Infrastructure (V2I),1,P068
+2838,Point Clouds,2,P068
+2839,Images,1,P068
+2840,Central Processing Unit,1,P068
+2841,Compressed Sensing,1,P068
+2842,Stable Diffusion,2,P065
+2843,Gpt-4,1,P065
+2844,Dall-E,1,P065
+2845,Fid,1,P065
+2846,Precision,2,P065
+2847,Recall,2,P065
+2848,Density,2,P065
+2849,Coverage,1,P065
+2850,Ai_Image_Generation,3,P065
+2851,Inpainting,1,P065
+2852,Ai_Content_Quality_Assessment,1,P065
+2853,Ai_Models_Comparison,2,P065
+2854,Generative_Ai,1,P065
+2855,Residual Convolutional Neural Networks (Cnns),1,P040
+2856,Computational Fluid Dynamics (Cfd),3,P040
+2857,Architectural Design,2,P040
+2858,Sustainable Development,1,P040
+2859,Data-Driven Flow Field Predictions,1,P040
+2860,Traditional Cfd Simulations,1,P040
+2861,Iterative Design Processes,1,P040
+2862,Rapid Simulation Of Fluid Dynamics,2,P040
+2863,Approximation Of The Navier - Stokes Equations,1,P040
+2864,Cnns With Residualblocks,1,P040
+2865,Architectural Contexts,2,P040
+2866,3D Domains,1,P040
+2867,Reverse Training,1,P040
+2868,Architectural Volumes,1,P040
+2869,Sustainable Design,1,P040
+2870,Cfd Analysis Results,1,P040
+2871,Designchoices,1,P040
+2872,Visual Programming Language,1,P040
+2873,Computer - Aided Design ( Cad ) Software,1,P040
+2874,Urban Structure Samples,1,P040
+2875,Building Heights,2,P040
+2876,3D Meshes,1,P040
+2877,Voxels,1,P040
+2878,Dataset,2,P040
+2879,Openfoam,1,P040
+2880,Cfd Solvers,2,P040
+2881,Cnn,2,P040
+2882,Wind Velocity Fields,1,P040
+2883,3D Domain,2,P040
+2884,Forward Direction,1,P040
+2885,Reverse Direction,4,P040
+2886,Wind Velocity Magnitude,1,P040
+2887,Building Volume,3,P040
+2888,X Component Of Wind Direction Vector,1,P040
+2889,Y Component Of Wind Direction Vector,1,P040
+2890,Z Component Of Wind Direction Vector,1,P040
+2891,Occupied Location,1,P040
+2892,Outside Space,1,P040
+2893,Bayesian Theology For Extra - Terrestrial Diplomacy,25,P016
+2894,Bayesian Inference,1,P016
+2895,Theological Inquiry,1,P016
+2896,Extraterrestrial Civilizations,1,P016
+2897,Ethical Systems,1,P016
+2898,Planetary Cultures,1,P016
+2899,Interstellar Diplomacy,1,P016
+2900,Moral Frameworks,1,P016
+2901,Cooperative Relationships,1,P016
+2902,Astrobiology,1,P016
+2903,Exopale - Ontology,1,P016
+2904,Extremophile Studies,1,P016
+2905,Environmental Conditions,1,P016
+2906,Moral Systems,1,P016
+2907,Risks,1,P016
+2908,Benefits,1,P016
+2909,Strategic Protocols,1,P016
+2910,Interspecies Diplomacy,1,P016
+2911,Nature Of Morality,1,P016
+2912,Interspecies Communication,1,P016
+2913,Theological Perspectives,1,P016
+2914,Ethical Implications,1,P016
+2915,Intergalactic Contexts,1,P016
+2916,Interdisciplinary Inquiry,1,P016
+2917,Moral Complexities,1,P016
+2918,Interstellar Cooperation,1,P016
+2919,Humanity,1,P016
+2920,Extraterrestrial Life,1,P016
+2921,Moral Framework Taxonomy,1,P016
+2922,Bayesian Network,4,P016
+2923,Probability Distributions,2,P016
+2924,Alien Civilization,2,P016
+2925,Moral And Philosophical Underpinnings Of Human Civilization,1,P016
+2926,Alternative Moral Frameworks,1,P016
+2927,Jungian Analytical Psychology,1,P016
+2928,Collective Unconscious,3,P016
+2929,Archetypes,3,P016
+2930,Moral Principles,3,P016
+2931,Human Culture And Experience,1,P016
+2932,Intergalactic Diplomacy,1,P016
+2933,Human Myths And Legends,2,P016
+2934,Human Civilization,1,P016
+2935,Deep Learning,1,P050
+2936,Natural Language Inference (Nli),9,P050
+2937,Deep Learning Models,1,P050
+2938,Traditional Methods,2,P050
+2939,Word Embeddings,1,P050
+2940,Hidden States,1,P050
+2941,Saliency,1,P050
+2942,Erasure,1,P050
+2943,Recurrent Neural Models,1,P050
+2944,Attention,1,P050
+2945,Lstm Gating Signals,1,P050
+2946,John Doe,1,P050
+2947,Esim,1,P050
+2948,A Kid,1,P050
+2949,The Garden,1,P050
+2950,H1,4,P050
+2951,H2,1,P050
+2952,H3,1,P050
+2953,General Data Protection Regulation (Gdpr),4,P091
+2954,Payment Card Industry (Pci),1,P091
+2955,Call Center Transcripts,1,P091
+2956,Caller,1,P091
+2957,Name,1,P091
+2958,Internal Id Number,1,P091
+2959,Quality Assurance,8,P091
+2960,Data Usage,1,P091
+2961,Data Collection,1,P091
+2962,Data Storage,1,P091
+2963,Consent,1,P091
+2964,John Doe,1,P091
+2965,Bilstm-Crf,1,P091
+2966,Conll2000,2,P091
+2967,Conll2003,1,P091
+2968,Ontonotes Corpus,3,P091
+2969,Conditional Random Field (Crf),1,P091
+2970,Neural Networks,2,P091
+2971,Bilstm,4,P091
+2972,Message Understanding Conferences (Muc),1,P091
+2973,Conll2003 Shared Task,1,P091
+2974,Natural Language Processing (Nlp),1,P091
+2975,Cnn,5,P091
+2976,Crf,1,P091
+2977,Ner,1,P091
+2978,Word Embeddings,1,P091
+2979,Lexicon,4,P091
+2980,Flair,1,P091
+2981,Character Embeddings,1,P091
+2982,Pooling Approach,1,P091
+2983,Crossweigh,4,P091
+2984,Asr Systems,1,P091
+2985,Word Confidence Scores,1,P091
+2986,French Radio,1,P091
+2987,French Tv,1,P091
+2988,Natural Conversation,1,P091
+2989,Speaker 1,1,P091
+2990,Macaw,1,P104
+2991,Sparrow,1,P104
+2992,Bird,1,P104
+2993,Pre-Trained Base Language Model,1,P104
+2994,Natural Language Inference (Nli) Model,2,P104
+2995,Factor Graph,3,P104
+2996,Model Predictions,1,P104
+2997,Consistency Correction Through Relation Detection (Concord),2,P104
+2998,Beliefs,2,P104
+2999,Nli Model,1,P104
+3000,Answer Compatibility,2,P104
+3001,Mode,2,P104
+3002,Base Model,2,P104
+3003,Top Answer Choices,4,P104
+3004,Maxsat Problem,2,P104
+3005,Predictions,2,P104
+3006,Related Work,2,P104
+3007,Question Answering Space,2,P104
+3008,Training,2,P104
+3009,Questions,2,P104
+3010,Unlabeled Texts,2,P104
+3011,Roundtrip Consistency,2,P104
+3012,Pre Training,2,P104
+3013,Squad 2.0,2,P104
+3014,Natural Questions,2,P104
+3015,Qa Pairs,2,P104
+3016,Logically Symmetric,2,P104
+3017,Transitive Counterparts,2,P104
+3018,Linguistic Approaches,2,P104
+3019,Cross Dataset Qa Performance,2,P104
+3020,Question Answering Specific Approaches,2,P104
+3021,Fine Tuning,2,P104
+3022,Beliefbank,2,P104
+3023,Optimization Problem,2,P104
+3024,Base Model Confidence Scores,2,P104
+3025,Pair Wise Constraints,2,P104
+3026,Volcanic Eruptions,6,P096
+3027,Quiche Recipes,2,P096
+3028,Narwhals,1,P096
+3029,Flamenco Dancing,1,P096
+3030,Culinary Arts Of Japan,1,P096
+3031,Sushi Preparation,2,P096
+3032,Aerodynamic Properties Of Chocolate Cake,1,P096
+3033,Harmonica Playing,1,P096
+3034,Magma Viscosity,2,P096
+3035,Volcanic Conduits,1,P096
+3036,Global Supply Of Tartan-Patterned Socks,1,P096
+3037,Astronomy,10,P096
+3038,Knitting,1,P096
+3039,Volcanic Ash Dispersal,1,P096
+3040,"Global Market For Rare, Exotic Spices",1,P096
+3041,Pineapple Production,1,P096
+3042,G ’ Lunkian Fire Salt,1,P096
+3043,Scholars,1,P096
+3044,General Public,1,P096
+3045,Crystal Glasses,1,P096
+3046,Volcanoes,1,P096
+3047,Earth ’ S Geology,1,P096
+3048,Cosmos,2,P096
+3049,Volcanic Sonic Boomlets,1,P096
+3050,Intrepid Researchers,1,P096
+3051,Human Endeavor,1,P096
+3052,Extreme Ironing,2,P096
+3053,Competitive Snail Racing,1,P096
+3054,Baking A Croquembouche,1,P096
+3055,Thermodynamics,2,P096
+3056,Meringue,2,P096
+3057,Glacial Movements,2,P096
+3058,Antarctica,3,P096
+3059,Penguins,1,P096
+3060,Climate Change,2,P096
+3061,Plastic Straws,1,P096
+3062,Sustainable Alternatives,3,P096
+3063,Paper Straws,1,P096
+3064,Coffee,1,P096
+3065,Human,1,P096
+3066,Quantum Physics,2,P096
+3067,Wave - Particle Duality,1,P096
+3068,Pineapple Pizza,1,P096
+3069,Gastronomes,1,P096
+3070,Waves,15,P097
+3071,Croissant,2,P097
+3072,Tree,2,P097
+3073,Bird,2,P097
+3074,Global Market,1,P097
+3075,Flumplenax,1,P097
+3076,Splishyblop,1,P097
+3077,Glibble Field,1,P097
+3078,"Competitive, Extreme Ironing",2,P097
+3079,Garment,1,P097
+3080,Spinning Top,1,P097
+3081,Wuggle,1,P097
+3082,Flargle,2,P097
+3083,"Capricious, Cosmic, Pastry Chef",1,P097
+3084,Jinklewiff,1,P097
+3085,Klabloom Effect,1,P097
+3086,Flarp,1,P097
+3087,Wumplen,1,P097
+3088,Nexarion,1,P097
+3089,Subatomic Particles,1,P097
+3090,Gleeblorp Principle,1,P097
+3091,Ofwaves,1,P097
+3092,Human Emotions,2,P097
+3093,Flishyblop Theorem,1,P097
+3094,Human Condition,2,P097
+3095,Jinkle Paradox,1,P097
+3096,Wave,3,P097
+3097,Tartan Patterns,1,P097
+3098,Modern Understanding Of Culinary Arts,2,P097
+3099,Pastry Dough,2,P097
+3100,Baking Process,2,P097
+3101,Wave-Particle Duality,2,P097
+3102,Quantum Mechanics,4,P097
+3103,Tuesdays,1,P097
+3104,Leap Years,1,P097
+3105,Migratory Patterns,1,P097
+3106,Jellyfish,3,P097
+3107,Haute Couture,1,P097
+3108,Trombone,1,P097
+3109,Cheese,1,P097
+3110,Researchers,1,P097
+3111,Surfing,1,P097
+3112,Holy Grail,5,P097
+3113,Sunburn,1,P097
+3114,Knights,1,P097
+3115,Nirvana,1,P097
+3116,Wax,2,P097
+3117,Surfboards,2,P097
+3118,Flockbehavior,1,P097
+3119,Birds,3,P097
+3120,Chaos Theory,1,P097
+3121,Harmonica,1,P097
+3122,Avian Navigation,1,P097
+3123,Migration,3,P097
+3124,Species,1,P097
+3125,Phonological Typology,6,P108
+3126,Linguistic Studies,1,P108
+3127,Speech Processing Tasks,6,P108
+3128,Low - Resource Languages,1,P108
+3129,Dialects,2,P108
+3130,Multilingual Nlp,1,P108
+3131,Speech Technology,1,P108
+3132,Language Documentation,1,P108
+3133,Phoneme Inventories,5,P108
+3134,Phonological Representations,5,P108
+3135,Typological Databases,1,P108
+3136,Automatic Speech Recognition,1,P108
+3137,Text - To - Speech,1,P108
+3138,Speech - To - Text,1,P108
+3139,Speech Technologies,2,P108
+3140,Under-Resourced Languages And Dialects,1,P108
+3141,Multilingual Phoneme Inventories,1,P108
+3142,Cross-Lingual Typological Databases,1,P108
+3143,Phoneme Inventory Induction System,1,P108
+3144,Phonemic Contrast,8,P108
+3145,Research,4,P108
+3146,Cross-Linguistic Validity,1,P108
+3147,Phonetic Representations,1,P108
+3148,Multilingual Pronunciation Model,1,P108
+3149,Phoneme Inventory Recovery,1,P108
+3150,Malayo-Polynesian Languages,1,P108
+3151,Retroflex Consonants,1,P108
+3152,Loanwords,1,P108
+3153,Acoustic Units,1,P108
+3154,Zero-Resource Subword Modeling,3,P108
+3155,Universal Multilingual Phoneme Recognizers,1,P108
+3156,Language Models,2,P108
+3157,Discourse Parsing,5,P007
+3158,Syntacto - Discourse Parsing,7,P007
+3159,Text Segmentations,1,P007
+3160,Constituency Parsing,1,P007
+3161,Dependency Parsing,1,P007
+3162,Penn Treebank,2,P007
+3163,Rst Tree - Bank,1,P007
+3164,Span - Based Constituency Parser,1,P007
+3165,Summarization,1,P007
+3166,Sentiment Analysis,1,P007
+3167,Question Answering,1,P007
+3168,Textual Quality Evaluation,1,P007
+3169,Pipelined,3,P007
+3170,End-To-End,1,P007
+3171,Gold-Standard Segmentations,3,P007
+3172,External Syntactic Parsers,1,P007
+3173,Pretrained Word Vectors,1,P007
+3174,Sophisticated Features,1,P007
+3175,Parse-Trees,1,P007
+3176,Syntacto-Discoursetree-Bank,2,P007
+3177,Span-Based Parser,1,P007
+3178,Bi-Directional Lstms,1,P007
+3179,Rhetorical Structure Theory,1,P007
+3180,Discourse Tree,7,P007
+3181,Constituency Tree,1,P007
+3182,Syntacto-Discourse Treebank,1,P007
+3183,Ptb-Rst,2,P007
+3184,Span-Based Framework,1,P007
+3185,Nucleus Child,1,P007
+3186,Satellite Child,1,P007
+3187,Dependency Labels,1,P007
+3188,Background,1,P007
+3189,Purpose,1,P007
+3190,Rst Tree,1,P007
+3191,Microprocessor Architectures,5,P053
+3192,Subatomic Particle Physiognomy,1,P053
+3193,Aerodynamic Properties Of Chocolate Cake,2,P053
+3194,Migratory Patterns Of Narwhals,1,P053
+3195,Culinary Neuroscience,1,P053
+3196,Fluvial Dynamics Of Recursive Algorithmic Frameworks,1,P053
+3197,Fractal Resonance Of Transdimensional Pastry Bags,1,P053
+3198,Efficacy Of Fungal Networks,3,P053
+3199,Compiler Design,1,P053
+3200,Pedagogical Implications Of Quantum Entanglement,1,P053
+3201,Instruction Set Architecture Of Microprocessors,1,P053
+3202,Ontological Status Of Tartan Patterns,1,P053
+3203,Optimization Of Cache Hierarchies,2,P053
+3204,Hermeneutic Circle Of Cpu Design,1,P053
+3205,Instruction Level Parallelism,1,P053
+3206,Phenomenology Of Pipelined Execution,9,P053
+3207,Microprocessors,2,P053
+3208,Category Theory,1,P053
+3209,Gastronomical Properties Of Quasars,2,P053
+3210,Interstellar Travel,1,P053
+3211,Anthropology,1,P053
+3212,Distant Planets,3,P053
+3213,Artificial Intelligence,1,P053
+3214,Intergalactic Trade Agreements,1,P053
+3215,Extraterrestrial Diplomacy,5,P053
+3216,Microprocessor - Based Systems,2,P053
+3217,Black Hole Singularities,1,P053
+3218,Interstellar Communication Networks,1,P053
+3219,Digital Philosophy,5,P053
+3220,Human Experience,3,P053
+3221,Novel Forms Of Consciousness,3,P053
+3222,Human Cognition,2,P053
+3223,Emotional Intelligence,1,P053
+3224,Efficient Execution,2,P053
+3225,Complex Algorithms,1,P053
+3226,Fractal Resonance,1,P053
+3227,Microprocessor Design,1,P053
+3228,Performance,1,P053
+3229,Efficiency,1,P053
+3230,Adaptation,1,P053
+3231,Changing Needs,1,P053
+3232,Cosmos,2,P053
+3233,Microprocessor-Based Systems,4,P053
+3234,Gastronomical Properties,1,P053
+3235,Quasars,1,P053
+3236,Optimization,3,P053
+3237,Microprocessor Clock Speeds,1,P053
+3238,Error Correction Codes,1,P053
+3239,Reliability,1,P053
+3240,Fluorescent Jellyfish,2,P053
+3241,Modern Computing,2,P053
+3242,Flumplenook Architectures,2,P053
+3243,Flibberdigibbet,1,P053
+3244,Computational Workflows,4,P053
+3245,Flazzle Frazzle,1,P053
+3246,Snizzle Fraze,1,P053
+3247,Microprocessor,1,P053
+3248,Pixie Dust,1,P053
+3249,Substrate,2,P053
+3250,Giant Squid,1,P053
+3251,Space - Time Continuum,1,P053
+3252,Fabricof Reality,2,P053
+3253,Mundane Computational Paradigms,1,P053
+3254,Higher Plane Of Existence,3,P053
+3255,Flibuluxity,1,P053
+3256,Flummax,1,P053
+3257,Wizzle Whim,1,P053
+3258,User,1,P053
+3259,Souffle,4,P053
+3260,Ingredients,1,P053
+3261,Temperatures,1,P053
+3262,Flumplen,1,P053
+3263,Online Controlled Experiments,1,P011
+3264,A/B Testing,6,P011
+3265,Internet Companies,2,P011
+3266,Data-Driven Decision-Making,3,P011
+3267,Feature Modifications,1,P011
+3268,Product Releases,1,P011
+3269,Users,4,P011
+3270,Countries,1,P011
+3271,Ages,1,P011
+3272,Devices,1,P011
+3273,Average Treatment Effect (Ate),1,P011
+3274,Heterogeneous Treatment Effect (Hte),4,P011
+3275,User Factors,3,P011
+3276,Age,2,P011
+3277,Gender,2,P011
+3278,False Discovery Rate (Fdr),1,P011
+3279,Toolkit,1,P011
+3280,Snap,1,P011
+3281,Multiple Testing,1,P011
+3282,Average Treatment Effect,1,P011
+3283,A/B Test,3,P011
+3284,Treatment Group,1,P011
+3285,Control Group,1,P011
+3286,Rubin Causal Model,2,P011
+3287,Causal Inference,2,P011
+3288,Heterogeneity,3,P011
+3289,Factors,1,P011
+3290,Hate Speech Detection,9,P031
+3291,Online Platforms,1,P031
+3292,Nlp Techniques,1,P031
+3293,Graph Neural Networks (Gnns),3,P031
+3294,Word Embeddings,4,P031
+3295,Hate Speech Towards Islam,1,P031
+3296,Online Hate Speech,2,P031
+3297,Safety,1,P031
+3298,Inclusivity,1,P031
+3299,Islam Or Muslim Communities,8,P031
+3300,Online Discussion Platforms,1,P031
+3301,Hate Speech,1,P031
+3302,Text - Processing Approaches,1,P031
+3303,Artificial Intelligence,1,P031
+3304,Natural Language Processing (Nlp),1,P031
+3305,Severity Assessment Of Hate Speech,1,P031
+3306,Deep Learning Models,2,P031
+3307,Recurrent Neural Networks (Rnns),1,P031
+3308,Modern Nlp Techniques,5,P031
+3309,Tokenization,1,P031
+3310,Part - Of - Speech Tagging,2,P031
+3311,Named Entity Recognition,1,P031
+3312,Nlp Model,5,P031
+3313,Bert,1,P031
+3314,Gpt,1,P031
+3315,Context,1,P031
+3316,Sarc,5,P031
+3317,Environment Of Intolerance And Hostility,1,P031
+3318,Real - World Violence,1,P031
+3319,Discrimination,1,P031
+3320,Psychological Impacts On Individuals And Communities,1,P031
+3321,Graph Neural Networks,4,P031
+3322,Islamic Contexts,1,P031
+3323,Text Classification,1,P031
+3324,Detection Tasks,1,P031
+3325,Xghsi,1,P031
+3326,Gnns,10,P031
+3327,Social Media,1,P031
+3328,Users,1,P031
+3329,Content,1,P031
+3330,Relationships,1,P031
+3331,Contextual Information,1,P031
+3332,Coordinated Hate Speech Patterns,1,P031
+3333,Bag Of Words,1,P031
+3334,Pretrained Nlp Models,1,P031
+3335,Accuracy,2,P031
+3336,Context-Awareness,1,P031
+3337,Adaptability,1,P031
+3338,Detection Systems,1,P031
+3339,Islam,2,P031
+3340,State-Of-The-Art Models,1,P049
+3341,Semantic Segmentation,4,P049
+3342,Deep Networks,2,P049
+3343,Training Distribution,1,P049
+3344,Testing Sets,1,P049
+3345,Real-World Data,2,P049
+3346,Synthetic Data,1,P049
+3347,Empirical Risk Minimization (Erm),1,P049
+3348,Image Classification,3,P049
+3349,Domain Adaptation,5,P049
+3350,Real-World Scenarios,5,P049
+3351,Self-Adaptation,1,P049
+3352,Batch Normalization,1,P049
+3353,Loss-Based Updates,3,P049
+3354,Feature Normalization,1,P049
+3355,Online Learning,1,P049
+3356,Training Strategies,3,P049
+3357,Model Design,2,P049
+3358,Inference Process,2,P049
+3359,Generalization,3,P049
+3360,Synthetic Training Data,2,P049
+3361,Styles Transferred From Real Images,2,P049
+3362,Classification Model,2,P049
+3363,Real Images,1,P049
+3364,Feature Proximity,1,P049
+3365,Distillation,1,P049
+3366,Layer - Specific Learning Rates,1,P049
+3367,Instance Normalization (In),4,P049
+3368,Network,1,P049
+3369,Domain - Invariant Feature Statistics,1,P049
+3370,Instance - Selective Whitening Loss,1,P049
+3371,Cnn,1,P101
+3372,Lstm,3,P101
+3373,Medical Imaging Data,1,P101
+3374,3D Volumes,1,P101
+3375,2D Images,1,P101
+3376,Emphysema,1,P101
+3377,Low-Dose Ct Images,1,P101
+3378,Lung Cancer Screenings,9,P101
+3379,Binary Disease Labels,1,P101
+3380,Computer-Aided Diagnosis,2,P101
+3381,Deep Learning,1,P101
+3382,Shortness Of Breath,1,P101
+3383,Cancer,1,P101
+3384,Lung,1,P101
+3385,Air Sacs,1,P101
+3386,Computed Tomography (Ct),2,P101
+3387,Multiple Instance Learning (Mil),2,P101
+3388,2D Patches,3,P101
+3389,Feature-Based Classifier,1,P101
+3390,Radiologists,2,P101
+3391,Deep Models,1,P101
+3392,Convolutional Neural Network (Cnn),4,P101
+3393,Mil,5,P101
+3394,Maximum Pooling,1,P101
+3395,Mean Pooling,1,P101
+3396,Long Short - Term Memory (Lstm),1,P101
+3397,Convolutional Long Short Term Memory (Conv - Lstm),1,P101
+3398,Plasticity Loss,11,P121
+3399,Deep Reinforcement Learning (Rl) Agents,3,P121
+3400,Neural Networks,1,P121
+3401,Dynamic Environments,1,P121
+3402,Architectural Modifications,2,P121
+3403,Hyperparameter Tuning,1,P121
+3404,Plasticity Injection,3,P121
+3405,Rl Agent,1,P121
+3406,Plasticity_Injection,7,P121
+3407,Agent,4,P121
+3408,Rl_Benchmarks,1,P121
+3409,Learning_Stability,2,P121
+3410,Plasticity_Loss,1,P121
+3411,Catastrophic_Forgetting,1,P121
+3412,Neural_Networks,1,P121
+3413,Deep_Learning,1,P121
+3414,Machine_Learning,1,P121
+3415,Reinforcement Learning,1,P121
+3416,Tasks,1,P121
+3417,Environments,1,P121
+3418,Separate Networks,7,P121
+3419,Regularization,1,P121
+3420,Replay Buffers,1,P121
+3421,Knowledge,1,P121
+3422,Computational Overhead,1,P121
+3423,Dynamic Network Architectures,1,P121
+3424,Neurons,4,P121
+3425,Layers,1,P121
+3426,Performance,1,P121
+3427,Proactive Solutions,1,P121
+3428,Reactive Solutions,1,P121
+3429,Framenet,3,P067
+3430,Nltk,3,P067
+3431,Python,1,P067
+3432,Framegrapher,1,P067
+3433,Buy,4,P067
+3434,Sell,1,P067
+3435,Pay,1,P067
+3436,Buyer,1,P067
+3437,Seller,1,P067
+3438,Price,8,P067
+3439,Purchase,1,P067
+3440,Revenge,1,P067
+3441,Avenge,1,P067
+3442,Avenger,1,P067
+3443,Retaliate,1,P067
+3444,Payback,1,P067
+3445,Get Even,1,P067
+3446,Injury,1,P067
+3447,Offender,1,P067
+3448,Injured Party,1,P067
+3449,Collaborative Clothing Segmentation And Identification Through Image Analysis,4,P005
+3450,Fashionista Dataset,2,P005
+3451,Ccp,1,P005
+3452,Image Co - Segmentation,2,P005
+3453,E - Svm,1,P005
+3454,Region Co - Labeling,3,P005
+3455,Multi - Image Graphical Model,2,P005
+3456,Graph Cuts Algorithm,3,P005
+3457,Vision - Based Solutions,1,P005
+3458,Image - Level Tags,2,P005
+3459,Clothing Images,4,P005
+3460,Clothing Items,2,P005
+3461,Semantic Labels,1,P005
+3462,Co - Segmentation,4,P005
+3463,Pixel - Level Annotations,1,P005
+3464,Co-Segmentation Phase,1,P005
+3465,E-Svm Method,1,P005
+3466,Superpixels,1,P005
+3467,Regions,1,P005
+3468,Hog Features,3,P005
+3469,Region-Based Detectors,4,P005
+3470,Multi-Image Graph,2,P005
+3471,Clothing Context Constraints,2,P005
+3472,"Obscured, And Deformable Spatialmodels",1,P005
+3473,Segmentation Accuracy,1,P005
+3474,Recent Approaches,1,P005
+3475,Shape - Based Human Models,4,P005
+3476,Pose Estimation,1,P005
+3477,Supervised Region Labeling,1,P005
+3478,Clothing Co - Parsing,1,P005
+3479,Labelingeffort,2,P005
+3480,Image / Object Co - Labeling,1,P005
+3481,Unsupervised Shape - Guided Approaches,2,P005
+3482,Single - Category Co - Labeling,2,P005
+3483,Spatially Coherent Latenttopic Models,1,P005
+3484,Unsupervised Multi - Class Labeling,2,P005
+3485,Large Number Of Categories,1,P005
+3486,Diverse Appearances,2,P005
+3487,Supervised Labelpropagation,1,P005
+3488,Pixel - Level Label Maps,1,P005
+3489,New Images,4,P005
+3490,Pixel - Level Correspondences,1,P005
+3491,Clothing Parsing,1,P005
+3492,Probabilistic Model,1,P005
+3493,Co - Parsing Of Clothing Images,1,P005
+3494,Set Of Clothing Images,1,P005
+3495,Tags,5,P005
+3496,Layernormalization,2,P034
+3497,Vision Transformers,2,P034
+3498,Patch Embedding Layer,7,P034
+3499,Dual Patchnorm,1,P034
+3500,Image Classification,1,P034
+3501,Contrastive Learning,1,P034
+3502,Semantic Segmentation,1,P034
+3503,Transfer Learning,1,P034
+3504,Downstream Classification Datasets,1,P034
+3505,Imagenet - 1K,3,P034
+3506,Normformer,1,P034
+3507,Sub-Ln,1,P034
+3508,Robust Vit Classification Models,1,P034
+3509,Dual Patchnorm (Dpn),4,P034
+3510,Vit - Projectionlayer,2,P034
+3511,Patch - Embedding Layer,3,P034
+3512,Transformer Stem,4,P034
+3513,Stride - Two 3X3 Convolutions,1,P034
+3514,Batch Normalizations,1,P034
+3515,Image - Ln,1,P034
+3516,Patch - Ln,2,P034
+3517,Transformer Blocks,1,P034
+3518,Patch Size,1,P034
+3519,Visual Tokens,1,P034
+3520,Layernorm,1,P034
+3521,Transformer,1,P034
+3522,Patch,1,P034
+3523,Self-Attention,4,P034
+3524,Mlp,1,P034
+3525,Virus Propagation,1,P002
+3526,Migratory Patterns Of Scandinavian Pastry Chefs,2,P002
+3527,Scandinavian Pastry Chefs,3,P002
+3528,Infectious Agents,1,P002
+3529,Flaky Crusts And Tart Fillings,2,P002
+3530,Nuanced Harmonies Of 19Th - Century German Chamber Music,2,P002
+3531,Works Of Franz Schubert,2,P002
+3532,Impromptus,2,P002
+3533,Viral Mutations,1,P002
+3534,Cellular Mechanisms Underlying Viral Replication,1,P002
+3535,Formation Of Intricate Sand Mandalas In Tibetan Buddhist Rituals,2,P002
+3536,Tibetan Buddhist Rituals,1,P002
+3537,Viral Particles,1,P002
+3538,Self - Organization,2,P002
+3539,Fundamental Principles Of Thermodynamics,1,P002
+3540,Enigmatic Smile Of The Mona Lisa,2,P002
+3541,Mona Lisa,2,P002
+3542,Profound Contemplation,1,P002
+3543,Perception Of Reality,2,P002
+3544,Insidious Effects Of Viral Infection,1,P002
+3545,Got,1,P002
+3546,Labyrinthine Structures,2,P002
+3547,Ancient Mesopotamian Architectural Designs,1,P002
+3548,Hiccathedrals,1,P002
+3549,Virus,1,P002
+3550,Catalyst,1,P002
+3551,Novel Forms Of Life,1,P002
+3552,Taxonomy,3,P002
+3553,Cosmos,1,P002
+3554,Astrobiology,3,P002
+3555,Culinaryanthropology,1,P002
+3556,Physics Of Non - Equilibrium Systems,2,P002
+3557,Viralinfection,4,P002
+3558,Human,1,P002
+3559,Cheese Production,1,P002
+3560,#NAME?,1,P002
+3561,Galacticcosmology,2,P002
+3562,Virology,1,P002
+3563,Claude Monet,1,P002
+3564,Viruses,1,P002
+3565,Ancient Mesopotamians,1,P002
+3566,Discosense,4,P125
+3567,Our Waitress,3,P125
+3568,Writer,1,P125
+3569,Waitress,4,P125
+3570,Hellaswag,1,P125
+3571,Lms,1,P125
+3572,Commonsense Reasoning,1,P125
+3573,Unsupervised Domain Adaptation,4,P051
+3574,Natural Language Processing,1,P051
+3575,Batch Learning,2,P051
+3576,Real-Time Adaptation,1,P051
+3577,Part-Of-Speech Tagging,1,P051
+3578,Nlp System,2,P051
+3579,Company,2,P051
+3580,Emails,2,P051
+3581,Data Distribution,9,P051
+3582,Models,1,P051
+3583,Real - Time,1,P051
+3584,Online,1,P051
+3585,Batch Method,2,P051
+3586,Domain Adaptation,2,P051
+3587,Representation Learning,1,P051
+3588,Word Representations,1,P051
+3589,Pos Tagging,1,P051
+3590,Static Baseline,4,P051
+3591,Flors,8,P051
+3592,Word,1,P051
+3593,Corpus,4,P051
+3594,Bigram,1,P051
+3595,Distributional_Vector,1,P051
+3596,Suffix,1,P051
+3597,Shape,1,P051
+3598,Left_Distributional_Neighbor,1,P051
+3599,Right_Distributional_Neighbor,1,P051
+3600,Ally,3,P051
+3601,Tf,1,P051
+3602,X,2,P051
+3603,Right Distributional Vector,1,P051
+3604,Indicator Words,2,P051
+3605,Cid,1,P051
+3606,88,2,P051
+3607,Xn + 1,3,P051
+3608,.5F Req,1,P051
+3609,C,2,P051
+3610,W,1,P051
+3611,2,11,P051
+3612,F,1,P051
+3613,Distributional Vector,1,P051
+3614,Suffix Vector,1,P051
+3615,Shape Vector,1,P051
+3616,Vi,1,P051
+3617,Vi22122,1,P051
+3618,Vi22121,1,P051
+3619,Vi + 1,1,P051
+3620,Vi + 2,1,P051
+3621,[Unk],1,P051
+3622,2295,1,P051
+3623,Token,1,P051
+3624,Distributional Pos Characteristics,1,P051
+3625,Graph Neural Networks,3,P038
+3626,Caffeine Diffusion,12,P038
+3627,Espresso Foam,13,P038
+3628,Harmonic Series,1,P038
+3629,Pi,1,P038
+3630,Espresso Foam Theorem,3,P038
+3631,Sugar,1,P038
+3632,Cream,1,P038
+3633,Coffee Preparation,2,P038
+3634,Materials Science,2,P038
+3635,Dynamical Systems,1,P038
+3636,Interdisciplinary Innovation,1,P038
+3637,Coffee-Based Cryptography,1,P038
+3638,Graph Neural Networks (Gnns),4,P038
+3639,Social Network Analysis,1,P038
+3640,Traffic Prediction,1,P038
+3641,Molecular Dynamics,1,P038
+3642,Caffeine Diffusion Patterns,3,P038
+3643,Holographically Prepared Espresso Foam,3,P038
+3644,Espresso-Making Process,3,P038
+3645,Flavor,1,P038
+3646,Aroma,1,P038
+3647,Three-Dimensional Structure,1,P038
+3648,Intricate Patterns And Designs,1,P038
+3649,Coffee Beans,1,P038
+3650,Roast Level,1,P038
+3651,Brewing Method,1,P038
+3652,Gnns,5,P038
+3653,Reality,1,P038
+3654,Consciousness,1,P038
+3655,Caffeine,4,P038
+3656,Universe,1,P038
+3657,Fundamental Laws Of Physics,1,P038
+3658,Particles,1,P038
+3659,Molecules,1,P038
+3660,Thermal Conductivity,1,P038
+3661,Optical Transparency,1,P038
+3662,Pastry Dough,1,P036
+3663,Flamingos,2,P036
+3664,Fundamental Forces Of Nature,2,P036
+3665,Flumplenooks,2,P036
+3666,Universe,2,P036
+3667,Aerodynamic Properties Of Chocolate Cakes,1,P036
+3668,Gravitational Wave Detection,1,P036
+3669,Average Airspeed Velocity Of Unladen Swallows,2,P036
+3670,Transdimensional Cookie Jars,2,P036
+3671,Gravitational Waves,1,P036
+3672,Harmonics Of Glass Harmonicas,1,P036
+3673,Geometric Patterns,2,P036
+3674,Turtles,2,P036
+3675,Snizzlefraze,2,P036
+3676,Cosmos,2,P036
+3677,Interdimensional Pancake Syrup,2,P036
+3678,Gravitational Lenses,2,P036
+3679,Optometry,2,P036
+3680,Corrective Lenses,2,P036
+3681,Nearsightedness,2,P036
+3682,Squid,2,P036
+3683,Gustave Flaubert,2,P036
+3684,Flumplenook,1,P036
+3685,Fossils,9,P086
+3686,Scholars,1,P086
+3687,Croissant,1,P086
+3688,Butterflies,1,P086
+3689,Frisbees,1,P086
+3690,Silence,1,P086
+3691,Typographic Layouts,1,P086
+3692,Sedimentary Rock Formations,1,P086
+3693,Sudoku Puzzle,1,P086
+3694,Elderly Populations,1,P086
+3695,Number 42,1,P086
+3696,Meaning Of Life,1,P086
+3697,Universe,1,P086
+3698,Everything,1,P086
+3699,Frivolous Notions,1,P086
+3700,Existential Implications,3,P086
+3701,Florid Antagonisms,1,P086
+3702,Grande Bouffe,1,P086
+3703,Paleontological Discoveries,1,P086
+3704,John Doe,1,P086
+3705,Megalodon,1,P086
+3706,Quest,1,P086
+3707,Uncertainty,2,P086
+3708,Opportunity,1,P086
+3709,Growth,1,P086
+3710,Discovery,1,P086
+3711,Fossilization,1,P086
+3712,Human_Condition,1,P086
+3713,Time,2,P086
+3714,Existence,3,P086
+3715,Tapestry,1,P086
+3716,Paradox,1,P086
+3717,Human_Experience,1,P086
+3718,Patterns,2,P086
+3719,Shapes,3,P086
+3720,Microorganisms,1,P086
+3721,Bacteria,2,P086
+3722,Archaea,1,P086
+3723,Decomposition,1,P086
+3724,Transformation,1,P086
+3725,Organic_Matter,3,P086
+3726,Formation,2,P086
+3727,Biofuels,1,P086
+3728,Energy_Production,1,P086
+3729,History_Of_Life,2,P086
+3730,Earth,1,P086
+3731,Subterranean Mole Rats,1,P043
+3732,Dance Of Stars,2,P043
+3733,Cosmic Waltz,1,P043
+3734,Fate,1,P043
+3735,Threads Of Destiny,1,P043
+3736,Tapestry,1,P043
+3737,Brushstrokes,1,P043
+3738,Master Painter,1,P043
+3739,Melodies,1,P043
+3740,Virtuoso Composer,1,P043
+3741,Jasmine,3,P043
+3742,Corridors Of Time,1,P043
+3743,Forgotten Dreams,1,P043
+3744,New Beginnings,1,P043
+3745,Celestial Music,1,P043
+3746,Soul,1,P043
+3747,Rhythm Of Life,1,P043
+3748,Veins Of The Universe,1,P043
+3749,Poetry Of Existence,1,P043
+3750,Language Of The Cosmos,1,P043
+3751,Beauty Of The Unknown,3,P043
+3752,Siren'S Call,1,P043
+3753,Brave,1,P043
+3754,Curious,1,P043
+3755,Imagination,1,P043
+3756,Juxtaposition Of Planetary Orbits,1,P043
+3757,Culinary Arts,2,P043
+3758,Flumplenook Properties,1,P043
+3759,Stellar Bodies,2,P043
+3760,Galactic Gastronomy,2,P043
+3761,Optimal Preparation,1,P043
+3762,Quasars,1,P043
+3763,Black Holes,2,P043
+3764,Exotic Ingredients,1,P043
+3765,Interstellar Cuisine,1,P043
+3766,Fazzle Fractions,2,P043
+3767,Quark Physics,2,P043
+3768,Snizzle Particles,2,P043
+3769,Advanced Propulsion Systems,2,P043
+3770,Deep Space Exploration,1,P043
+3771,Celestial Harmonics,1,P043
+3772,Space-Faring Jellyfish,2,P043
+3773,Bio-Luminescent Navigation,2,P043
+3774,Cosmic Cartography,1,P043
+3775,Stellar Evolution,1,P043
+3776,Terrestrial Fungi,2,P043
+3777,Space-Time Continuum,1,P043
+3778,Dark Matter,1,P043
+3779,Quokkas,3,P043
+3780,Large-Scale Structure Of The Universe,1,P043
+3781,Cosmic Microwave Background Radiation,1,P043
+3782,Exoplanets,1,P043
+3783,Extraterrestrial Life,2,P043
+3784,Intelligent Life,1,P043
+3785,Planets,3,P043
+3786,Eccentric Orbits,1,P043
+3787,Flumplenux,3,P043
+3788,Snazzle,3,P043
+3789,Quantum Fluctuations,3,P043
+3790,Energy,1,P043
+3791,Stars,5,P043
+3792,Astrobiology,1,P043
+3793,Quantum Mechanics,1,P043
+3794,Celestial Phenomena,1,P043
+3795,Universe,1,P043
+3796,Technology,1,P043
+3797,Stellar Activity,1,P043
+3798,Machine Learning,1,P043
+3799,Observations,3,P043
+3800,Patterns,1,P043
+3801,Trends,1,P043
+3802,Sourdough Microbiome,6,P132
+3803,Bread,1,P132
+3804,Microbial Metabolites,1,P132
+3805,Crumb Quality,2,P132
+3806,Bread Crusts,1,P132
+3807,Bread Loaves,1,P132
+3808,Crust Formation,1,P132
+3809,Physical Environment Of Dough,1,P132
+3810,Bread Crust,1,P132
+3811,Multi-Modal Transformers,1,P132
+3812,Machine Learning,2,P132
+3813,Early Warning Signs,1,P132
+3814,Microbiome Imbalance,3,P132
+3815,Microbiome Dysfunction,3,P132
+3816,Bakers,1,P132
+3817,Recipes,1,P132
+3818,Fermentation Protocols,3,P132
+3819,Suboptimal Crumb Formation,1,P132
+3820,Bread Formulation Tools,1,P132
+3821,Texture,1,P132
+3822,Flavor,4,P132
+3823,Appearance Characteristics,1,P132
+3824,Sourdough Microbiomes,1,P132
+3825,Label-Only Backdoor Attacks,4,P024
+3826,Machine Learning Models,1,P024
+3827,Training Labels,2,P024
+3828,Input Data,1,P024
+3829,Backdoors,13,P024
+3830,Flip,1,P024
+3831,Trigger,1,P024
+3832,Target Output,1,P024
+3833,John Doe,2,P024
+3834,Noisylabels,1,P024
+3835,Crowdsourcedannotation,1,P024
+3836,Data Augmentation,1,P024
+3837,Adversarial Training,1,P024
+3838,Clean Test Accuracy,1,P024
+3839,Poison Test Accuracy,2,P024
+3840,Pta,2,P024
+3841,Cta,3,P024
+3842,Backdoor,1,P024
+3843,Model,1,P024
+3844,Clean Data,2,P024
+3845,Training Data,1,P024
+3846,Student Model,2,P024
+3847,Teacher Model,1,P024
+3848,Lida,6,P110
+3849,Dialogue Annotation,2,P110
+3850,Crowdsourcing,2,P110
+3851,Multiple Annotators,1,P110
+3852,Conflict Resolution,2,P110
+3853,Majority Annotation Selection,1,P110
+3854,Api Integration,1,P110
+3855,Machine Learning Models,2,P110
+3856,Annotation Recommendation,1,P110
+3857,Test Case Generation,1,P110
+3858,Twist,4,P110
+3859,Inception,1,P110
+3860,Gate,1,P110
+3861,Annotation Tools,1,P110
+3862,Javagate,1,P110
+3863,Javatwist,1,P110
+3864,Brat,1,P110
+3865,Doccano,1,P110
+3866,Pythondialogueview,1,P110
+3867,Tck,2,P110
+3868,Tkopen,1,P110
+3870,Privacy Evaluation,2,P085
+3871,Synthetic Data,9,P085
+3873,Standard,1,P085
+3875,Vaes,2,P085
+3876,Dataset Properties,2,P085
+3877,Singling Out,2,P085
+3880,Data Memorization,1,P085
+3881,Outliers,6,P085
+3882,Sparse Data,1,P085
+3883,Homogeneous Sets,1,P085
+3885,Approach To Data Synthesis,1,P085
+3886,Mode Collapse,1,P085
+3887,Sd,1,P085
+3888,Adversary,1,P085
+3889,High - Throughput Genomic Sequencing,19,P006
+3890,Marine Ecology,4,P006
+3895,Environments,2,P006
+3897,Genomic Data,3,P006
+3902,Ecosystem Composition,1,P006
+3908,High-Throughput Genomic Sequencing,22,P006
+3909,Marine Biology,1,P006
+3910,Marine Organisms,2,P006
+3915,Deep-Sea Fish,2,P006
+3918,Metabolic Pathways,2,P006
+3919,Diversity,4,P006
+3920,Genetic Factors,1,P006
+3921,Environmental Factors,1,P006
+3922,Evolution,1,P006
+3923,Artificial Intelligence Algorithms,1,P006
+3925,Patterns,1,P006
+3927,Computational Biology,1,P006
+3928,Analytical Approaches,1,P006
+3929,Understanding,1,P006
+3933,Marine Resources,3,P006
+3935,Behavior,1,P006
+3936,Marine Ecosystems,1,P006
+3938,Cues,1,P006
+3939,Signals,2,P006
+3941,Migratory Patterns,1,P006
+3942,Sea Turtles,1,P006
+3943,Schooling Behaviors,1,P006
+3944,Fish,1,P006
+3945,Environmental Sensors,1,P006
+3946,Remote Sensing Imagery,3,P006
+3947,Models,1,P006
+3948,Responses,1,P006
+3949,Environmental Perturbations,2,P006
+3950,Climate Change,6,P006
+3951,Ocean Acidification,1,P006
+3952,Genomic Sequences,1,P006
+3953,Sounds,1,P006
+3954,Vibrations,1,P006
+3955,Machine Learning,8,P127
+3956,Personal Privacy,3,P127
+3958,Machine Learning Experts,1,P127
+3960,Differential Privacy,1,P127
+3961,Biometric Analysis,2,P127
+3962,Behavioral Profiling,1,P127
+3963,Facial Recognition Systems,1,P127
+3964,Targeted Advertising,2,P127
+3966,Machine Learning Systems,2,P127
+3967,Machine Learning Community,2,P127
+3968,Experts In The Field Of Human - Computer Interaction ( Hci ),2,P127
+3970,Adversarial Examples,2,P127
+3972,Altered Images,2,P127
+3974,Clothing,1,P127
+3977,Loyalty Card - Based Tracking,1,P127
+3978,Unusual Makeup,2,P127
+3979,Facial Recognition,1,P127
+3980,Surveillance,2,P127
+3981,Hci Researchers,3,P127
+3982,Activists,3,P127
+3983,Stakeholders,1,P127
+3985,Digital Boycott,2,P127
+3986,Data Withholding,4,P127
+3987,Protest Non - Use,2,P127
+3988,Surveillance Systems,2,P127
+3989,Technology Companies,2,P127
+3990,Computer Scientists,5,P127
+3992,Wrf-Hrrr Computed Dataset,5,P044
+3994,Crop Yield Prediction,2,P044
+3995,Climate Change Impacts,1,P044
+3996,Short-Term Weather Variations,1,P044
+3997,Cropnet Dataset,15,P044
+3998,Hugging Face Datasets,1,P044
+3999,Python Package Index (Pypi),1,P044
+4001,United States (U.S.) Continent,1,P044
+4002,2291 U.S. Counties,1,P044
+4004,Wrf-Hrrr Model,1,P044
+4005,Usda,1,P044
+4006,Corn,1,P044
+4010,Chain-Of-Thought Prompting,18,P008
+4011,Contextual Learning,1,P008
+4012,Compositional Functions,2,P008
+4013,Multi-Layer Perceptrons (Mlps),2,P008
+4014,Sample Complexity,3,P008
+4015,Approximation Power,3,P008
+4016,Generalization Capabilities,3,P008
+4017,In-Context Learning (Icl),2,P008
+4018,Solution Space,1,P008
+4019,Large Language Models,2,P008
+4020,Intricate Reasoning Tasks,1,P008
+4021,Decomposition,2,P008
+4022,Sub-Problems,1,P008
+4023,In-Context Learning,1,P008
+4024,Multi-Layer Perceptrons,1,P008
+4025,Training Examples,1,P008
+4026,Target Function,1,P008
+4027,Cot Prompting,7,P008
+4029,Pretraining Phase,1,P008
+4030,Structured Reasoning,3,P008
+4031,Robust Representations,3,P008
+4032,Overfitting,1,P008
+4033,Unseen Data,1,P008
+4036,Interpretable Solution Space,1,P008
+4038,Standard Icl,1,P008
+4039,Chain-Of-Thought (Cot),9,P008
+4040,Large Language Models (Llms),1,P008
+4041,Complex Reasoning Tasks,1,P008
+4042,Artificial Intelligence,1,P008
+4043,John Doe,1,P056
+4044,Caffeinated Beverages,1,P056
+4045,Flip - Flop Circuits,1,P056
+4046,Extreme Ironing,3,P056
+4047,Competitive Cheese Rolling,1,P056
+4048,Flibberflamber Metrics,4,P056
+4049,Digital Circuits,1,P056
+4050,Whimsy,1,P056
+4051,Fabric Of Reality,1,P056
+4054,Wumwum,1,P056
+4055,Jimjim Theory,8,P056
+4056,Digital Signal Processing,1,P056
+4058,Speed Of Light,1,P056
+4059,Leap Years,1,P056
+4060,Wizzle Widgets,3,P056
+4061,Thromble Noise,1,P056
+4062,Flumplenook Interference,2,P056
+4063,Flazzle - Based Logic Circuits,1,P056
+4064,Complex Systems,1,P056
+4065,Whimsy Whirlybirds,1,P056
+4066,Flumplenook Space,2,P056
+4067,Computational Models,2,P056
+4069,Logic Circuit,1,P056
+4070,Digital Circuit Design,3,P056
+4071,Wizzle Whim,1,P056
+4074,Mundane Simplicity,2,P056
+4075,Logic Circuits,2,P056
+4076,19Th - Century French Literary Movements,2,P056
+4077,Symbolism,2,P056
+4078,Mallarme,2,P056
+4079,Un Coup De Des,3,P056
+4080,Digital Electronics,1,P056
+4081,Existentialism,2,P056
+4082,Nonlinear Dynamics,1,P056
+4084,Lucas Kanade,2,P087
+4086,Three Dimensional Geometry,2,P087
+4087,Video,2,P087
+4088,Scene,2,P087
+4089,Rigid Object,1,P087
+4090,Affine Camera Model,2,P087
+4091,Non - Rigid Motion,1,P087
+4094,Sliding Window,1,P087
+4095,Non - Trivial Motion,3,P087
+4096,Non-Rigid Motions,1,P087
+4097,Rigid Environments,1,P087
+4098,Feature Trajectories,2,P087
+4099,Depth Disparities,1,P087
+4100,Low-Rank Feature Trajectories,1,P087
+4101,Sliding Temporal Window,1,P087
+4102,Local Affine Camera Model,1,P087
+4103,Linear Spaces,2,P087
+4104,Manifolds,2,P087
+4106,Set Of Trajectories,2,P087
+4107,Low Rank,1,P087
+4108,Union Of A Few Low Rank Subspaces,1,P087
+4110,Protein Synthesis,14,P048
+4111,Translation,1,P048
+4112,Protein Synthesis Rate,1,P048
+4113,Number Of Flutterbies,1,P048
+4114,Translation Accuracy,1,P048
+4115,Laboratory Proximity To A Major Highway,1,P048
+4116,Knitting,3,P048
+4117,Protein Folding,2,P048
+4118,Yarn,1,P048
+4119,Melody,2,P048
+4120,Crystal Growth,1,P048
+4121,Protein Knitting,2,P048
+4122,Flumplenook Therapies,2,P048
+4123,Flutterbie Population,1,P048
+4124,Ancient Civilizations,1,P048
+4125,Lost City Of Zorgon,1,P048
+4128,Priestesses,1,P048
+4129,Zorgonology,7,P048
+4132,Protein Paradox,1,P048
+4133,Coding Contradiction,2,P048
+4134,Protein Philosophy,1,P048
+4135,Coding Ethics,1,P048
+4136,Sports,1,P048
+4137,Training,1,P048
+4138,Conditioning,2,P048
+4139,Exercise,2,P048
+4140,Nutrition,1,P048
+4141,Strategy,1,P048
+4142,Skill,1,P048
+4143,Success,3,P048
+4144,Dark Matter Proteins,1,P048
+4145,Flumplenook,2,P048

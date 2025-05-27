@@ -1,0 +1,485 @@
+Source,Target,Type,Text Index
+Skies,Dusk,LOCATED_AT,0
+Dusk,Secrets,ASSOCIATED_WITH,0
+Secrets,Initiated,REVEALED_TO,0
+Initiated,Ear Of The Soul,ATTUNED_TO,0
+Ear Of The Soul,Cosmos,LISTENS_TO,0
+Metals,Ontological Status,HAS_STATUS,0
+Ontological Status,Crisis Of Representation,CAUSES,0
+Crisis Of Representation,Semeiotic Excess,DUE_TO,0
+Semeiotic Excess,Linguistic Signifiers,COMPRISED_OF,0
+Linguistic Signifiers,Metallic Artifacts,DESCRIBES,0
+Metallic Artifacts,Moment Of Differance,INSTANTIATES,0
+Moment Of Differance,Supplement,COMBINES,0
+Supplement,Origin,CONVERGES_WITH,0
+Origin,Aporia,RESULTS_IN,0
+Aporia,Chiaroscurist Effects,REMINDS_OF,0
+Chiaroscurist Effects,Oeuvre,CHARACTERISTICS_OF,0
+Oeuvre,Renaissance Painters,CREATED_BY,0
+Renaissance Painters,Divine,SEEKS_TO_CAPTURE,0
+Divine,History,LOST_IN,0
+Anamorphic Distortions,Metallic Reflections,CHARACTERISTICS_OF,0
+Metallic Reflections,Phantasmagoric Landscapes,INTERSECT_WITH,0
+Phantasmagoric Landscapes,Subconscious,RESIDE_IN,0
+Oneiric Narratives,Mythopoeic Imagination,PART_OF,0
+Mythopoeic Imagination,Tessellations,INFLUENCED_BY,0
+Tessellations,Crystal Structures,REPRESENT,0
+Crystal Structures,Moment Of Epiphanic Insight,INSTANTIATING,0
+Moment Of Epiphanic Insight,Numinous,BRIDGES,0
+Numinous,Mundane,MERGES_WITH,0
+Ineffable Synthesis,Transcendent,COMPOSED_OF,0
+Transcendent,Immanent,MERGES_WITH,0
+Flour Viscosity,Optimum Metal Alloy,DETERMINES,0
+Optimum Metal Alloy,Baking Sheet Liners,USED_IN,0
+Baking Sheet Liners,Gastronomical Experience,INFLUENCES,0
+Gastronomical Experience,Intricately Designed Croissants,ENHANCES,0
+Intricately Designed Croissants,Labyrinthine Patterns,RESEMBLES,0
+Labyrinthine Patterns,Molecular Structure,COMPARABLE_TO,0
+Molecular Structure,Copper ( Ii ) Oxide,COMPONENT_OF,0
+Copper ( Ii ) Oxide,Quantum Floristry,STUDIED_IN,0
+Quantum Floristry,Correlation,INVESTIGATES,0
+Correlation,Floral Patterns,BETWEEN,0
+Correlation,Metal Crystalline Structures,AND,0
+Metal Crystalline Structures,Metallurgical Horticulture,INFLUENCED_BY,0
+Metal Music,Morphological Characteristics,INFLUENCES,0
+Morphological Characteristics,Metal Alloys,OF,0
+Metal Alloys,Guitar Amplifiers,MADE_OF,0
+Guitar Amplifiers,Sonic Resonance,PRODUCES,0
+Sonic Resonance,Paradigmatic Shift,CAUSES,0
+Paradigmatic Shift,Crystal Lattice Structure,IN,0
+Metal Music,Metallurgy,RELATED_TO,0
+Metallurgy,Space - Time,RELATED_TO,0
+Space - Time,Metallic Resonance,RELATED_TO,0
+Metallic Resonance,Universe,RELATED_TO,0
+Metallurgy,Postmodern Philosophical Discourse,RELATED_TO,0
+Postmodern Philosophical Discourse,Metal - Lurgical Being,RELATED_TO,0
+Metal - Lurgical Being,Metal Identity,RELATED_TO,0
+Alchemical Processes,Base Metals,RELATED_TO,0
+Alchemical Processes,Noble Counterparts,RELATED_TO,0
+Metallurgical Transhumanism,Human And Metal Consciousness,RELATED_TO,0
+Human And Metal Consciousness,"Higher, More Enlightened State Of Existence",RELATED_TO,0
+Flamenco Dance,Group Coordination,REQUIRES,1
+Augmented Reality (Ar),Gesture Forecasting,ENABLES,1
+Lstm Neural Networks,Gesture Forecasting,BASED_ON,1
+Gesture Forecasting,Synchronization,PREDICTS,1
+Gesture Forecasting,Emotional Expression,PREDICTS,1
+Gesture Forecasting,Creativity,PREDICTS,1
+Virtual Flamenco Guru,Synchronization,ENHANCES,1
+Gesture-Sensing Garments,Virtual Flamenco Guru,ENABLES,1
+Flamenco Dance,Dance Therapy,APPLIED_IN,1
+Flamenco Dance,Human-Computer Interaction,APPLIED_IN,1
+Flamenco Dance,Entertainment,APPLIED_IN,1
+Augmented Reality,Dance Performances,ENHANCES,1
+Dance Performances,Group Cohesion,REQUIRES,1
+Group Cohesion,Machine Learning,ANALYZED_BY,1
+Machine Learning,Lstm Networks,USES,1
+Lstm Networks,Gestures,ANALYZES,1
+Lstm Networks,Movements,ANALYZES,1
+Lstm-Based Gesture Forecasting,Coordinated Dance Rituals,USED_FOR,1
+Lstm-Based Gesture Forecasting,Group Cohesion,EVALUATES,1
+Ar,Group Cohesion,ENHANCES,1
+Sensors,Data Collection Systems,COMPONENT_OF,1
+Data Collection Systems,Human Movement,CAPTURES,1
+Data Collection Systems,Dance,CAPTURES,1
+Data Collection Systems,Flamenco,CAPTURES,1
+Lstm - Based Gesture Forecasting,Successful Coordinated Dance Performances,CONTRIBUTES_TO,1
+Lstm - Based Gesture Forecasting,Communication Between Dancers,ENHANCES,1
+Lstm - Based Gesture Forecasting,Perception Of Own Bodies,INFLUENCES,1
+Chicken Entrails,Group Cohesion,PROVIDES_INSIGHTS_INTO,1
+Tea Leaves,Group Cohesion,PROVIDES_INSIGHTS_INTO,1
+Tea Leaves,Dancer Stumbling,PREDICTS,1
+Tea Leaves,Dancer Making A Mistake,PREDICTS,1
+Targeted Interventions,Improvements To The Rehearsal Process,LEADS_TO,1
+Ar,Cohesive Performance,FACILITATES,1
+Ar,Effective Performance,FACILITATES,1
+Ar,Artistic Expression,ENHANCES,1
+Ar,Awareness,PROMOTES,1
+Ar,Control,PROMOTES,1
+Photosynthetic Pathways,Subterranean Fungal Networks,INTERACTION,2
+Quantum Fluctuations,Botanical Hieroglyphics,INFLUENCE,2
+Botanical Hieroglyphics,Photons,EMBODIMENT,2
+Photons,Chloroplasts,ACTIVATION,2
+Chloroplasts,Carboxylation,PROCESS,2
+Chloroplasts,Oxygenation,PROCESS,2
+Carboxylation,Floricultural Axioms,INFLUENCE,2
+Oxygenation,Gastronomical Ontologies,INFLUENCE,2
+Photosynthetic Pathways,Photosynthetic Ontologies,DEFINITION,2
+Luminescence,Molecular Phylogeny,INFLUENCE,2
+Molecular Phylogeny,Plant Physiology,FOUNDATION,2
+Sunlight,Vegetal World,INTERACTION,2
+Plant Physiology,Plant Consciousness,MANIFESTATION,2
+Photosynthetic Pathways,Photosynthetic Universe,CONSTITUENT,2
+Stomatal Aperture Regulation,Gas Exchange,INTERSECTS_WITH,2
+Stomatal Aperture Regulation,Water Conservation,MODULATES,2
+Stomatal Aperture Regulation,Plant Life,PRECIPITATING_A_REAPPRAISAL_OF_THE_ONTOLOGICAL_STATUS_OF,2
+Stomatal Aperture Regulation,Photosynthetic Metabolism,MODULATES,2
+Photon Irradiance,Chloroplastic Membrane Fluidity,HAS_BEEN_FOUND_TO_PRECIPITATE_A_CASCADE_OF_DOWNSTREAM_EFFECTS,2
+Chloroplastic Membrane Fluidity,Photosynthetic Phenotypes,CULMINATING_IN_THE_EMERGENCE_OF,2
+Photosynthetic Phenotypes,Environmental Thermodynamics,INTERSECT_WITH_THE_PARAMETRIC_FLUCTUATIONS_OF,2
+Photosynthetic Phenotypes,Ecophysiological Processes,GIVING_RISE_TO_AN_UNFORESEEN_CONVERGENCE_OF,2
+Photosynthetic Phenotypes,Biogeochemical Processes,GIVING_RISE_TO_AN_UNFORESEEN_CONVERGENCE_OF,2
+Photosynthetic Mechanisms,Existential Implications Of Pastry Making,HAVE_BEEN_JUXTAPOSED_WITH,2
+Existential Implications Of Pastry Making,Societal Norms,ON_THE,2
+Existential Implications Of Pastry Making,19Th Century France,ON_THE,2
+Existential Implications Of Pastry Making,Chlorophyll - Based Energy Production,NECESSITATING_A_REEVALUATION_OF_THE_PARADIGMATIC_STRUCTURES_THAT_GOVERN_OUR_UNDERSTANDING_OF,2
+Quokkas,Sentience,HAS_AN_INNATE_CAPACITY_FOR,2
+Quokkas,Empathy,HAS_AN_INNATE_CAPACITY_FOR,2
+Wheat,Global Market,PRICES_OF,2
+Global Market,Photographic Film,AFFECTING_THE_PRODUCTION_OF,2
+Photographic Film,Velociraptor - Shaped Cookies,AFFECTING_THE_SUBSEQUENT_DEVELOPMENT_OF,2
+Philosophical Underpinnings,Modern Science,CONTRADICTIONS_IN_THE,2
+John Doe,Photosynthetic Organisms,COMMUNICATES_WITH,2
+John Doe,Rogue Waves,AFFECTS,2
+Ai - Driven Personalization,Online Education Platforms,TRANSFORMS,3
+Ai - Driven Personalization,Machine Learning Algorithms,EMPLOYS,3
+Machine Learning Algorithms,Student Behavior,ANALYZES,3
+Machine Learning Algorithms,Learning Patterns,ANALYZES,3
+Machine Learning Algorithms,Knowledge Gaps,ANALYZES,3
+Machine Learning Algorithms,Unique Learning Pathway,CREATES,3
+Ai - Driven Personalization,Ai - Generated Dreamscape,INCORPORATES,3
+Ai - Generated Dreamscape,Student Engagement,INFLUENCES,3
+Ai - Generated Dreamscape,Learning Outcomes,INFLUENCES,3
+Onlineeducation Platforms,Personalized Learning Experiences,PROVIDES,3
+Personalized Learning Experiences,Tailored Learning Experiences,IS_A,3
+Tailored Learning Experiences,Increased Student Motivation,LEADS_TO,3
+Tailored Learning Experiences,Improved Academic Performance,LEADS_TO,3
+Tailored Learning Experiences,Enhanced Overall Learning Outcomes,LEADS_TO,3
+Personalized Learning Platforms,Reduced Student Procrastination,LEADS_TO,3
+Personalized Learning Platforms,Improved Time Management Skills,LEADS_TO,3
+Ai - Driven Personalization,Early Warning Signs Of Student Burnout And Disillusionment,IDENTIFIES,3
+Ai - Driven Personalization,Targeted Support,ALLOWS_FOR,3
+Gamification And Virtual Reality,Immersive Learning Experiences,CREATES,3
+Immersive Learning Experiences,Increased Student Engagement,LEADS_TO,3
+Immersive Learning Experiences,Increased Student Motivation,LEADS_TO,3
+Simulated Laboratoryenvironment,Students,LOCATED_IN,3
+Simulated Laboratoryenvironment,Experiments,CONDUCTS,3
+Simulated Laboratoryenvironment,Investigations,CONDUCTS,3
+Gamification Platform,Competitive Learning Environment,CREATES,3
+Gamification Platform,Students,IMPACTS,3
+Gamification Platform,Rewards,OFFERS,3
+Gamification Platform,Badges,OFFERS,3
+Gamification Platform,Coursework,CONNECTS_TO,3
+Gamification Platform,Learning Milestones,TRACKS,3
+Ai - Driven Personalization,Online Education,USED_IN,3
+Ai - Driven Personalization,Learning Addiction,CAN_LEAD_TO,3
+Ai - Driven Personalization,Filter Bubble,CAN_CREATE,3
+Colors,Online Education,USED_IN,3
+Fonts,Online Education,USED_IN,3
+Ai-Driven Personalization,Online Education Platforms,USED_IN,3
+Ai-Driven Personalization,Student Motivation,INFLUENCES,3
+Ai-Driven Personalization,Student Engagement,INFLUENCES,3
+Background Music,Student Mood,INFLUENCES,3
+Sound Effects,Student Mood,INFLUENCES,3
+Student Mood,Emotional State,IS,3
+Student Mood,Learning Experience,AFFECTS,3
+Ai-Driven Personalization,Learning Experience,INFLUENCES,3
+Learning Experience,Learning Outcomes,IMPACTS,3
+Learning Outcomes,Student Success,CONTRIBUTES_TO,3
+Graphite,Dark Matter,RELATED_TO,4
+Graphite,Extraterrestrial Beings,CONDUCTS_THOUGHTS_OF,4
+Dolphins,Rare Flowers,COLLECTS,4
+Dark Matter,Chicken Parmesan,RELATION_TO,4
+Missing Socks,Butterflies,CORRELATES_WITH,4
+Harmonica,Ancient Forests,SOUNDS_SIMILAR_TO,4
+Ancient Forests,Forgotten Civilizations,WHISPERS_TALES_OF,4
+Quantum Mechanics,Sentient Toasters,APPLIED_TO,4
+Extraterrestrial Beings,Interpretative Dance,COMMUNICATES_THROUGH,4
+Extraterrestrial Beings,Pastry Baking,COMMUNICATES_THROUGH,4
+Cosmos,Butterfly Wings,REFLECTED_IN,4
+Graphite,Quantum Mechanics,IS_RELATED_TO,4
+Quantum Mechanics,Superposition,INCLUDES,4
+Quantum Mechanics,Entanglement,INCLUDES,4
+Superposition,Baking Of Croissants,INFLUENCES,4
+Entanglement,Baking Of Croissants,INFLUENCES,4
+Flaky Pastry Crusts,Sonnets Of Shakespeare,HAS_AFFINITY_FOR,4
+Sonnets Of Shakespeare,Sonnet 18,INCLUDES,4
+Sonnet 18,Beauty,EXPLORES,4
+Sonnet 18,Mortality,EXPLORES,4
+Graphite,Existential Implications,LINKED_TO,4
+Graphite,Aerodynamic Properties,HAS,4
+Aerodynamic Properties,Flight Patterns,INFLUENCES,4
+Flight Patterns,Migratory Birds,OBSERVED_IN,4
+Arctic Tern,Migratory Birds,IS_A,4
+Arctic Tern,Nest Building Materials,INCORPORATES,4
+Nest Building Materials,Structural Integrity,AFFECTS,4
+Graphite,Wind Turbine Blades,USED_IN,4
+Manufacturing Techniques,Egyptian Hieroglyphics,INSPIRED_BY,4
+Egyptian Hieroglyphics,Graphite,SYMBOLIC_REPRESENTATION,4
+Graphite,Phoenix,CONNECTED_TO,4
+Graphite,Mozart,AFFECTS,4
+Mozart,Graphite,AFFECTS,4
+Graphite,Fungus,AFFECTS,4
+Fungus,Kafka,AFFECTS,4
+Kafka,The Metamorphosis,CREATED,4
+Postmodern Philosophy,Graphite,EXPLORES,4
+Graphite,Human Condition,METAPHOR_FOR,4
+Graphite,Critics,SKEPTICAL_OF,4
+Graphite,Practical Applications,HAS,4
+Practical Applications,High-Performance Sports Equipment,INCLUDES,4
+High-Performance Sports Equipment,Tennis Rackets,EXAMPLE_OF,4
+High-Performance Sports Equipment,Golf Clubs,EXAMPLE_OF,4
+Tennis Rackets,Aerodynamic Properties,HAS,4
+Golf Clubs,Aerodynamic Properties,HAS,4
+Aerodynamic Properties,Graphite Particles,OPTIMIZED_THROUGH,4
+Ancient Japanese Calligraphy,Brushstrokes,EMPLOYS,4
+Brushstrokes,Fractal Patterns,EXHIBITS,4
+Fractal Patterns,Microstructure Of Graphite,OBSERVED_IN,4
+Microstructure Of Graphite,Chaos Theory,RELATED_TO,4
+Chaos Theory,Graphitic Carbon,APPLIED_TO,4
+Graphitic Carbon,Physical Properties,HAS,4
+Physical Properties,Abstract Concepts,LINKED_TO,4
+Fibonacci Sequence,Crystalline Structure,OBSERVED_IN,4
+Crystalline Structure,New Theory Of Graphitic Carbon,INCORPORATED_INTO,4
+New Theory Of Graphitic Carbon,Principles Of Physics,INTEGRATES,4
+New Theory Of Graphitic Carbon,Mathematics,INTEGRATES,4
+New Theory Of Graphitic Carbon,Scientific Research,LEADS_TO,4
+Graphite,Enigmatic Material,IS,4
+Street,Protest,LOCATION,5
+Noun - Noun Compound Interpretation,Computational Linguistics,IS_STUDIED_IN,5
+Noun - Noun Compound Interpretation,Machine Learning,IS_RELATED_TO,5
+Noun - Noun Compound Interpretation,Lexical Semantics,IS_RELATED_TO,5
+Noun - Noun Compound Interpretation,Distributional Semantics,IS_RELATED_TO,5
+Tl,Semantic Nlp Tasks,APPLIED_TO,5
+Mtl,Semantic Nlp Tasks,APPLIED_TO,5
+Mtl,Compound Interpretation,APPLIED_TO,5
+Multi - Task Learning,Generalization,ENHANCES,5
+Multi - Task Learning,Domain - Specific Details,UTILIZES,5
+Multi - Task Learning,Training Data,UTILIZES,5
+Multi - Task Learning,Regularization,SERVES_AS,5
+Multi - Task Learning,Infrequent Relations,PREDICTS,5
+Multi - Task Learning,Highly Skewed Dataset,APPLIED_TO,5
+Tl,Embedding Layer,APPLIED_TO,5
+Mtl,Embedding Layer,APPLIED_TO,5
+Tl,Accuracy,IMPROVES,5
+Mtl,Accuracy,IMPROVES,5
+Tl,F1 Scores,IMPROVES,5
+Mtl,F1 Scores,IMPROVES,5
+Single - Task Learning,Accuracy,COMPARED_TO,5
+Single - Task Learning,F1 Scores,COMPARED_TO,5
+Fares,Dataset,PROVIDER_OF,5
+Noun - Noun Compounds,Compound Relations,COMPOSED_OF,5
+Nearest Neighbor Classifiers,Machine Learning Models,USED_IN,5
+Kernel-Based Methods,Machine Learning Models,USED_IN,5
+Support Vector Machines,Machine Learning Models,USED_IN,5
+Maximum Entropy Models,Machine Learning Models,USED_IN,5
+Neural Networks,Machine Learning Models,USED_IN,5
+Tl,Machine Learning Models,USED_IN,5
+Mtl,Machine Learning Models,USED_IN,5
+Wisdom Of The Crowd,Accuracy Of Aggregated Crowd-Sourced Forecasts,ENHANCES,6
+Answering Platforms,Research Community,RESEARCHED_BY,6
+Large Groups,Individual Inputs,COMPOSED_OF,6
+Individual Inputs,Judgments,FORM,6
+Group Psychology,Judgments,INFLUENCES,6
+Persuasive Arguments,Judgments,INFLUENCES,6
+Judgments,Crowd Wisdom,COMPONENT,6
+Forecasts,Questions,RESPONDS_TO,6
+Forecasts,Prediction,CONTAINS,6
+Forecasts,Justification,HAS,6
+Justification,External Source,MAY_REFERENCE,6
+Justification,Prevailing Opinion,MAY_REFLECT,6
+Justification,Verifiable Facts,MAY_CONTAIN,6
+Calling A Question,Prediction,INVOLVES,6
+Prediction,Justification,SUPPORTED_BY,6
+Calling A Question,Daily,IMPLEMENTED_BY,6
+Calling A Question,Active,IMPLEMENTED_BY,6
+Prediction,Accuracy,AFFECTS,6
+Crowd,Forecast,MAKES,6
+Forecast,Accuracy,HAS,6
+Forecast,Justification,HAS,6
+Person,Language,USES,6
+This Paper,Neural Networks,DISCUSSES,7
+This Paper,Machine Learning Models,DISCUSSES,7
+This Paper,Input - Output Specifications,DISCUSSES,7
+Neural Networks,Safety - Critical Applications,USED_IN,7
+Machine Learning Models,Safety - Critical Applications,USED_IN,7
+Autonomous Vehicles,Safety - Critical Applications,EXAMPLE,7
+Aircraft Collision Avoidance,Safety - Critical Applications,EXAMPLE,7
+Satisability Modulo Theory ( Smt ) Solverreluplex,Neural Networks,USED_FOR_VERIFICATION,7
+Reluplex,Acas Xu,USED_FOR,7
+Abstraction Refinement Optimization,Acas Xu,APPLIED_TO,7
+Neural Network,Safety Property,ENFORCES,7
+Safe_Predictor,Input_Space_X,TAKES_INPUT_FROM,7
+Safe_Predictor,Output_Space_Y,PRODUCES_OUTPUT_TO,7
+Constraint_Pairs,Safe_Predictor,CONSTRAINS,7
+Σ,X,MAPS_TO,7
+C,I,IS_A_SUBSET_OF,7
+I,B,MAPS_TO,7
+O,B,IS_A_SUBSET_OF,7
+G,F,DEFINES,7
+W,F,INFLUENCES,7
+Relu Networks,Neural Restricted Isometryproperty (Neurips),IS_RELATED_TO,8
+Shallow Relu Networks,Neural Restricted Isometryproperty (Neurips),IS_A_TYPE_OF,8
+Covering Numbers,Neural Restricted Isometryproperty (Neurips),USED_IN_DETERMINING,8
+Sub - Gaussian Metric,Neural Restricted Isometryproperty (Neurips),USED_IN_DETERMINING,8
+Chaining Techniques,Neural Restricted Isometryproperty (Neurips),USED_IN_DETERMINING,8
+Empirical Risk,Neural Restricted Isometryproperty (Neurips),RELATED_TO,8
+Neural Restricted Isometryproperty (Neurips),Generalization Error,USED_TO_BOUND,8
+Supervised Machine Learning,Model Discovery,USED_IN,8
+Statistical Learning Theory,Model Limitations,QUANTIFIES,8
+Vc - Dimension,Generalization Error Bounds,INFLUENCES,8
+Rademacher Complexity,Generalization Error Bounds,INFLUENCES,8
+Generalization Error Bounds,Classification Problems,APPLICABLE_TO,8
+Generalization Error Bounds,Regression Problems,NOT_APPLICABLE_TO,8
+Neural Networks,Risk Surface,HAS,8
+Risk Surface,Generalization,INFLUENCES,8
+Shallow Relu Networks,Generalization Error Bounds,PROVIDES_BOUNDS_FOR,8
+Empirical Risk,Empirical Risk Minimizers,USED_FOR_MINIMIZATION,8
+Empirical Risk Minimizers,Generalization Error Bounds,CAN_PROVIDE_BOUNDS_FOR,8
+Stochastic Processes ' Chaining Theory,Empirical Risk Minimizers,PROVIDES_TOOLS_FOR_ANALYSIS,8
+This Paper,Shallow Relu Networks,DISCUSSES,8
+This Paper,Generalization Error Bounds,EXAMINES,8
+Existing Works,Compressed Sensing,APPLIES,8
+Existing Works,Generalization Error Bounds,BOUNDS,8
+This Paper,Chaining Theory,UTILIZES,8
+This Paper,Neural Restricted Isometry Property,DEFINES,8
+Relu,R,ACTIVATION,8
+Relu,W,INPUT,8
+Relu,B,INPUT,8
+Relu,Κ,INPUT,8
+Mlb - Youtube Dataset,Action Recognition,IS_USED_FOR,10
+High-Speed Cameras,Data,COLLECTS,10
+Radar,Data,COLLECTS,10
+Data,Public Domain,RESTRICTED_FROM,10
+Mlb-Youtube Dataset,Broadcast Baseball Videos,INCLUDES,10
+Mlb-Youtube Dataset,Activity Recognition,USED_FOR,10
+Mlb-Youtube Dataset,Activity Detection,USED_FOR,10
+Activity Recognition,Segmented Videos,APPLIED_TO,10
+Activity Detection,Continuous Video Streams,APPLIED_TO,10
+Computer Vision Research,Activity Recognition,FOCUS_OF,10
+Computer Vision Research,Activity Detection,FOCUS_OF,10
+Dense Trajectories,Computer Vision Research,USED_IN,10
+Convolutional Neural Networks (Cnns),Computer Vision Research,USED_IN,10
+Two-Stream Cnn Architectures,Convolutional Neural Networks (Cnns),INSTANCE_OF,10
+Spatial Rgb Frames,Two-Stream Cnn Architectures,USES,10
+Opticalflow Frames,Two-Stream Cnn Architectures,USES,10
+3D Xyt Convolutional Models,Convolutional Neural Networks (Cnns),INSTANCE_OF,10
+Kinetics,Convolutional Neural Networks (Cnns),SUPPORTED_BY,10
+Thum,Convolutional Neural Networks (Cnns),SUPPORTED_BY,10
+Os,Activitynet,RELATED_TO,10
+Os,Long Short - Term Memory Networks ( Lstms ),USED_IN,10
+Os,Max - Pooling Across Entire Videos,USED_IN,10
+Mlb - Youtube Dataset,Activity Recognition,USED_FOR,10
+Swing,Hit,CAN_BE,10
+Swing,Ball,CAN_BE,10
+Swing,Foul,CAN_BE,10
+Swing,Strike,CAN_BE,10
+Denoising Diffusion Probabilistic Models,Deep Generative Models,IS_A,11
+Diffusion Models,Deep Generative Models,IS_A,11
+Ddpms,Diffusion Models,IS_A,11
+Sgms,Diffusion Models,IS_A,11
+Mbacke Et Al. (2023),Denoising Diffusion Probabilistic Models,REFERENCES,11
+Ddpms,Scorefunction,APPROXIMATES,11
+Sgmsemploy,Scorefunction,APPROXIMATES,11
+Sgmsemploy,Scorefunction,MATCHING,11
+Scorefunction,Training Samples,GENERATES_FROM,11
+Training Samples,Langevin Dynamics,USED_IN,11
+Langevin Dynamics,Newsamples,GENERATES,11
+Real - World Distributions,Scorefunction,LACKS,11
+Noise Levels,Training Samples,ADDED_TO,11
+Neural Network,Scorefunction,LEARNS,11
+Ddpms,Brownian Motion,VIEWED_AS_DISCRETIZATION_OF,11
+Ddpms,Ornstein - Uhlenbeck Process,VIEWED_AS_DISCRETIZATION_OF,11
+Ddpms,Sgms,EQUIVALENT_TO,11
+Vae,Ddpms,METHODS_APPLIED_TO,11
+Wasserstein - Based Upper Bounds,Quantitative,DERIVED_FROM,11
+Simple Proofs,Wasserstein - Based Upper Bounds,CHARACTERISTIC_OF,11
+Data - Generating Distribution,Wasserstein - Based Upper Bounds,RELEVANT_TO,11
+Learned Score Function,Wasserstein - Based Upper Bounds,RELEVANT_TO,11
+Sde Toolkit,Wasserstein - Based Upper Bounds,NOT_REQUIRED_BY,11
+Sgms,Convergence Of Sgms,SUBJECT_OF,11
+Convergence Of Sgms,Upper Bounds,PROVIDES,11
+Upper Bounds,Kullback - Leibler ( Kl ) Divergence,RELATED_TO,11
+Upper Bounds,Total Variation ( Tv ) Distance,RELATED_TO,11
+Log - Sobolev Inequalities,Upper Bounds,ALTERNATIVE_TO,11
+Discrete - Time Processes,Continuous - Time Processes,CONTRASTS_WITH,11
+Diffusion Model,Data - Generating Distribution,LEARNS,11
+Data-Generating Distribution,Manifold Hypothesis,ASSUMED_TO_SATISFY,11
+Score Estimator,Wasserstein Distance,ESTIMATES,11
+Neural Network Optimization,Score Estimator,USES,11
+Optimistic Gradient Method (Ogda),Nonconvex - Nonconcave Min-Max Problems,SOLVES,12
+Extragradient Method (Eg),Nonconvex - Nonconcave Min-Max Problems,SOLVES,12
+Generative Adversarial Networks (Gans),Saddle Point Problems,EXAMPLE,12
+Adversarial Learning Frameworks,Saddle Point Problems,EXAMPLE,12
+Adversarial Example Games,Saddle Point Problems,EXAMPLE,12
+Actor-Critic Methods,Saddle Point Problems,EXAMPLE,12
+Weak Minty Solutions,Nonconvex - Nonconcave Min-Max Problems,CHARACTERISTIC,12
+Monotonicity,Weak Minty Solutions,GENERALIZATION,12
+Extragradient Method,Nonconvex - Nonconcave Min - Max Problems,SOLVES,12
+Nonconvex - Nonconcave Min - Max Problems,Weak Minty Solutions,HAS_SOLUTION_TYPE,12
+Assumption 1,Weak Minty Solutions,IS_CONDITION_FOR,12
+Operator Norm,Eg +,IS_A_TYPE_OF,12
+F,X,INPUT,12
+F,Y,INPUT,12
+X,"∇F(X,Y)",DERIVATIVE,12
+Y,"∇F(X,Y)",DERIVATIVE,12
+Ρ,"∇F(X,Y)",OPERATOR,12
+"∇F(X,Y)",L1,COMPARISON,12
+"∇F(X,Y)",L2,COMPARISON,12
+"∇F(X,Y)",Γ,COMPARISON,12
+Parkinson'S Disease,Gait Impairment,CAUSES,13
+Levodopa Therapy,Parkinson'S Disease,TREATS,13
+Levodopa Therapy,On State,INDUCES,13
+Levodopa Therapy,Off State,REDUCES,13
+On State,Gait Impairment,REDUCES,13
+Off State,Gait Impairment,INCREASES,13
+Received Signal Strength Indicator (Rssi),Indoor Localization,PROVIDES,13
+Accelerometer Data,Indoor Localization,PROVIDES,13
+Wearable Devices,Received Signal Strength Indicator (Rssi),MEASURES,13
+Wearable Devices,Accelerometer Data,MEASURES,13
+Smart Home,Wearable Devices,CONTAINS,13
+Transformer-Based Method,Indoor Localization,USES,13
+Transformer-Based Method,Received Signal Strength Indicator (Rssi),USES,13
+Transformer-Based Method,Accelerometer Data,USES,13
+Parkinson'S Disease,Motor Fluctuations,ASSOCIATED_WITH,13
+Parkinson'S Disease,Bradykinesia,MANIFESTS_THROUGH,13
+Parkinson'S Disease,Rigidity,MANIFESTS_THROUGH,13
+Parkinson'S Disease,Gait Impairment,MANIFESTS_THROUGH,13
+Levodopa,Motor Fluctuations,CAUSES,13
+Levodopa,Quality Of Life,AFFECTS,13
+Wearing Off,Medication Timing,LINKED_TO,13
+Wearing Off,Quality Of Life,NEGATIVELY_IMPACTS,13
+Pd,Motor Fluctuations,CAUSES,13
+Pd,Gait Parameters,CAUSES,13
+Pd,Freezing Of Gait,CAUSES,13
+Pd,Turning In Gait,CAUSES,13
+Location,Person,IS_LOCATED_IN,13
+Person,Social_Participation,PARTICIPATES_IN,13
+Social_Participation,Quality_Of_Life,AFFECTS,13
+Person,Urinary_Function,HAS,13
+Iot_Platform,Wearable_Device,USES,13
+Wearable_Device,Access_Point,COMMUNICATES_WITH,13
+Access_Point,Radio_Map,CREATES,13
+Wearable_Device,Activity,PERFORMS,13
+Activity,Kitchen,OCCURS_IN,13
+Collaborative Filtering,Popularity Bias,DEALSWITH,14
+Popularity,Popularity Bias,CONTRIBUTESTO,14
+Popularity Bias,Accuracy,IMPACTS,14
+Popularity Bias,User Preferences,DISTORTS,14
+Popularity Bias,Matthew Effect,AMPLIFIES,14
+Popularity Bias,Item Representations,AFFECTS,14
+Popularity,Item Representations,INFLUENCES,14
+Supervised Alignment,Item Representations,IMPROVES,14
+Contrastive Learning,Item Representations,ENHANCES,14
+Paac,Popularity Bias,REDUCES,14
+Collaborative Filtering,Recommender Systems,USED_IN,14
+Recommender Systems,Information Overload,MITIGATES,14
+Recommender Systems,User Preferences,LEARNS_FROM,14
+Recommender Systems,Item Attributes,LEARNS_FROM,14
+Recommender Systems,Training Phase,TRAINS_DURING,14
+Recommender Systems,Test Set,EVALUATES_ON,14
+Popularity Bias,Matthew Effect,WORSENS,14
+Popularity Bias,Representation Separation,CAUSES,14
+Unpopular Items,Representation Separation,AFFECTS,14
+Paac,Popularity Bias,ADDRESSES,14
+Alignment,Paac,COMPONENT,14
+Contrast,Paac,COMPONENT,14
+Supervised Alignment Module,Paac,COMPONENT,14
+Re-Weighting System,Paac,COMPONENT,14
+Popularity Bias,Representation Space,AFFECTS,14
+Interactions,Representations,INFLUENCES,14
+Supervisory Signals,Representations,BASED_ON,14
+Users,Interactions,PARTICIPATES_IN,14
+Items,Interactions,PARTICIPATES_IN,14
+Unpopular Items,Overfitting,PRONE_TO,14
+User,Popular Items,INTERACTS_WITH,14
+User,Unpopular Items,INTERACTS_WITH,14
