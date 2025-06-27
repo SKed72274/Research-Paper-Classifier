@@ -33,7 +33,7 @@ This project proposes a novel framework to **automatically assess research paper
 
 ## 📁 Dataset
 
-- Custom dataset of **600 papers** (300 publishable, 300 non-publishable).
+- Custom dataset of **600 papers** (300 publishable,300 non-publishable).
 - Publishable papers sourced from conference proceedings.
 - Non-publishable papers sourced from OpenReview, Rejecta Mathematica, and IEEE Xplore.
 - Embeddings stored in Pathway’s `VectorStore`.
