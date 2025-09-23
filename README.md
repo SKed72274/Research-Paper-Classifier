@@ -1,14 +1,14 @@
-# 📄 Research Paper Publishability Assessment Framework
+# Research Paper Publishability Assessment Framework
 
-## 🚀 Overview
+## Overview
 
 This project proposes a novel framework to **automatically assess research paper quality** and classify them into target conferences using cutting-edge NLP and graph-based methods. The solution leverages **Knowledge Graphs**, **SciBERT**, **Vector Embeddings**, and **LLMs** to ensure transparency, accuracy, and scalability in peer-review automation.
 
 ---
 
-## 🧠 Core Components
+## Core Components
 
-### 🧩 Task 1: Publishability Classification
+### Task 1: Publishability Classification
 
 - **Goal:** Classify papers as `Publishable` or `Non-Publishable`.
 - **Highlights:**
@@ -19,7 +19,7 @@ This project proposes a novel framework to **automatically assess research paper
   - **Leiden Clustering** for coherence visualization.
   - Classification threshold based on average top 5 PageRank scores.
 
-### 🧭 Task 2: Conference Classification
+### Task 2: Conference Classification
 
 - **Goal:** Classify papers into conferences like NeurIPS, CVPR, EMNLP, KDD, and TMLR.
 - **Highlights:**
@@ -31,7 +31,7 @@ This project proposes a novel framework to **automatically assess research paper
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 - Custom dataset of **600 papers** (300 publishable,300 non-publishable).
 - Publishable papers sourced from conference proceedings.
@@ -40,7 +40,7 @@ This project proposes a novel framework to **automatically assess research paper
 
 ---
 
-## 📈 Results
+## Results
 
 | Task | Accuracy |
 |------|----------|
@@ -49,7 +49,7 @@ This project proposes a novel framework to **automatically assess research paper
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Languages**: Python
 - **Libraries**: LangChain, Pathway, SciBERT, Neo4j, pdfplumber, FLAN-T5
@@ -58,7 +58,7 @@ This project proposes a novel framework to **automatically assess research paper
 
 ---
 
-## 📚 References
+## References
 
 - SciBERT: https://arxiv.org/abs/1903.10676  
 - LangChain: https://www.langchain.com  
@@ -69,7 +69,7 @@ This project proposes a novel framework to **automatically assess research paper
 
 ---
 
-## 🤝 Future Work
+## Future Work
 
 - Expand to broader scientific domains.
 - Improve generalization across unknown paper formats.
